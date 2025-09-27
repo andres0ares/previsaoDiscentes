@@ -1,0 +1,574 @@
+{
+    "codigo": "0152006",
+    "curriculo": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+    "ano": 2006,
+    "periodo": 1,
+    "carga_por_semestre_max": 285,
+    "carga_por_semestre_min": 705,
+    "disciplinas": [
+        {
+            "codigo": "1402287",
+            "nome": "ESTAGIO EXTRA CURRICULAR",
+            "carga_horaria": "15CH",
+            "periodo": 0
+        },
+        {
+            "codigo": "1703238",
+            "nome": "POLUIÇÃO AMBIENTAL",
+            "carga_horaria": "60CH",
+            "periodo": 0
+        },
+        {
+            "codigo": "GDECV0105",
+            "nome": "DESEMPENHO DAS EDIFICAÇÕES",
+            "carga_horaria": "60CH",
+            "periodo": 0
+        },
+        {
+            "codigo": "GDLS0024",
+            "nome": "LIBRAS",
+            "carga_horaria": "60CH",
+            "periodo": 0
+        },
+        {
+            "codigo": "1103118",
+            "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+            "carga_horaria": "60CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1103177",
+            "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+            "carga_horaria": "60CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1105161",
+            "nome": "QUÍMICA FUNDAMENTAL",
+            "carga_horaria": "60CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1201126",
+            "nome": "ECONOMIA I",
+            "carga_horaria": "60CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1405183",
+            "nome": "PSICOLOGIA DO TRABALHO",
+            "carga_horaria": "75CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1704228",
+            "nome": "DESENHO BÁSICO PARA ENGENHARIA CIVIL",
+            "carga_horaria": "60CH",
+            "periodo": 1
+        },
+        {
+            "codigo": "1101157",
+            "nome": "FÍSICA GERAL I",
+            "carga_horaria": "60CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1103178",
+            "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+            "carga_horaria": "60CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1103179",
+            "nome": "INTRODUÇÃO À ÁLGEBRA LINEAR",
+            "carga_horaria": "60CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1703203",
+            "nome": "GEOLOGIA APLICADA À ENGENHARIA",
+            "carga_horaria": "60CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1703228",
+            "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+            "carga_horaria": "45CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1704227",
+            "nome": "DESENHO ARQUITETÔNICO",
+            "carga_horaria": "60CH",
+            "periodo": 2
+        },
+        {
+            "codigo": "1101163",
+            "nome": "FÍSICA GERAL II",
+            "carga_horaria": "60CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1101165",
+            "nome": "FÍSICA EXPERIMENTAL I",
+            "carga_horaria": "30CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1103232",
+            "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
+            "carga_horaria": "60CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1107136",
+            "nome": "INTRODUÇÃO A PROGRAMAÇÃO",
+            "carga_horaria": "60CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1108100",
+            "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
+            "carga_horaria": "60CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1703134",
+            "nome": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+            "carga_horaria": "60CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1704229",
+            "nome": "ELEMENTOS DE ARQUITETURA",
+            "carga_horaria": "45CH",
+            "periodo": 3
+        },
+        {
+            "codigo": "1403747",
+            "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+            "carga_horaria": "60CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1101164",
+            "nome": "FÍSICA GERAL III",
+            "carga_horaria": "60CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1103180",
+            "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+            "carga_horaria": "60CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1703103",
+            "nome": "CIÊNCIAS DO AMBIENTE",
+            "carga_horaria": "45CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1703184",
+            "nome": "ANÁLISE DE SISTEMAS DE TRANSPORTE",
+            "carga_horaria": "60CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1703205",
+            "nome": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+            "carga_horaria": "60CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1703208",
+            "nome": "MECÂNICA GERAL E ISOSTÁTICA",
+            "carga_horaria": "90CH",
+            "periodo": 4
+        },
+        {
+            "codigo": "1101120",
+            "nome": "FÍSICA GERAL IV",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703202",
+            "nome": "GESTÃO DE RESÍDUOS SÓLIDOS URBANOS",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703215",
+            "nome": "SANEAMENTO AMBIENTAL",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703220",
+            "nome": "TÓPICOS EM ENGENHARIA III",
+            "carga_horaria": "45CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703223",
+            "nome": "TRANSPORTE AÉREO",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "GDFIS0114",
+            "nome": "FÍSICA GERAL IV",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1101166",
+            "nome": "FÍSICA EXPERIMENTAL II",
+            "carga_horaria": "30CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703139",
+            "nome": "MECÂNICA DOS FLUIDOS",
+            "carga_horaria": "90CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703206",
+            "nome": "MECÂNICA DOS SOLOS I",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703213",
+            "nome": "RESISTÊNCIA DOS MATERIAIS I",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703221",
+            "nome": "TOPOGRAFIA",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1705109",
+            "nome": "SEGURANÇA INDUSTRIAL",
+            "carga_horaria": "45CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "GDCOC0072",
+            "nome": "CALCULO NUMERICO",
+            "carga_horaria": "60CH",
+            "periodo": 5
+        },
+        {
+            "codigo": "1703190",
+            "nome": "ENGENHARIA DE TRÁFEGO",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703201",
+            "nome": "GEOPROCESSAMENTO",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703226",
+            "nome": "TRANSPORTE PÚBLICO URBANO",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703118",
+            "nome": "ESTRADAS E TRANSPORTES I",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703127",
+            "nome": "HIDRÁULICA",
+            "carga_horaria": "75CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703128",
+            "nome": "HIDROLOGIA",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703207",
+            "nome": "MECÂNICA DOS SOLOS II",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703214",
+            "nome": "RESISTÊNCIA DOS MATERIAIS II",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1707010",
+            "nome": "ELETROTÉCNICA",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "GDLPL0063",
+            "nome": "PORTUGUÊS INSTRUMENTAL",
+            "carga_horaria": "60CH",
+            "periodo": 6
+        },
+        {
+            "codigo": "1703102",
+            "nome": "BARRAGENS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703132",
+            "nome": "IRRIGAÇÃO E DRENAGEM",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703153",
+            "nome": "RECURSOS HÍDRICOS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703192",
+            "nome": "ESTABILIDADE DE TALUDES",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703200",
+            "nome": "ESTRUTURAS HIDRÁULICAS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703225",
+            "nome": "TRANSPORTE HIDROVIÁRIO",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "GDECV0102",
+            "nome": "DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "GDECV0104",
+            "nome": "USO RACIONAL DA ÁGUA EM EDIFICAÇÕES",
+            "carga_horaria": "30CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1401161",
+            "nome": "SOCIOLOGIA DO TRABALHO",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703119",
+            "nome": "ESTRADAS E TRANSPORTES II",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703130",
+            "nome": "INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703185",
+            "nome": "ANÁLISE ESTRUTURAL I",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703196",
+            "nome": "ESTRUTURA DE CONCRETO ARMADO I",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1707005",
+            "nome": "INSTALAÇÕES ELÉTRICAS E PREDIAIS",
+            "carga_horaria": "60CH",
+            "periodo": 7
+        },
+        {
+            "codigo": "1703199",
+            "nome": "ESTRUTURAS DE MADEIRA",
+            "carga_horaria": "30CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703186",
+            "nome": "ANÁLISE ESTRUTURAL II",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703188",
+            "nome": "CONSTRUÇÃO DE EDIFÍCIOS I",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703189",
+            "nome": "CONSTRUÇÃO DE EDIFÍCIOS II",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703195",
+            "nome": "ESTRUTURAS DE AÇO",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703197",
+            "nome": "ESTRUTURA DE CONCRETO ARMADO II",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703211",
+            "nome": "PESQUISA APLICADA À ENGENHARIA",
+            "carga_horaria": "45CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703216",
+            "nome": "SISTEMA DE ABASTECIMENTO DE ÁGUA",
+            "carga_horaria": "60CH",
+            "periodo": 8
+        },
+        {
+            "codigo": "1703121",
+            "nome": "ESTRUTURAS DE CONCRETO PROTENDIDO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703147",
+            "nome": "PONTES",
+            "carga_horaria": "75CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703170",
+            "nome": "TRATAMENTO DE ÁGUA E ESGOTO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703183",
+            "nome": "ALVENARIA ESTRUTURAL",
+            "carga_horaria": "45CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703187",
+            "nome": "AVALIAÇÃO E PERÍCIAS DE ENGENHARIA",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703191",
+            "nome": "ENGENHARIA LEGAL",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703198",
+            "nome": "ESTRUTURA DE CONCRETO ARMADO III",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703204",
+            "nome": "INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703210",
+            "nome": "PATOLOGIA E REABILITAÇÃO DAS CONSTRUÇÕES",
+            "carga_horaria": "45CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703212",
+            "nome": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703219",
+            "nome": "TÓPICOS EM ENGENHARIA II",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703224",
+            "nome": "TRANSPORTE FERROVIÁRIO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "GDECV0106",
+            "nome": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703182",
+            "nome": "ADMINISTRAÇÃO DE EMPRESAS DE CONSTRUÇÃO CIVIL",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703194",
+            "nome": "PAVIMENTAÇÃO",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703217",
+            "nome": "SISTEMAS DE ESGOTO E DRENAGEM",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "1703218",
+            "nome": "TÓPICOS EM ENGENHARIA I",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "GDECV0110",
+            "nome": "ESTAGIO SUPERVISIONADO (ENGENHARIA CIVIL)",
+            "carga_horaria": "300CH",
+            "periodo": 9
+        },
+        {
+            "codigo": "GDECV0111",
+            "nome": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA CIVIL)",
+            "carga_horaria": "60CH",
+            "periodo": 9
+        }
+    ]
+}
