@@ -6,7 +6,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 
-
 const diretorio = path.join(__dirname, '../Dados/ultimasAlocacoes');
 const saida = path.join(__dirname, '../Dados/turmasAlocadas.json');
 const saida2 = path.join(__dirname, '../Dados/disciplinasAlocadas.json');
