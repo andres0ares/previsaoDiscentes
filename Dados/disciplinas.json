@@ -1,0 +1,6411 @@
+{
+    "1101117": {
+        "codigo": "1101117",
+        "disciplina": "FÍSICA GERAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101118": {
+        "codigo": "1101118",
+        "disciplina": "FÍSICA GERAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101119": {
+        "codigo": "1101119",
+        "disciplina": "FÍSICA GERAL III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101120": {
+        "codigo": "1101120",
+        "disciplina": "FÍSICA GERAL IV",
+        "Optativa": [
+            1626738,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1101157": {
+        "codigo": "1101157",
+        "disciplina": "FÍSICA GERAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101163": {
+        "codigo": "1101163",
+        "disciplina": "FÍSICA GERAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101164": {
+        "codigo": "1101164",
+        "disciplina": "FÍSICA GERAL III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101165": {
+        "codigo": "1101165",
+        "disciplina": "FÍSICA EXPERIMENTAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1101166": {
+        "codigo": "1101166",
+        "disciplina": "FÍSICA EXPERIMENTAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626809,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1102116": {
+        "codigo": "1102116",
+        "disciplina": "FUNDAMENTOS DE GEOLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1102240": {
+        "codigo": "1102240",
+        "disciplina": "FUNDAMENTOS DE CLIMATOLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1102241": {
+        "codigo": "1102241",
+        "disciplina": "AUDITORIA AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1102242": {
+        "codigo": "1102242",
+        "disciplina": "CARTOGRAFIA AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1102243": {
+        "codigo": "1102243",
+        "disciplina": "GEOQUÍMICA AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1102244": {
+        "codigo": "1102244",
+        "disciplina": "PERÍCIA AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1102245": {
+        "codigo": "1102245",
+        "disciplina": "RISCO GEOLÓGICO",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1102246": {
+        "codigo": "1102246",
+        "disciplina": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103104": {
+        "codigo": "1103104",
+        "disciplina": "ÁLGEBRA LINEAR GEOMETRIA ANALÍTICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103112": {
+        "codigo": "1103112",
+        "disciplina": "CALCULO DIFERENCIAL E INTEGRAL III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103114": {
+        "codigo": "1103114",
+        "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103115": {
+        "codigo": "1103115",
+        "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103118": {
+        "codigo": "1103118",
+        "disciplina": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103141": {
+        "codigo": "1103141",
+        "disciplina": "INTRODUÇÃO À ÁLGEBRA LINEAR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103177": {
+        "codigo": "1103177",
+        "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103178": {
+        "codigo": "1103178",
+        "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103179": {
+        "codigo": "1103179",
+        "disciplina": "INTRODUÇÃO À ÁLGEBRA LINEAR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103180": {
+        "codigo": "1103180",
+        "disciplina": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1103232": {
+        "codigo": "1103232",
+        "disciplina": "CÁLCULO DIFERENCIAL E INTEGRAL III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1104232": {
+        "codigo": "1104232",
+        "disciplina": "FUNDAMENTOS DE BIOLOGIA CELULAR E MOLECULAR APLICADA A ENGENHARIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105128": {
+        "codigo": "1105128",
+        "disciplina": "QUIMICA GERAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105158": {
+        "codigo": "1105158",
+        "disciplina": "TOPICOS SELEC EM QUIMICAESPECTROSC",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626647
+        ]
+    },
+    "1105161": {
+        "codigo": "1105161",
+        "disciplina": "QUÍMICA FUNDAMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105162": {
+        "codigo": "1105162",
+        "disciplina": "QUIMICA BASICA  EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804,
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105163": {
+        "codigo": "1105163",
+        "disciplina": "QUIMICA BASICA  ESTRUTURA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804,
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105164": {
+        "codigo": "1105164",
+        "disciplina": "QUIMICA BASICA  TRANSFORMACOES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804,
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105166": {
+        "codigo": "1105166",
+        "disciplina": "QUÍMICA ANALÍTICA CLÁSSICA",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [
+            1626740,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105167": {
+        "codigo": "1105167",
+        "disciplina": "QUÍMICA ORGÂNICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626740,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105168": {
+        "codigo": "1105168",
+        "disciplina": "QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626740,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105169": {
+        "codigo": "1105169",
+        "disciplina": "QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105171": {
+        "codigo": "1105171",
+        "disciplina": "QUÍMICA ORGÂNIGA EXPERIMENTAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626740,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105172": {
+        "codigo": "1105172",
+        "disciplina": "QUÍMICA ORGÂNICA II",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [
+            1626647,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105173": {
+        "codigo": "1105173",
+        "disciplina": "TERMODINAMICA QUIMICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105174": {
+        "codigo": "1105174",
+        "disciplina": "QUIMICA AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105177": {
+        "codigo": "1105177",
+        "disciplina": "TERMODINAMICA QUIMICA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105179": {
+        "codigo": "1105179",
+        "disciplina": "QUÍMICA ORGÂNICA EXPERIMENTAL II",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [
+            1626647,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105181": {
+        "codigo": "1105181",
+        "disciplina": "METODOS CROMATOGRAFICOS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1105182": {
+        "codigo": "1105182",
+        "disciplina": "CINETICA QUIMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105184": {
+        "codigo": "1105184",
+        "disciplina": "MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1105185": {
+        "codigo": "1105185",
+        "disciplina": "FISICOQUIMICA EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105193": {
+        "codigo": "1105193",
+        "disciplina": "COMPUTACAO PARA QUIMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105204": {
+        "codigo": "1105204",
+        "disciplina": "INTRODUCAO AOS METODOS INSTRUMENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105205": {
+        "codigo": "1105205",
+        "disciplina": "INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105218": {
+        "codigo": "1105218",
+        "disciplina": "FUNDAMENTOS DE FISICOQUIMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105219": {
+        "codigo": "1105219",
+        "disciplina": "QUIMICA GERAL E INORGÂNICA EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105220": {
+        "codigo": "1105220",
+        "disciplina": "QUIMICA GERAL E INORGANICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1105222": {
+        "codigo": "1105222",
+        "disciplina": "FUNDAMENTO DA FÍSICO-QUÍMICA EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106129": {
+        "codigo": "1106129",
+        "disciplina": "OCEANOGRAFIA GERAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106134": {
+        "codigo": "1106134",
+        "disciplina": "TEORIA ECOLÓGICA E ANÁLISE AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106161": {
+        "codigo": "1106161",
+        "disciplina": "BASES DA EDUCAÇÃO AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106181": {
+        "codigo": "1106181",
+        "disciplina": "TÉCNICAS DE CAMPO APLICADA À BOTÂNICA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106185": {
+        "codigo": "1106185",
+        "disciplina": "DIVERSIDADE E CONSERVACAO DA FLORA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106207": {
+        "codigo": "1106207",
+        "disciplina": "GESTÃO DE RECURSOS NATURAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106215": {
+        "codigo": "1106215",
+        "disciplina": "ESTUDOS DE IMPACTO AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106222": {
+        "codigo": "1106222",
+        "disciplina": "BIOLOGIA GERAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106230": {
+        "codigo": "1106230",
+        "disciplina": "ECOLOGIA APLICADA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106243": {
+        "codigo": "1106243",
+        "disciplina": "BIOLOGIA VEGETAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106244": {
+        "codigo": "1106244",
+        "disciplina": "DIVERSIDADE E CONSERV DA FAUNA BRAS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106246": {
+        "codigo": "1106246",
+        "disciplina": "EST COMPARATIVO DA FLORA NORDESTINA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106247": {
+        "codigo": "1106247",
+        "disciplina": "FITOGEOGRAFIA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106248": {
+        "codigo": "1106248",
+        "disciplina": "TEORIA ECOL E ANALISE AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106249": {
+        "codigo": "1106249",
+        "disciplina": "ZOOLOGIA GERAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106250": {
+        "codigo": "1106250",
+        "disciplina": "ECOLOGIA MICROBIANA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106251": {
+        "codigo": "1106251",
+        "disciplina": "FITOSSOCIOLOGIA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1106252": {
+        "codigo": "1106252",
+        "disciplina": "RECUPERAÇÃO DE ÁREAS DEGRADADAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106253": {
+        "codigo": "1106253",
+        "disciplina": "ECOSSISTEMAS AQUÁTICOS E TERRESTRES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1106254": {
+        "codigo": "1106254",
+        "disciplina": "ECOLOGIA BÁSICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1107135": {
+        "codigo": "1107135",
+        "disciplina": "INICIACAO A COMPUTACAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1107136": {
+        "codigo": "1107136",
+        "disciplina": "INTRODUÇÃO A PROGRAMAÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1107174": {
+        "codigo": "1107174",
+        "disciplina": "INICIACAO A COMPUTACAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1108100": {
+        "codigo": "1108100",
+        "disciplina": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1108124": {
+        "codigo": "1108124",
+        "disciplina": "MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1108180": {
+        "codigo": "1108180",
+        "disciplina": "MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1201126": {
+        "codigo": "1201126",
+        "disciplina": "ECONOMIA I",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626804,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1201153": {
+        "codigo": "1201153",
+        "disciplina": "INTRODUCAO A ECONOMIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1201176": {
+        "codigo": "1201176",
+        "disciplina": "ECONOMIA DA PRODUCAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1201294": {
+        "codigo": "1201294",
+        "disciplina": "ECONOMIA AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1202142": {
+        "codigo": "1202142",
+        "disciplina": "CONTABILIDADE GERENCIAL",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1202162": {
+        "codigo": "1202162",
+        "disciplina": "ORCAMENTO EMPRESARIAL",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1202173": {
+        "codigo": "1202173",
+        "disciplina": "ADMINISTRACAO FINANCEIRA ENGENHARIA",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1204115": {
+        "codigo": "1204115",
+        "disciplina": "ADMINISTRAÇÃO DE EMPRESAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1204172": {
+        "codigo": "1204172",
+        "disciplina": "ADMINISTRAÇÃO PARA ENGENHARIA",
+        "Optativa": [
+            1626849
+        ],
+        "Obrigatória": [
+            1626741,
+            1626804,
+            1626806,
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1204174": {
+        "codigo": "1204174",
+        "disciplina": "MARKETING",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1204175": {
+        "codigo": "1204175",
+        "disciplina": "ADM ESTRATEGICA",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1204181": {
+        "codigo": "1204181",
+        "disciplina": "ADMINISTRACAO FINANCEIRA ADM",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1205003": {
+        "codigo": "1205003",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1401134": {
+        "codigo": "1401134",
+        "disciplina": "INTRODUÇÃO À SOCIOLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1401159": {
+        "codigo": "1401159",
+        "disciplina": "SOCIOLOGIA DO DESENVOLVIMENTO",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1401161": {
+        "codigo": "1401161",
+        "disciplina": "SOCIOLOGIA DO TRABALHO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626741,
+            1626804,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1401169": {
+        "codigo": "1401169",
+        "disciplina": "SOCIOLOGIA URBANA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1401198": {
+        "codigo": "1401198",
+        "disciplina": "MÉTODOS E TÉCNICAS DA PESQUISA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1401313": {
+        "codigo": "1401313",
+        "disciplina": "SOCIOLOGIA AMBIENTAL APLICADA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1401349": {
+        "codigo": "1401349",
+        "disciplina": "SOCIOLOGIA URBANA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1402287": {
+        "codigo": "1402287",
+        "disciplina": "ESTAGIO EXTRA CURRICULAR",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1403119": {
+        "codigo": "1403119",
+        "disciplina": "LINGUA PORTUGUESA I",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1403120": {
+        "codigo": "1403120",
+        "disciplina": "LÍNGUA PORTUGUESA I",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1403747": {
+        "codigo": "1403747",
+        "disciplina": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
+        "Optativa": [
+            1626647,
+            1626736,
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1404128": {
+        "codigo": "1404128",
+        "disciplina": "LINGUA FRANCESA I",
+        "Optativa": [
+            1626741,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1404138": {
+        "codigo": "1404138",
+        "disciplina": "LINGUA INGLESA I",
+        "Optativa": [
+            1626740,
+            1626741
+        ],
+        "Obrigatória": [
+            1626804,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1404139": {
+        "codigo": "1404139",
+        "disciplina": "LINGUA INGLESA I",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1404325": {
+        "codigo": "1404325",
+        "disciplina": "LÍNGUA INGLESA INSTRUMENTAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1405183": {
+        "codigo": "1405183",
+        "disciplina": "PSICOLOGIA DO TRABALHO",
+        "Optativa": [
+            1626647,
+            1626740
+        ],
+        "Obrigatória": [
+            1626738,
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1405197": {
+        "codigo": "1405197",
+        "disciplina": "ESTAGIO EXTRACURRICULAR",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1405212": {
+        "codigo": "1405212",
+        "disciplina": "PSICOLOGIA DO TRABALHO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1406238": {
+        "codigo": "1406238",
+        "disciplina": "RELAÇÕES PÚBLICAS E HUMANA",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1501206": {
+        "codigo": "1501206",
+        "disciplina": "DIREITO AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1609247": {
+        "codigo": "1609247",
+        "disciplina": "EDUCAÇÃO FÍSICA",
+        "Optativa": [
+            1626741,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1613126": {
+        "codigo": "1613126",
+        "disciplina": "SAUDE AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701109": {
+        "codigo": "1701109",
+        "disciplina": "ELEMENTOS DE MÁQUINAS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701130": {
+        "codigo": "1701130",
+        "disciplina": "MANUTENÇÃO INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701141": {
+        "codigo": "1701141",
+        "disciplina": "MECÂNICA APLICADA TECNOLOGIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701142": {
+        "codigo": "1701142",
+        "disciplina": "MECANICA GERAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701146": {
+        "codigo": "1701146",
+        "disciplina": "OFICINA MECÂNICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701153": {
+        "codigo": "1701153",
+        "disciplina": "SISTEMAS TERMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701156": {
+        "codigo": "1701156",
+        "disciplina": "TECNOLOGIA MECANICA II",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701159": {
+        "codigo": "1701159",
+        "disciplina": "TERMODINÂMICA APLICADA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701162": {
+        "codigo": "1701162",
+        "disciplina": "TRANSFERÊNCIA DE CALOR E MASSA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701166": {
+        "codigo": "1701166",
+        "disciplina": "MATERIAIS DE CONSTRUCAO MECANICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701167": {
+        "codigo": "1701167",
+        "disciplina": "CINEMATICA E DINAMICA DAS MAQUINAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701168": {
+        "codigo": "1701168",
+        "disciplina": "ELEMENTOS DE MAQUINAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701169": {
+        "codigo": "1701169",
+        "disciplina": "CONFORTO TERMICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701170": {
+        "codigo": "1701170",
+        "disciplina": "PROCESSOS METALURGICOS DE FABRICACAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701171": {
+        "codigo": "1701171",
+        "disciplina": "USINAGEM DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701172": {
+        "codigo": "1701172",
+        "disciplina": "SISTEMAS FLUIDOMECANICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701173": {
+        "codigo": "1701173",
+        "disciplina": "TOPICOS ESPECIAIS EM ENGENHARIA MECANICA",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626741,
+            1626866
+        ]
+    },
+    "1701174": {
+        "codigo": "1701174",
+        "disciplina": "INTRODUCAO A ENGENHARIA DE FABRICACAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701175": {
+        "codigo": "1701175",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701176": {
+        "codigo": "1701176",
+        "disciplina": "DESENHO DE MÁQUINAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701177": {
+        "codigo": "1701177",
+        "disciplina": "OFICINA MECÂNICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701178": {
+        "codigo": "1701178",
+        "disciplina": "DESENHO DE MÁQUINAS ASSISTIDO POR COMPUTADOR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701179": {
+        "codigo": "1701179",
+        "disciplina": "MECÂNICA DOS FLUIDOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701180": {
+        "codigo": "1701180",
+        "disciplina": "MECÂNICA DOS SÓLIDOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701181": {
+        "codigo": "1701181",
+        "disciplina": "MECÂNICA DOS SÓLIDOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701182": {
+        "codigo": "1701182",
+        "disciplina": "MECÂNICA DOS SÓLIDOS III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701183": {
+        "codigo": "1701183",
+        "disciplina": "ESTÁGIO SUPERVISIONADO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701184": {
+        "codigo": "1701184",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701185": {
+        "codigo": "1701185",
+        "disciplina": "MÉTODOS COMPUTACIONAIS APLICADOS À ENGENHARIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701186": {
+        "codigo": "1701186",
+        "disciplina": "MATERIAIS DE CONSTRUÇÃO MECÂNICA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701187": {
+        "codigo": "1701187",
+        "disciplina": "TEORIA DE CONTROLE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701190": {
+        "codigo": "1701190",
+        "disciplina": "INSTRUMENTAÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701191": {
+        "codigo": "1701191",
+        "disciplina": "SISTEMAS FLUIDOMECÂNICOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701193": {
+        "codigo": "1701193",
+        "disciplina": "CINEMÁTICA E DINÂMICA DE MECANISMOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701194": {
+        "codigo": "1701194",
+        "disciplina": "VIBRAÇÕES DE SISTEMAS MECÂNICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701195": {
+        "codigo": "1701195",
+        "disciplina": "CONFORMAÇÃO PLÁSTICA DOS METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701196": {
+        "codigo": "1701196",
+        "disciplina": "FUNDIÇÃO E SOLDAGEM DOS METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701197": {
+        "codigo": "1701197",
+        "disciplina": "USINAGEM DOS METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701198": {
+        "codigo": "1701198",
+        "disciplina": "METROLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701199": {
+        "codigo": "1701199",
+        "disciplina": "MÁQUINAS TÉRMICAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701200": {
+        "codigo": "1701200",
+        "disciplina": "GERAÇÃO E DISTRIBUIÇÃO DE VAPOR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701201": {
+        "codigo": "1701201",
+        "disciplina": "CONDICIONAMENTO DE AR, VENTILAÇÃO E REFRIGERAÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701202": {
+        "codigo": "1701202",
+        "disciplina": "TERMODINÂMICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701203": {
+        "codigo": "1701203",
+        "disciplina": "TERMODINÂMICA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701204": {
+        "codigo": "1701204",
+        "disciplina": "MÁQUINAS FERRAMENTAS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701205": {
+        "codigo": "1701205",
+        "disciplina": "SELEÇÃO E USO DE MATERIAIS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701206": {
+        "codigo": "1701206",
+        "disciplina": "NOVOS MATERIAIS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701207": {
+        "codigo": "1701207",
+        "disciplina": "CORROSÃO E PROTEÇÃO DOS MATERIAIS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701208": {
+        "codigo": "1701208",
+        "disciplina": "ROBÓTICA",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701209": {
+        "codigo": "1701209",
+        "disciplina": "CONTROLE DE VIBRAÇÃO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701210": {
+        "codigo": "1701210",
+        "disciplina": "CONTROLE DE ROBÔS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701211": {
+        "codigo": "1701211",
+        "disciplina": "CONTROLE DE PROCESSOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701213": {
+        "codigo": "1701213",
+        "disciplina": "SISTEMAS MECÂNICOS DE TRANSPORTE",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701214": {
+        "codigo": "1701214",
+        "disciplina": "PROJETO EM MECÂNICA DE PRECISÃO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701215": {
+        "codigo": "1701215",
+        "disciplina": "SISTEMAS CAE/CAD/CAM",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701216": {
+        "codigo": "1701216",
+        "disciplina": "ANÁLISE MATRICIAL E MODELAGEM DE ESTRUTURAS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701217": {
+        "codigo": "1701217",
+        "disciplina": "EXTENSOMETRIA",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701218": {
+        "codigo": "1701218",
+        "disciplina": "CONTROLE DE RUÍDO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701219": {
+        "codigo": "1701219",
+        "disciplina": "PROCESSOS E SISTEMAS DE COMBUSTÃO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701220": {
+        "codigo": "1701220",
+        "disciplina": "PROJETO DE SISTEMAS TERMOHIDRÁULICOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701221": {
+        "codigo": "1701221",
+        "disciplina": "MODELAGEM E SIMULAÇÃO DE SISTEMAS TERMO-FLUÍDOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701222": {
+        "codigo": "1701222",
+        "disciplina": "PROJETO DE REFRIGERAÇÃO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701223": {
+        "codigo": "1701223",
+        "disciplina": "SISTEMAS ENERGÉTICOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701224": {
+        "codigo": "1701224",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626866
+        ]
+    },
+    "1701225": {
+        "codigo": "1701225",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626866
+        ]
+    },
+    "1701227": {
+        "codigo": "1701227",
+        "disciplina": "PROCESSAMENTO DE MATERIAIS PARTICULADOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701453": {
+        "codigo": "1701453",
+        "disciplina": "INTRODUÇÃO A CIÊNCIA E TECNOLOGIA DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1701454": {
+        "codigo": "1701454",
+        "disciplina": "SISTEMAS ENERGÉTICOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1701455": {
+        "codigo": "1701455",
+        "disciplina": "PROJETOS DE SISTEMAS MECÂNICOS",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702116": {
+        "codigo": "1702116",
+        "disciplina": "FUNDAMENTOS DE NUTRICAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702150": {
+        "codigo": "1702150",
+        "disciplina": "ESTAGIO EXTRA CURRICULAR",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702154": {
+        "codigo": "1702154",
+        "disciplina": "ENGENHARIA DE ALIMENTOS NA SOCIEDADE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702158": {
+        "codigo": "1702158",
+        "disciplina": "QUÍMICA DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702159": {
+        "codigo": "1702159",
+        "disciplina": "QUÍMICA DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702160": {
+        "codigo": "1702160",
+        "disciplina": "MICROBIOLOGIA DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702161": {
+        "codigo": "1702161",
+        "disciplina": "LABORATÓRIO DE MICROBIOLOGIA DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702162": {
+        "codigo": "1702162",
+        "disciplina": "MICROBIOLOGIA DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702163": {
+        "codigo": "1702163",
+        "disciplina": "LABORATÓRIO DE MICROBIOLOGIA DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702164": {
+        "codigo": "1702164",
+        "disciplina": "PESQUISA APLICADA A ENGENHARIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702165": {
+        "codigo": "1702165",
+        "disciplina": "TERMODINÂMICA APLICADA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702166": {
+        "codigo": "1702166",
+        "disciplina": "BIOQUÍMICA DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702167": {
+        "codigo": "1702167",
+        "disciplina": "BIOQUIMICA DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702168": {
+        "codigo": "1702168",
+        "disciplina": "FENÔMENOS DE TRANSPORTES I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702169": {
+        "codigo": "1702169",
+        "disciplina": "FENOMENOS DE TRANSPORTES II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702170": {
+        "codigo": "1702170",
+        "disciplina": "MATÉRIAS-PRIMAS AGROPECUÁRIAS DE ORIGEM ANIMAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702171": {
+        "codigo": "1702171",
+        "disciplina": "MATÉRIAS-PRIMAS AGROPECUÁRIAS DE ORIGEM VEGETAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702172": {
+        "codigo": "1702172",
+        "disciplina": "ANÁLISE DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702173": {
+        "codigo": "1702173",
+        "disciplina": "ANALISE DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702174": {
+        "codigo": "1702174",
+        "disciplina": "PRINCÍPIOS DE CONSERVAÇÃO DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702175": {
+        "codigo": "1702175",
+        "disciplina": "INSTALAÇÕES INDUSTRIAIS E INSTRUMENTAÇÃO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702176": {
+        "codigo": "1702176",
+        "disciplina": "INSTALAÇÕES INDUSTRIAIS E INSTRUMENTAÇÃO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702177": {
+        "codigo": "1702177",
+        "disciplina": "HIGIENE NA INDUSTRIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702178": {
+        "codigo": "1702178",
+        "disciplina": "OPERAÇÕES UNITÁRIAS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702179": {
+        "codigo": "1702179",
+        "disciplina": "OPERAÇÕES UNITÁRIAS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702180": {
+        "codigo": "1702180",
+        "disciplina": "CONTROLE DE QUALIDADE DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702181": {
+        "codigo": "1702181",
+        "disciplina": "PROCESSAMENTO DE ALIMENTOS DE ORIGEM VEGETAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702182": {
+        "codigo": "1702182",
+        "disciplina": "PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702184": {
+        "codigo": "1702184",
+        "disciplina": "ENGENHARIA BIOQUIMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702185": {
+        "codigo": "1702185",
+        "disciplina": "REFRIGERAÇÃO NA INDÚSTRIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702186": {
+        "codigo": "1702186",
+        "disciplina": "EMBALAGEM DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702187": {
+        "codigo": "1702187",
+        "disciplina": "ANÁLISE SENSORIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702188": {
+        "codigo": "1702188",
+        "disciplina": "ESTAGIO SUPERVISIONADO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702189": {
+        "codigo": "1702189",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1702190": {
+        "codigo": "1702190",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626740
+        ]
+    },
+    "1702191": {
+        "codigo": "1702191",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626740
+        ]
+    },
+    "1702192": {
+        "codigo": "1702192",
+        "disciplina": "RECURSOS COMPUTACIONAIS PARA ENGENHARIA DE ALIMENTOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702193": {
+        "codigo": "1702193",
+        "disciplina": "TECNOLOGIA DE LEITE E DERIVADOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702194": {
+        "codigo": "1702194",
+        "disciplina": "TECNOLOGIA DE PESCADO E DERIVADOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702195": {
+        "codigo": "1702195",
+        "disciplina": "TECNOLOGIA DE CARNES E DERIVADOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702196": {
+        "codigo": "1702196",
+        "disciplina": "TECNOLOGIA DE CEREAIS, RAÍZES, TUBÉRCULOS E PANIFICAÇÃO",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702197": {
+        "codigo": "1702197",
+        "disciplina": "TECNOLOGIA DA ÁGUA E RESÍDUOS DA INDÚSTRIA",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702198": {
+        "codigo": "1702198",
+        "disciplina": "TECNOL DO AÇUCAR E DO ALCOOL",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702199": {
+        "codigo": "1702199",
+        "disciplina": "LABORATÓRIO DE ENGENHARIA BIOQUÍMICA",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702200": {
+        "codigo": "1702200",
+        "disciplina": "PROJ DE REFRIG NA INDUST DE ALIMENTOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702201": {
+        "codigo": "1702201",
+        "disciplina": "FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1702202": {
+        "codigo": "1702202",
+        "disciplina": "TECNOLOGIA DE BEBIDAS",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703102": {
+        "codigo": "1703102",
+        "disciplina": "BARRAGENS",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703103": {
+        "codigo": "1703103",
+        "disciplina": "CIÊNCIAS DO AMBIENTE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703118": {
+        "codigo": "1703118",
+        "disciplina": "ESTRADAS E TRANSPORTES I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703119": {
+        "codigo": "1703119",
+        "disciplina": "ESTRADAS E TRANSPORTES II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703121": {
+        "codigo": "1703121",
+        "disciplina": "ESTRUTURAS DE CONCRETO PROTENDIDO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703127": {
+        "codigo": "1703127",
+        "disciplina": "HIDRÁULICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703128": {
+        "codigo": "1703128",
+        "disciplina": "HIDROLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703130": {
+        "codigo": "1703130",
+        "disciplina": "INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703132": {
+        "codigo": "1703132",
+        "disciplina": "IRRIGAÇÃO E DRENAGEM",
+        "Optativa": [
+            1626738,
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703134": {
+        "codigo": "1703134",
+        "disciplina": "MATERIAIS DE CONSTRUÇÃO CIVIL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703139": {
+        "codigo": "1703139",
+        "disciplina": "MECÂNICA DOS FLUIDOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626741,
+            1626806,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703147": {
+        "codigo": "1703147",
+        "disciplina": "PONTES",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703153": {
+        "codigo": "1703153",
+        "disciplina": "RECURSOS HÍDRICOS",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703154": {
+        "codigo": "1703154",
+        "disciplina": "RESISTENCIA DOS MATERIAIS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703155": {
+        "codigo": "1703155",
+        "disciplina": "RESISTÊNCIA DOS MATERIAIS III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703170": {
+        "codigo": "1703170",
+        "disciplina": "TRATAMENTO DE ÁGUA E ESGOTO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703182": {
+        "codigo": "1703182",
+        "disciplina": "ADMINISTRAÇÃO DE EMPRESAS DE CONSTRUÇÃO CIVIL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703183": {
+        "codigo": "1703183",
+        "disciplina": "ALVENARIA ESTRUTURAL",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703184": {
+        "codigo": "1703184",
+        "disciplina": "ANÁLISE DE SISTEMAS DE TRANSPORTE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703185": {
+        "codigo": "1703185",
+        "disciplina": "ANÁLISE ESTRUTURAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703186": {
+        "codigo": "1703186",
+        "disciplina": "ANÁLISE ESTRUTURAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703187": {
+        "codigo": "1703187",
+        "disciplina": "AVALIAÇÃO E PERÍCIAS DE ENGENHARIA",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703188": {
+        "codigo": "1703188",
+        "disciplina": "CONSTRUÇÃO DE EDIFÍCIOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703189": {
+        "codigo": "1703189",
+        "disciplina": "CONSTRUÇÃO DE EDIFÍCIOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703190": {
+        "codigo": "1703190",
+        "disciplina": "ENGENHARIA DE TRÁFEGO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703191": {
+        "codigo": "1703191",
+        "disciplina": "ENGENHARIA LEGAL",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703192": {
+        "codigo": "1703192",
+        "disciplina": "ESTABILIDADE DE TALUDES",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703194": {
+        "codigo": "1703194",
+        "disciplina": "PAVIMENTAÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703195": {
+        "codigo": "1703195",
+        "disciplina": "ESTRUTURAS DE AÇO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703196": {
+        "codigo": "1703196",
+        "disciplina": "ESTRUTURA DE CONCRETO ARMADO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703197": {
+        "codigo": "1703197",
+        "disciplina": "ESTRUTURA DE CONCRETO ARMADO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703198": {
+        "codigo": "1703198",
+        "disciplina": "ESTRUTURA DE CONCRETO ARMADO III",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703199": {
+        "codigo": "1703199",
+        "disciplina": "ESTRUTURAS DE MADEIRA",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703200": {
+        "codigo": "1703200",
+        "disciplina": "ESTRUTURAS HIDRÁULICAS",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703201": {
+        "codigo": "1703201",
+        "disciplina": "GEOPROCESSAMENTO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703202": {
+        "codigo": "1703202",
+        "disciplina": "GESTÃO DE RESÍDUOS SÓLIDOS URBANOS",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703203": {
+        "codigo": "1703203",
+        "disciplina": "GEOLOGIA APLICADA À ENGENHARIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703204": {
+        "codigo": "1703204",
+        "disciplina": "INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703205": {
+        "codigo": "1703205",
+        "disciplina": "MATERIAIS DE CONSTRUÇÃO CIVIL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703206": {
+        "codigo": "1703206",
+        "disciplina": "MECÂNICA DOS SOLOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703207": {
+        "codigo": "1703207",
+        "disciplina": "MECÂNICA DOS SOLOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703208": {
+        "codigo": "1703208",
+        "disciplina": "MECÂNICA GERAL E ISOSTÁTICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703210": {
+        "codigo": "1703210",
+        "disciplina": "PATOLOGIA E REABILITAÇÃO DAS CONSTRUÇÕES",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703211": {
+        "codigo": "1703211",
+        "disciplina": "PESQUISA APLICADA À ENGENHARIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703212": {
+        "codigo": "1703212",
+        "disciplina": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703213": {
+        "codigo": "1703213",
+        "disciplina": "RESISTÊNCIA DOS MATERIAIS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703214": {
+        "codigo": "1703214",
+        "disciplina": "RESISTÊNCIA DOS MATERIAIS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703215": {
+        "codigo": "1703215",
+        "disciplina": "SANEAMENTO AMBIENTAL",
+        "Optativa": [
+            1626738,
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703216": {
+        "codigo": "1703216",
+        "disciplina": "SISTEMA DE ABASTECIMENTO DE ÁGUA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703217": {
+        "codigo": "1703217",
+        "disciplina": "SISTEMAS DE ESGOTO E DRENAGEM",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703218": {
+        "codigo": "1703218",
+        "disciplina": "TÓPICOS EM ENGENHARIA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703219": {
+        "codigo": "1703219",
+        "disciplina": "TÓPICOS EM ENGENHARIA II",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703220": {
+        "codigo": "1703220",
+        "disciplina": "TÓPICOS EM ENGENHARIA III",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626738
+        ]
+    },
+    "1703221": {
+        "codigo": "1703221",
+        "disciplina": "TOPOGRAFIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703223": {
+        "codigo": "1703223",
+        "disciplina": "TRANSPORTE AÉREO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703224": {
+        "codigo": "1703224",
+        "disciplina": "TRANSPORTE FERROVIÁRIO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703225": {
+        "codigo": "1703225",
+        "disciplina": "TRANSPORTE HIDROVIÁRIO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703226": {
+        "codigo": "1703226",
+        "disciplina": "TRANSPORTE PÚBLICO URBANO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703227": {
+        "codigo": "1703227",
+        "disciplina": "INTRODUÇÃO À ENGENHARIA AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703228": {
+        "codigo": "1703228",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703229": {
+        "codigo": "1703229",
+        "disciplina": "MECÂNICA DOS SÓLIDOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703230": {
+        "codigo": "1703230",
+        "disciplina": "AVALIAÇÃO ECONÔMICA DE PROJETOS AMBIENTAIS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703231": {
+        "codigo": "1703231",
+        "disciplina": "ENERGIA E MEIO AMBIENTE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703234": {
+        "codigo": "1703234",
+        "disciplina": "GESTÃO DE RECURSOS HIDRICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703235": {
+        "codigo": "1703235",
+        "disciplina": "GESTÃO DE RISCOS E DESASTRES AMBIENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703236": {
+        "codigo": "1703236",
+        "disciplina": "INTRODUÇÃO ÀS CIÊNCIAS DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703237": {
+        "codigo": "1703237",
+        "disciplina": "MODELAGENS DE SISTEMAS AMBIENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703238": {
+        "codigo": "1703238",
+        "disciplina": "POLUIÇÃO AMBIENTAL",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703239": {
+        "codigo": "1703239",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626806
+        ]
+    },
+    "1703240": {
+        "codigo": "1703240",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626806
+        ]
+    },
+    "1703241": {
+        "codigo": "1703241",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL III",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626806
+        ]
+    },
+    "1703242": {
+        "codigo": "1703242",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL IV",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626806
+        ]
+    },
+    "1703243": {
+        "codigo": "1703243",
+        "disciplina": "TRATAMENTO DE RESÍDUOS SÓLIDOS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1703245": {
+        "codigo": "1703245",
+        "disciplina": "MECÂNICA E RESISTÊNCIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703246": {
+        "codigo": "1703246",
+        "disciplina": "TECNOLOGIA DAS CONSTRUÇÕES I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703247": {
+        "codigo": "1703247",
+        "disciplina": "TECNOLOGIA DAS CONSTRUÇÕES II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703248": {
+        "codigo": "1703248",
+        "disciplina": "SISTEMAS ESTRUTURAIS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703249": {
+        "codigo": "1703249",
+        "disciplina": "SISTEMAS  ESTRUTURAIS III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703250": {
+        "codigo": "1703250",
+        "disciplina": "FUNDAMENTOS DE TOPOGRAFIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1703251": {
+        "codigo": "1703251",
+        "disciplina": "SEMINÁRIO TEMÁTICO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704101": {
+        "codigo": "1704101",
+        "disciplina": "CONFORTO AMBIENTAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704102": {
+        "codigo": "1704102",
+        "disciplina": "DEONTOLOGIA E PRÁTICA PROFISSIONAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704128": {
+        "codigo": "1704128",
+        "disciplina": "OFICINA PLÁSTICA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704148": {
+        "codigo": "1704148",
+        "disciplina": "DESENHO BASICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704149": {
+        "codigo": "1704149",
+        "disciplina": "DESENHO ASSISTIDO POR COMPUTADOR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704151": {
+        "codigo": "1704151",
+        "disciplina": "ANÁLISE DO ESPAÇO URBANO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704154": {
+        "codigo": "1704154",
+        "disciplina": "DESENHO DE ARQUITETURA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704159": {
+        "codigo": "1704159",
+        "disciplina": "DESENHO URBANO V",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704160": {
+        "codigo": "1704160",
+        "disciplina": "ELEMENTOS DE HISTÓRIA, ARTE E ARQUITETURA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704172": {
+        "codigo": "1704172",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO IV",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704179": {
+        "codigo": "1704179",
+        "disciplina": "OFICINA DE DESENHO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704180": {
+        "codigo": "1704180",
+        "disciplina": "OFICINA DE DESENHO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704184": {
+        "codigo": "1704184",
+        "disciplina": "PROJETO DE EDIFICAÇÕES I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704187": {
+        "codigo": "1704187",
+        "disciplina": "PROJETO DE EDIFICAÇÕES IV",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704197": {
+        "codigo": "1704197",
+        "disciplina": "TÓPICOS III FOTOGRAFIA",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704201": {
+        "codigo": "1704201",
+        "disciplina": "TÓPICOS VII DETALHE I",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704202": {
+        "codigo": "1704202",
+        "disciplina": "TÓPICOS VIII EMPREENDEDORISMO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704205": {
+        "codigo": "1704205",
+        "disciplina": "TÓPICOS XI ESTRUTURAS METÁLICAS",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704208": {
+        "codigo": "1704208",
+        "disciplina": "SISTEMAS ESTRUTURAIS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704218": {
+        "codigo": "1704218",
+        "disciplina": "TÓPICOS XXIII PROG NEC E MOD DE FUNC",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626741
+        ]
+    },
+    "1704227": {
+        "codigo": "1704227",
+        "disciplina": "DESENHO ARQUITETÔNICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704228": {
+        "codigo": "1704228",
+        "disciplina": "DESENHO BÁSICO PARA ENGENHARIA CIVIL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704229": {
+        "codigo": "1704229",
+        "disciplina": "ELEMENTOS DE ARQUITETURA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704234": {
+        "codigo": "1704234",
+        "disciplina": "DESENHO BASICO PARA ENG DE PRODUCAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704235": {
+        "codigo": "1704235",
+        "disciplina": "DESENHO ASSISTIDO POR COMPUTADOR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704236": {
+        "codigo": "1704236",
+        "disciplina": "DESENVOLVIMENTO E MEIO AMBIENTE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704237": {
+        "codigo": "1704237",
+        "disciplina": "OCUPAÇÃO E USO DO SOLO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704238": {
+        "codigo": "1704238",
+        "disciplina": "DESENHO BÁSICO PARA ENGENHARIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704239": {
+        "codigo": "1704239",
+        "disciplina": "DESENHO ASSIST POR COMP PENG DE ALIM",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704240": {
+        "codigo": "1704240",
+        "disciplina": "DESENHO BASICO  PARA ENG QUIMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704242": {
+        "codigo": "1704242",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704243": {
+        "codigo": "1704243",
+        "disciplina": "TÓPIX REPRESENTGRÁFICA DO PROJETO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704245": {
+        "codigo": "1704245",
+        "disciplina": "DESENHO BÁSICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704246": {
+        "codigo": "1704246",
+        "disciplina": "DESENHO ASSISTIDO POR COMPUTADOR",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704247": {
+        "codigo": "1704247",
+        "disciplina": "PESQUISA APLICADA À ARQUITETURA E URBANISMO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704248": {
+        "codigo": "1704248",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704249": {
+        "codigo": "1704249",
+        "disciplina": "GEOMETRIA DESCRITIVA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704250": {
+        "codigo": "1704250",
+        "disciplina": "INTRODUÇAO AO DESENHO ARQUITETÔNICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704251": {
+        "codigo": "1704251",
+        "disciplina": "OFICINA DE PLASTICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704252": {
+        "codigo": "1704252",
+        "disciplina": "NOÇÕES DE ARQUITETURA E URBANISMO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704253": {
+        "codigo": "1704253",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704254": {
+        "codigo": "1704254",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704255": {
+        "codigo": "1704255",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704256": {
+        "codigo": "1704256",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704257": {
+        "codigo": "1704257",
+        "disciplina": "HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704258": {
+        "codigo": "1704258",
+        "disciplina": "INTRODUÇÃO AO PROJETO DE ARQUITETURA E URBANISMO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704259": {
+        "codigo": "1704259",
+        "disciplina": "PROJETO DE EDIFICAÇÕES II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704260": {
+        "codigo": "1704260",
+        "disciplina": "PROJETO DE EDIFICAÇÕES III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704261": {
+        "codigo": "1704261",
+        "disciplina": "PROJETO DE EDIFICAÇÕES V",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704262": {
+        "codigo": "1704262",
+        "disciplina": "PROJETO DE EDIFICAÇÕES VI",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704263": {
+        "codigo": "1704263",
+        "disciplina": "DESENHO URBANO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704264": {
+        "codigo": "1704264",
+        "disciplina": "DESENHO URBANO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704265": {
+        "codigo": "1704265",
+        "disciplina": "DESENHO URBANO III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704266": {
+        "codigo": "1704266",
+        "disciplina": "URBANISMO  I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704267": {
+        "codigo": "1704267",
+        "disciplina": "URBANISMO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704268": {
+        "codigo": "1704268",
+        "disciplina": "CONFORTO AMBIENTAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704269": {
+        "codigo": "1704269",
+        "disciplina": "CONFORTO AMBIENTAL  III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704270": {
+        "codigo": "1704270",
+        "disciplina": "FUNDAMENTOS PARA INTERVENÇÕES EM ÁREAS HISTÓRICAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704271": {
+        "codigo": "1704271",
+        "disciplina": "PERSPECTIVA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704273": {
+        "codigo": "1704273",
+        "disciplina": "ESTÁGIO SUPERVISIONADO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704274": {
+        "codigo": "1704274",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704275": {
+        "codigo": "1704275",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1704276": {
+        "codigo": "1704276",
+        "disciplina": "ARTE CONTEMPORÂNEA",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704277": {
+        "codigo": "1704277",
+        "disciplina": "EMPREENDEDORISMO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704278": {
+        "codigo": "1704278",
+        "disciplina": "TÉCNICAS DE AVALIAÇÃO PÓS-OCUPAÇÃO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704279": {
+        "codigo": "1704279",
+        "disciplina": "ARQUITETURA E SEGURANÇA NO TRABALHO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704280": {
+        "codigo": "1704280",
+        "disciplina": "FOTOGRAFIA APLICADA À ARQUITETURA",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704281": {
+        "codigo": "1704281",
+        "disciplina": "DESENHO À MÃO LIVRE",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704282": {
+        "codigo": "1704282",
+        "disciplina": "DETALHES I",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704283": {
+        "codigo": "1704283",
+        "disciplina": "DETALHES II",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704284": {
+        "codigo": "1704284",
+        "disciplina": "COR NA ARQUITETURA",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704285": {
+        "codigo": "1704285",
+        "disciplina": "REPRESENTAÇÃO GRÁFICA DO PROJETO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704286": {
+        "codigo": "1704286",
+        "disciplina": "PAISAGISMO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704287": {
+        "codigo": "1704287",
+        "disciplina": "ILUMINAÇÃO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704288": {
+        "codigo": "1704288",
+        "disciplina": "TECTÔNICA",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704289": {
+        "codigo": "1704289",
+        "disciplina": "PROJETOS ESPECIAIS I",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704290": {
+        "codigo": "1704290",
+        "disciplina": "PROJETOS ESPECIAIS II",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704291": {
+        "codigo": "1704291",
+        "disciplina": "PROJETOS ESPECIAIS III",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704292": {
+        "codigo": "1704292",
+        "disciplina": "PROJETOS ESPECIAIS IV",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704293": {
+        "codigo": "1704293",
+        "disciplina": "PROJETOS ESPECIAIS V",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704294": {
+        "codigo": "1704294",
+        "disciplina": "PROJETOS ESPECIAIS EM URBANISMO",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1704295": {
+        "codigo": "1704295",
+        "disciplina": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626736
+        ]
+    },
+    "1704296": {
+        "codigo": "1704296",
+        "disciplina": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626736
+        ]
+    },
+    "1704297": {
+        "codigo": "1704297",
+        "disciplina": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO III",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626736
+        ]
+    },
+    "1704298": {
+        "codigo": "1704298",
+        "disciplina": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO IV",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626736
+        ]
+    },
+    "1705100": {
+        "codigo": "1705100",
+        "disciplina": "CONTROLE DE QUALIDADE",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705101": {
+        "codigo": "1705101",
+        "disciplina": "CONTROLE ESTATÍSTICO DA QUALIDADE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705102": {
+        "codigo": "1705102",
+        "disciplina": "CUSTOS DA PRODUÇÃO INDUSTRIAL",
+        "Optativa": [
+            1626740,
+            1626804
+        ],
+        "Obrigatória": [
+            1626647,
+            1626741,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705103": {
+        "codigo": "1705103",
+        "disciplina": "ERGONOMIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705106": {
+        "codigo": "1705106",
+        "disciplina": "PLANEJAMENTO DAS INSTALAÇÕES INDUSTRIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705108": {
+        "codigo": "1705108",
+        "disciplina": "PROGRAMA E CONTROLE DA PRODUCAO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705109": {
+        "codigo": "1705109",
+        "disciplina": "SEGURANÇA INDUSTRIAL",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [
+            1626738,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705110": {
+        "codigo": "1705110",
+        "disciplina": "TEMPOS E MOVIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705112": {
+        "codigo": "1705112",
+        "disciplina": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705113": {
+        "codigo": "1705113",
+        "disciplina": "ÉTICA E ENGENHARIA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705114": {
+        "codigo": "1705114",
+        "disciplina": "ENGENHARIA ECONÔMICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705115": {
+        "codigo": "1705115",
+        "disciplina": "ENGENHARIA ECONÔMICA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705122": {
+        "codigo": "1705122",
+        "disciplina": "GESTÃO DA QUALIDADE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705123": {
+        "codigo": "1705123",
+        "disciplina": "SEGURANÇA INDUSTRIAL I",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [
+            1626741,
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705124": {
+        "codigo": "1705124",
+        "disciplina": "SEGURANÇA INDUSTRIAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705125": {
+        "codigo": "1705125",
+        "disciplina": "SISTEMAS DE PRODUÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705126": {
+        "codigo": "1705126",
+        "disciplina": "ORGANIZAÇÃO DO TRABALHO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705127": {
+        "codigo": "1705127",
+        "disciplina": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705128": {
+        "codigo": "1705128",
+        "disciplina": "TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705129": {
+        "codigo": "1705129",
+        "disciplina": "LOGÍSTICA INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705130": {
+        "codigo": "1705130",
+        "disciplina": "PLANEJAMENTO E PROJETO DO PRODUTO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705132": {
+        "codigo": "1705132",
+        "disciplina": "TRABALHO DE GRADUAÇÃO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705133": {
+        "codigo": "1705133",
+        "disciplina": "SISTEMAS DE INFORMAÇÕES GERENCIAIS",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705134": {
+        "codigo": "1705134",
+        "disciplina": "SIMULAÇÃO",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705135": {
+        "codigo": "1705135",
+        "disciplina": "PLANEJ E CONTR INTEG DE MANUFATURA",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705136": {
+        "codigo": "1705136",
+        "disciplina": "PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705137": {
+        "codigo": "1705137",
+        "disciplina": "GERENCIAMENTO DE PROJETOS",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705138": {
+        "codigo": "1705138",
+        "disciplina": "ENGENHARIA DE PRODUÇÃO NA PEQUENA E MÉDIA EMPRESA",
+        "Optativa": [
+            1626741,
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705139": {
+        "codigo": "1705139",
+        "disciplina": "SINDICALISMO E CONDIÇÕES DE TRABALHO",
+        "Optativa": [
+            1626741,
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705140": {
+        "codigo": "1705140",
+        "disciplina": "CONFIABILIDADE DE SISTEMAS",
+        "Optativa": [
+            1626741,
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705141": {
+        "codigo": "1705141",
+        "disciplina": "GESTÃO DE MATERIAIS",
+        "Optativa": [
+            1626741,
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705143": {
+        "codigo": "1705143",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626849
+        ]
+    },
+    "1705144": {
+        "codigo": "1705144",
+        "disciplina": "PLANEJAMENTO ESTRATEGICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705145": {
+        "codigo": "1705145",
+        "disciplina": "PESQUISA OPERACIONAL I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705146": {
+        "codigo": "1705146",
+        "disciplina": "PESQUISA OPERACIONAL II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705147": {
+        "codigo": "1705147",
+        "disciplina": "ERGONOMIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705148": {
+        "codigo": "1705148",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705149": {
+        "codigo": "1705149",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO II",
+        "Optativa": [
+            1626741,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705150": {
+        "codigo": "1705150",
+        "disciplina": "EMPREENDEDORISMO",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705151": {
+        "codigo": "1705151",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705152": {
+        "codigo": "1705152",
+        "disciplina": "GESTÃO AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705153": {
+        "codigo": "1705153",
+        "disciplina": "GESTÃO ESTRATÉGICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705154": {
+        "codigo": "1705154",
+        "disciplina": "GESTÃO DA TECNOLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705155": {
+        "codigo": "1705155",
+        "disciplina": "SEGURANÇA DO TRABALHO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705156": {
+        "codigo": "1705156",
+        "disciplina": "ENGENHARIA DO PRODUTO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705157": {
+        "codigo": "1705157",
+        "disciplina": "PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705158": {
+        "codigo": "1705158",
+        "disciplina": "GESTÃO DA QUALIDADE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705159": {
+        "codigo": "1705159",
+        "disciplina": "ESTÁGIO SUPERVISIONADO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705160": {
+        "codigo": "1705160",
+        "disciplina": "ANÁLISE DE PROJETO DE TRABALHO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705161": {
+        "codigo": "1705161",
+        "disciplina": "ANÁLISE DE PROJETO DE TRABALHO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705162": {
+        "codigo": "1705162",
+        "disciplina": "GESTÃO DA CADEIA DE SUPRIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705163": {
+        "codigo": "1705163",
+        "disciplina": "EMPREENDEDORISMO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705164": {
+        "codigo": "1705164",
+        "disciplina": "ANÁLISE DE PROJETO DE TRABALHO III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705165": {
+        "codigo": "1705165",
+        "disciplina": "PLANEJAMENTO DAS INSTALAÇÕES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705166": {
+        "codigo": "1705166",
+        "disciplina": "GESTÃO DO CONHECIMENTO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705167": {
+        "codigo": "1705167",
+        "disciplina": "PROJETOS INDUSTRIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741,
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705168": {
+        "codigo": "1705168",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705169": {
+        "codigo": "1705169",
+        "disciplina": "CONFORTO AMBIENTAL",
+        "Optativa": [
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705170": {
+        "codigo": "1705170",
+        "disciplina": "MARKETING",
+        "Optativa": [
+            1626849
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705171": {
+        "codigo": "1705171",
+        "disciplina": "PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705172": {
+        "codigo": "1705172",
+        "disciplina": "PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705174": {
+        "codigo": "1705174",
+        "disciplina": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705175": {
+        "codigo": "1705175",
+        "disciplina": "PLANEJAMENTO E GESTÃO AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705177": {
+        "codigo": "1705177",
+        "disciplina": "PLANEJAMENTO E PROJETO DA INDÚSTRIA DE ALIMENTOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626740
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705178": {
+        "codigo": "1705178",
+        "disciplina": "GESTÃO DA QUALIDADE",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1705179": {
+        "codigo": "1705179",
+        "disciplina": "EMPREENDEDORISMO I",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1705186": {
+        "codigo": "1705186",
+        "disciplina": "ENGENHARIA ECONÔMICA   II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1707005": {
+        "codigo": "1707005",
+        "disciplina": "INSTALAÇÕES ELÉTRICAS E PREDIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1707006": {
+        "codigo": "1707006",
+        "disciplina": "MAQUINAS E ACIONAMENTOS ELETRICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1707008": {
+        "codigo": "1707008",
+        "disciplina": "ELETRÔNICA ANALÓGICA E DIGITAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1707010": {
+        "codigo": "1707010",
+        "disciplina": "ELETROTÉCNICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1707498": {
+        "codigo": "1707498",
+        "disciplina": "FUNDAMENTOS DA AUTOMAÇÃO INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708001": {
+        "codigo": "1708001",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTIFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708002": {
+        "codigo": "1708002",
+        "disciplina": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708003": {
+        "codigo": "1708003",
+        "disciplina": "DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708004": {
+        "codigo": "1708004",
+        "disciplina": "INTRODUCAO A CIENCIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708005": {
+        "codigo": "1708005",
+        "disciplina": "PROCESSAMENTO DE MATERIAIS CERÂMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708006": {
+        "codigo": "1708006",
+        "disciplina": "PROCESSAMENTO DE MATERIAIS POLIMÉRICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708007": {
+        "codigo": "1708007",
+        "disciplina": "PROCESSAMENTO DE MATERIAIS METÁLICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708009": {
+        "codigo": "1708009",
+        "disciplina": "MATERIAIS CERÂMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708010": {
+        "codigo": "1708010",
+        "disciplina": "MATERIAIS METÁLICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708011": {
+        "codigo": "1708011",
+        "disciplina": "MECÂNICA DOS MATERIAIS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708012": {
+        "codigo": "1708012",
+        "disciplina": "PESQUISA APLICADA A ENGENHARIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708013": {
+        "codigo": "1708013",
+        "disciplina": "PROPRIEDADES MECÂNICAS DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708014": {
+        "codigo": "1708014",
+        "disciplina": "CARACTERIZAÇÃO MICROESTRUTURAL DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708017": {
+        "codigo": "1708017",
+        "disciplina": "MATERIAIS COMPÓSITOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708018": {
+        "codigo": "1708018",
+        "disciplina": "FENÔMENOS DE TRANSPORTE",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708019": {
+        "codigo": "1708019",
+        "disciplina": "MECÂNICA DOS MATERIAIS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708020": {
+        "codigo": "1708020",
+        "disciplina": "CARACTERIZAÇÃO MECÂNICA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708021": {
+        "codigo": "1708021",
+        "disciplina": "PROPRIEDADES FÍSICAS DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708022": {
+        "codigo": "1708022",
+        "disciplina": "TRATAMENTOS TÉRMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708023": {
+        "codigo": "1708023",
+        "disciplina": "MATERIAIS CIMENTÍCIOS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708024": {
+        "codigo": "1708024",
+        "disciplina": "TERMODINÂMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708025": {
+        "codigo": "1708025",
+        "disciplina": "MECÂNICA DOS MATERIAIS III",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708027": {
+        "codigo": "1708027",
+        "disciplina": "CORROSÃO E DEGRADAÇÃO DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708030": {
+        "codigo": "1708030",
+        "disciplina": "TRANSFORMAÇÕES DE FASES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708031": {
+        "codigo": "1708031",
+        "disciplina": "MODELAGEM DE MATERIAIS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708032": {
+        "codigo": "1708032",
+        "disciplina": "BIOMATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708042": {
+        "codigo": "1708042",
+        "disciplina": "PROCESSAMENTO DE MATERIAIS CERÂMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1708043": {
+        "codigo": "1708043",
+        "disciplina": "CERÂMICAS REFRATÁRIAS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708046": {
+        "codigo": "1708046",
+        "disciplina": "TECNOLOGIA DE VIDROS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708050": {
+        "codigo": "1708050",
+        "disciplina": "SIDERURGIA",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708056": {
+        "codigo": "1708056",
+        "disciplina": "SELEÇÃO DE MATERIAIS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1708064": {
+        "codigo": "1708064",
+        "disciplina": "MATERIAIS DE CONSTRUÇÃO MECÂNICA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709001": {
+        "codigo": "1709001",
+        "disciplina": "METODOLOGIA DO TRABALHO CIENTÍFICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709002": {
+        "codigo": "1709002",
+        "disciplina": "INTRODUÇÃO À ENGENHARIA QUÍMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709003": {
+        "codigo": "1709003",
+        "disciplina": "BIOENGENHARIA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709004": {
+        "codigo": "1709004",
+        "disciplina": "FENÔMENO DE TRANSPORTE I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709005": {
+        "codigo": "1709005",
+        "disciplina": "FENÔMENO DE TRANSPORTE II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709006": {
+        "codigo": "1709006",
+        "disciplina": "FENÔMENO DE TRANSPORTE III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709008": {
+        "codigo": "1709008",
+        "disciplina": "ESTECQUIOMETRIA INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709009": {
+        "codigo": "1709009",
+        "disciplina": "BIOENGENHARIA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709010": {
+        "codigo": "1709010",
+        "disciplina": "ESTÁGIO SUPERVISIONADO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709012": {
+        "codigo": "1709012",
+        "disciplina": "PESQUISA APLICADA À ENGENHARIA QUÍMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709013": {
+        "codigo": "1709013",
+        "disciplina": "CIÊNCIA E TECNOLOGIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709014": {
+        "codigo": "1709014",
+        "disciplina": "TERMODINÂMICA FUNDAMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709015": {
+        "codigo": "1709015",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626804
+        ]
+    },
+    "1709023": {
+        "codigo": "1709023",
+        "disciplina": "TECNOLOGIA DO AÇÚCAR E DO ÁLCOOL",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709024": {
+        "codigo": "1709024",
+        "disciplina": "TECNOLOGIA DAS FERMENTAÇÕES",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709027": {
+        "codigo": "1709027",
+        "disciplina": "OPERAÇÕES UNITÁRIAS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709028": {
+        "codigo": "1709028",
+        "disciplina": "TERMODINÂMICA FUNDAMENTAL EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709029": {
+        "codigo": "1709029",
+        "disciplina": "TERMODINÂMICA DE PROCESSOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709030": {
+        "codigo": "1709030",
+        "disciplina": "TECNOLOGIA DE TENSOATIVOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709031": {
+        "codigo": "1709031",
+        "disciplina": "MÉTODOS AVANÇADOS DE PROCESSOS DE SEPARAÇÃO",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709032": {
+        "codigo": "1709032",
+        "disciplina": "REATORES CATALÍTICOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709033": {
+        "codigo": "1709033",
+        "disciplina": "TECNOLOGIA DE FABRICAÇÃO DE VIDROS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709034": {
+        "codigo": "1709034",
+        "disciplina": "TECNOLOGIA DO BIODIESEL",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709035": {
+        "codigo": "1709035",
+        "disciplina": "TECNOLOGIA DAS FERMENTAÇÕES",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709036": {
+        "codigo": "1709036",
+        "disciplina": "TRANSFERÊNCIA DE CALOR E MASSA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709037": {
+        "codigo": "1709037",
+        "disciplina": "PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709038": {
+        "codigo": "1709038",
+        "disciplina": "CORROSÃO NA INDÚSTRIA QUÍMICA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709039": {
+        "codigo": "1709039",
+        "disciplina": "FENÔMENOS DE TRANSPORTE EXPERIMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709040": {
+        "codigo": "1709040",
+        "disciplina": "OPERAÇÕES UNITÁRIAS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709041": {
+        "codigo": "1709041",
+        "disciplina": "OPERAÇÕES UNITÁRIAS III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709042": {
+        "codigo": "1709042",
+        "disciplina": "MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709043": {
+        "codigo": "1709043",
+        "disciplina": "REATORES QUÍMICOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709044": {
+        "codigo": "1709044",
+        "disciplina": "REATORES QUÍMICOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709045": {
+        "codigo": "1709045",
+        "disciplina": "INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709046": {
+        "codigo": "1709046",
+        "disciplina": "REATORES QUÍMICOS EXPERIMENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709047": {
+        "codigo": "1709047",
+        "disciplina": "OPERAÇÕES UNITÁRIAS EXPERIMENTAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709049": {
+        "codigo": "1709049",
+        "disciplina": "PROJETO DE PROCESSOS QUÍMICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709052": {
+        "codigo": "1709052",
+        "disciplina": "INDÚSTRIA DO PETROLEO E DO GÁS NATURAL",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709054": {
+        "codigo": "1709054",
+        "disciplina": "TRATAMENTO DE RESÍDUOS INDUSTRIAIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709059": {
+        "codigo": "1709059",
+        "disciplina": "ENG DE RESERVATÓRIOS E AVALIAÇÃOPPPGN",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709063": {
+        "codigo": "1709063",
+        "disciplina": "MÉTODOS DE RECUPER DE PETRÓLEOPPPGN",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709064": {
+        "codigo": "1709064",
+        "disciplina": "SEPARAÇÃO TRANSP E ARMAZENAMENTO PPPGN",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709077": {
+        "codigo": "1709077",
+        "disciplina": "QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709078": {
+        "codigo": "1709078",
+        "disciplina": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709079": {
+        "codigo": "1709079",
+        "disciplina": "TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709080": {
+        "codigo": "1709080",
+        "disciplina": "BIOQUÍMICA BÁSICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709081": {
+        "codigo": "1709081",
+        "disciplina": "CÉLULAS  COMBUSTÍVEIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709082": {
+        "codigo": "1709082",
+        "disciplina": "FUNDAMENTOS DE ENGENHARIA DE PETRÓLEO",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709083": {
+        "codigo": "1709083",
+        "disciplina": "CONVERSÃO TÉRMICA DE BIOMASSA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709084": {
+        "codigo": "1709084",
+        "disciplina": "SEMINÁRIO TEMÁTICO I EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709085": {
+        "codigo": "1709085",
+        "disciplina": "SEMINÁRIOS TEMÁTICOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709086": {
+        "codigo": "1709086",
+        "disciplina": "MINERALOGIA",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709087": {
+        "codigo": "1709087",
+        "disciplina": "PROCESSOS QUÍMICOS ORGÂNICOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709089": {
+        "codigo": "1709089",
+        "disciplina": "PESQUISA APLICADA À QUIMICA INDUSTRIAL",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709090": {
+        "codigo": "1709090",
+        "disciplina": "BOAS PRÁTICAS DE FABRICACÃO NA INDÚSTRIA QUÍMICA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709091": {
+        "codigo": "1709091",
+        "disciplina": "PROCESSOS QUÍMICOS INORGÂNICOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709093": {
+        "codigo": "1709093",
+        "disciplina": "ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709094": {
+        "codigo": "1709094",
+        "disciplina": "FENÔMENOS DE TRANSPORTE (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709095": {
+        "codigo": "1709095",
+        "disciplina": "PROCESSO QUÍMICOS AMBIENTAIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709096": {
+        "codigo": "1709096",
+        "disciplina": "MICROBIOLOGIA INDUSTRIAL",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709098": {
+        "codigo": "1709098",
+        "disciplina": "BIOTECNOLOGIA INDUSTRIAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "1709099": {
+        "codigo": "1709099",
+        "disciplina": "CROMATOGRAFIA",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "1709100": {
+        "codigo": "1709100",
+        "disciplina": "CINÉTICA E CÁLCULO DE REATORES",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "2102044": {
+        "codigo": "2102044",
+        "disciplina": "CÉLULAS COMBUSTÍVEIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "2301030": {
+        "codigo": "2301030",
+        "disciplina": "EDUCAÇÃO DAS RELAÇÕES ÈTNICOS RACIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DADM00275": {
+        "codigo": "DADM00275",
+        "disciplina": "ADMINISTRAÇÃO DE EMPRESAS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DADM00278": {
+        "codigo": "DADM00278",
+        "disciplina": "ERGONOMIA",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DINF00077": {
+        "codigo": "DINF00077",
+        "disciplina": "MÉTODOS COMPUTACIONAIS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDLS0024": {
+        "codigo": "GDLS0024",
+        "disciplina": "LIBRAS",
+        "Optativa": [
+            1626647,
+            1626736,
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626806,
+            1626809,
+            1626849,
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0112": {
+        "codigo": "GDPEQ0112",
+        "disciplina": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626647
+        ]
+    },
+    "GDPEQ0113": {
+        "codigo": "GDPEQ0113",
+        "disciplina": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626647
+        ]
+    },
+    "GDLPL0063": {
+        "codigo": "GDLPL0063",
+        "disciplina": "PORTUGUÊS INSTRUMENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647,
+            1626738,
+            1626740,
+            1626804,
+            1626806,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DEQ008081": {
+        "codigo": "DEQ008081",
+        "disciplina": "TECNOLOGIA DE POLÍMEROS E FIBRAS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DADM00276": {
+        "codigo": "DADM00276",
+        "disciplina": "GESTÃO DA PRODUTIVIDADE",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DEQ008082": {
+        "codigo": "DEQ008082",
+        "disciplina": "PLANEJAMENTO E PROJETOS NA INDUSTRIA QUÍMICA",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDADM0119": {
+        "codigo": "GDADM0119",
+        "disciplina": "GESTÃO DA QUALIDADE",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0104": {
+        "codigo": "GDPEQ0104",
+        "disciplina": "OPERAÇÕES UNITÁRIAS I (QUIMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0106": {
+        "codigo": "GDPEQ0106",
+        "disciplina": "TERMODINÂMICA APLICADA (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0108": {
+        "codigo": "GDPEQ0108",
+        "disciplina": "TECNOLOGIA DE FABRICAÇÃO DE COSMÉTICOS",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0114": {
+        "codigo": "GDPEQ0114",
+        "disciplina": "BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL)",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0116": {
+        "codigo": "GDPEQ0116",
+        "disciplina": "CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL)",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0128": {
+        "codigo": "GDPEQ0128",
+        "disciplina": "TECNOLOGIA DO AÇÚCAR, DA RAPADURA E DO MEL",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0129": {
+        "codigo": "GDPEQ0129",
+        "disciplina": "TECNOLOGIA DO ÁLCOOL E DA CACHAÇA",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0130": {
+        "codigo": "GDPEQ0130",
+        "disciplina": "PROCESSOS FERMENTATIVOS INDUSTRIAIS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0131": {
+        "codigo": "GDPEQ0131",
+        "disciplina": "CONTROLE DE PROCESSOS FERMENTATIVOS INDUSTRIAIS",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0107": {
+        "codigo": "GDECV0107",
+        "disciplina": "TRATAMENTO DE EFLUENTES DOMESTICOS E INDUSTRIAIS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0108": {
+        "codigo": "GDECV0108",
+        "disciplina": "TRATAMENTO DE RESIDUOS SOLIDOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0109": {
+        "codigo": "GDECV0109",
+        "disciplina": "GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0007": {
+        "codigo": "GDPEQ0007",
+        "disciplina": "ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0107": {
+        "codigo": "GDPEQ0107",
+        "disciplina": "OPERAÇÕES UNITÁRIAS II (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DADM00277": {
+        "codigo": "DADM00277",
+        "disciplina": "FUNDAMENTOS ESPECIAIS EM EMPREENDEDORISMO",
+        "Optativa": [
+            1626647
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0109": {
+        "codigo": "GDPEQ0109",
+        "disciplina": "GESTÃO DA QUALIDADE DE SANEANTES E COSMÉTICOS",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0115": {
+        "codigo": "GDPEQ0115",
+        "disciplina": "BIOTECNOLOGIA NA PRODUÇÃO DE ALIMENTOS ( QUÍMICA INDUSTRIAL)",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0117": {
+        "codigo": "GDPEQ0117",
+        "disciplina": "HIGIENE E LEGISLAÇÃO DE ALIMENTOS ( QUIMICA INDUSTRIAL)",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0118": {
+        "codigo": "GDPEQ0118",
+        "disciplina": "TECNOLOGIA DE FABRICAÇÃO DE SANEANTES",
+        "Optativa": [
+            1626647,
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0100": {
+        "codigo": "GDPEQ0100",
+        "disciplina": "ESTAGIO SUPERVISIONADO II (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0101": {
+        "codigo": "GDPEQ0101",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO (QUÍMICA INDUSTRIAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0102": {
+        "codigo": "GDPEQ0102",
+        "disciplina": "INTRODUÇÃO À INDÚSTRIA DO PETRÓLEO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0103": {
+        "codigo": "GDPEQ0103",
+        "disciplina": "METROLOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0110": {
+        "codigo": "GDPEQ0110",
+        "disciplina": "HIGIENE E SEGURANÇA DO TRABALHO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626647
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDARQ0100": {
+        "codigo": "GDARQ0100",
+        "disciplina": "ARQUITETURA DE INTERIORES",
+        "Optativa": [
+            1626736
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDARQ0101": {
+        "codigo": "GDARQ0101",
+        "disciplina": "ESTÁGIO SUPERVISIONADO I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626736
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0105": {
+        "codigo": "GDECV0105",
+        "disciplina": "DESEMPENHO DAS EDIFICAÇÕES",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDFIS0114": {
+        "codigo": "GDFIS0114",
+        "disciplina": "FÍSICA GERAL IV",
+        "Optativa": [
+            1626738,
+            1626866
+        ],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDCOC0072": {
+        "codigo": "GDCOC0072",
+        "disciplina": "CALCULO NUMERICO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738,
+            1626740,
+            1626741,
+            1626804,
+            1626806,
+            1626849,
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0102": {
+        "codigo": "GDECV0102",
+        "disciplina": "DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
+        "Optativa": [
+            1626738,
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0104": {
+        "codigo": "GDECV0104",
+        "disciplina": "USO RACIONAL DA ÁGUA EM EDIFICAÇÕES",
+        "Optativa": [
+            1626738,
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0106": {
+        "codigo": "GDECV0106",
+        "disciplina": "MODELAGEM DA INFORMAÇÃO DA CONSTRUÇÃO",
+        "Optativa": [
+            1626738
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0110": {
+        "codigo": "GDECV0110",
+        "disciplina": "ESTAGIO SUPERVISIONADO (ENGENHARIA CIVIL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0111": {
+        "codigo": "GDECV0111",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA CIVIL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626738
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEAL0100": {
+        "codigo": "GDEAL0100",
+        "disciplina": "FUNDAMENTOS DE TECNOLOGIA DA CERVEJA",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDEAL0101": {
+        "codigo": "GDEAL0101",
+        "disciplina": "FUNDAMENTOS DE TECNOLOGIA DA CACHAÇA",
+        "Optativa": [
+            1626740
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDLPL0029": {
+        "codigo": "GDLPL0029",
+        "disciplina": "LÍNGUA PORTUGUESA I",
+        "Optativa": [
+            1626741
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDCOC0080": {
+        "codigo": "GDCOC0080",
+        "disciplina": "MÉTODOS COMPUTACIONAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEPR0018": {
+        "codigo": "GDEPR0018",
+        "disciplina": "ESTÁGIO SUPERVISIONADO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626741
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DEQ008080": {
+        "codigo": "DEQ008080",
+        "disciplina": "RELAÇÕES HUMANAS NA PROFISSÃO DE  ENGENHARIA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0105": {
+        "codigo": "GDPEQ0105",
+        "disciplina": "INTRODUÇÃO À ENGENHARIA DE PETRÓLEO E GÁS NATURAL",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0125": {
+        "codigo": "GDPEQ0125",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA I",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0126": {
+        "codigo": "GDPEQ0126",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA II",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0120": {
+        "codigo": "GDPEQ0120",
+        "disciplina": "ENGENHARIA ENZIMATICA",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0119": {
+        "codigo": "GDPEQ0119",
+        "disciplina": "BOMBAS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0121": {
+        "codigo": "GDPEQ0121",
+        "disciplina": "OTIMIZAÇÃO DE PROCESSOS",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0122": {
+        "codigo": "GDPEQ0122",
+        "disciplina": "TERMODINÂMICA DO EQUILÍBRIO",
+        "Optativa": [
+            1626804
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0123": {
+        "codigo": "GDPEQ0123",
+        "disciplina": "ESTÁGIO SUPERVISIONADO II (ENGENHARIA QUÍMICA)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0124": {
+        "codigo": "GDPEQ0124",
+        "disciplina": "TRABALHO FINAL DO CURSO (TFC)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626804
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDGEO0128": {
+        "codigo": "GDGEO0128",
+        "disciplina": "AUDITORIA AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDGEO0135": {
+        "codigo": "GDGEO0135",
+        "disciplina": "SENSORIAMENTO REMOTO",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDGEO0136": {
+        "codigo": "GDGEO0136",
+        "disciplina": "PROCESSAMENTO DIGITAL DE IMAGENS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDGEO0149": {
+        "codigo": "GDGEO0149",
+        "disciplina": "AGROECOLOGIA",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDGEO0151": {
+        "codigo": "GDGEO0151",
+        "disciplina": "LICENCIAMENTO AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0103": {
+        "codigo": "GDECV0103",
+        "disciplina": "PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0101": {
+        "codigo": "GDECV0101",
+        "disciplina": "TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS",
+        "Optativa": [
+            1626806
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DECV00252": {
+        "codigo": "DECV00252",
+        "disciplina": "PESQUISA APLICADA À ENGENHARIA AMBIENTAL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0113": {
+        "codigo": "GDECV0113",
+        "disciplina": "ESTÁGIO SUPERVISIONADO I (ENGENHARIA AMBIENTAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0112": {
+        "codigo": "GDECV0112",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA AMBIENTAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDECV0114": {
+        "codigo": "GDECV0114",
+        "disciplina": "ESTÁGIO SUPERVISIONADO II (ENGENHARIA AMBIENTAL)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626806
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00093": {
+        "codigo": "DENM00093",
+        "disciplina": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS I",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626809
+        ]
+    },
+    "DENM00094": {
+        "codigo": "DENM00094",
+        "disciplina": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS II",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626809
+        ]
+    },
+    "DENM00095": {
+        "codigo": "DENM00095",
+        "disciplina": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS III",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626809
+        ]
+    },
+    "DENM00096": {
+        "codigo": "DENM00096",
+        "disciplina": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS IV",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626809
+        ]
+    },
+    "DEP005116": {
+        "codigo": "DEP005116",
+        "disciplina": "SEGURANÇA DO TRABALHO",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DENM00070": {
+        "codigo": "DENM00070",
+        "disciplina": "INTRODUÇÃO À ENGENHARIA DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00085": {
+        "codigo": "DENM00085",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DQUI00212": {
+        "codigo": "DQUI00212",
+        "disciplina": "QUÍMICA ORGÂNICA TEÓRICA A",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00069": {
+        "codigo": "DENM00069",
+        "disciplina": "GEOLOGIA E MINERALOGIA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00071": {
+        "codigo": "DENM00071",
+        "disciplina": "MATERIAIS POLIMÉRICOS I",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00086": {
+        "codigo": "DENM00086",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00072": {
+        "codigo": "DENM00072",
+        "disciplina": "MEIO AMBIENTE E RECICLAGEM DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00081": {
+        "codigo": "DENM00081",
+        "disciplina": "MATERIAIS POLIMÉRICOS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00077": {
+        "codigo": "DENM00077",
+        "disciplina": "REOLOGIA DOS MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00097": {
+        "codigo": "DENM00097",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00084": {
+        "codigo": "DENM00084",
+        "disciplina": "PROCESSAMENTO DE ELASTÔMEROS E TERMOFIXOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00088": {
+        "codigo": "DENM00088",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00065": {
+        "codigo": "DENM00065",
+        "disciplina": "BLENDAS POLIMÉRICAS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DENM00068": {
+        "codigo": "DENM00068",
+        "disciplina": "FUNDIÇÃO DE METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00075": {
+        "codigo": "DENM00075",
+        "disciplina": "PROCESSAMENTO DE TERMOPLÁSTICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00082": {
+        "codigo": "DENM00082",
+        "disciplina": "MATERIAIS E DISPOSITIVOS ELETRO-ELETRÔNICOS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00073": {
+        "codigo": "DENM00073",
+        "disciplina": "METALURGIA DO PÓ",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DENM00074": {
+        "codigo": "DENM00074",
+        "disciplina": "NANOTECNOLOGIA DE POLÍMEROS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DENM00066": {
+        "codigo": "DENM00066",
+        "disciplina": "CERÂMICAS AVANÇADAS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00067": {
+        "codigo": "DENM00067",
+        "disciplina": "CONFORMAÇÃO PLÁSTICA DE METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00076": {
+        "codigo": "DENM00076",
+        "disciplina": "PRODUTOS CERÂMICOS INDUSTRIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00078": {
+        "codigo": "DENM00078",
+        "disciplina": "SOLDAGEM DE METAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00079": {
+        "codigo": "DENM00079",
+        "disciplina": "TÉCNICAS ESPECTROSCÓPICAS PARA POLÍMEROS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DENM00080": {
+        "codigo": "DENM00080",
+        "disciplina": "USINAGEM DE METAIS",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "GDFIS0109": {
+        "codigo": "GDFIS0109",
+        "disciplina": "LABORATORIO DE INSTRUMENTAÇÃO CIENTIFICA II",
+        "Optativa": [
+            1626809
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    },
+    "DCSC00197": {
+        "codigo": "DCSC00197",
+        "disciplina": "RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00089": {
+        "codigo": "DENM00089",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00090": {
+        "codigo": "DENM00090",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VI",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00091": {
+        "codigo": "DENM00091",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00092": {
+        "codigo": "DENM00092",
+        "disciplina": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VIII",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDENM0066": {
+        "codigo": "GDENM0066",
+        "disciplina": "TRABALHO DE CONCLUSÃO DE CURSO",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "DENM00083": {
+        "codigo": "DENM00083",
+        "disciplina": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA DE MATERIAIS",
+        "Optativa": [],
+        "Obrigatória": [
+            1626809
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDPEQ0127": {
+        "codigo": "GDPEQ0127",
+        "disciplina": "PROCESSOS DE INDÚSTRIA QUÍMICA",
+        "Optativa": [],
+        "Obrigatória": [
+            1626849
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEME0100": {
+        "codigo": "GDEME0100",
+        "disciplina": "ELEMENTOS DE MÁQUINAS II",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEME0105": {
+        "codigo": "GDEME0105",
+        "disciplina": "ACIONAMENTO E COMANDOS HIDROPNEUMÁTICOS (TEÓRIA)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEME0106": {
+        "codigo": "GDEME0106",
+        "disciplina": "ACIONAMENTO E COMANDOS HIDROPNEUMÁTICOS (PRÁTICA)",
+        "Optativa": [],
+        "Obrigatória": [
+            1626866
+        ],
+        "ComplementarFlexiva": []
+    },
+    "GDEME0101": {
+        "codigo": "GDEME0101",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA MECANICA",
+        "Optativa": [],
+        "Obrigatória": [],
+        "ComplementarFlexiva": [
+            1626866
+        ]
+    },
+    "GDEME0102": {
+        "codigo": "GDEME0102",
+        "disciplina": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA (COMPLETAÇÃO DE POÇOS)",
+        "Optativa": [
+            1626866
+        ],
+        "Obrigatória": [],
+        "ComplementarFlexiva": []
+    }
+}

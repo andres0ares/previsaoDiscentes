@@ -47,7 +47,6 @@ try {
     
 
     try {
-        // A palavra 'await' pausa a execução DENTRO desta função até a gravação terminar
         await writeFile(saida, JSON.stringify(dados, null, 4), 'utf8');
         console.log(`Arquivo salvo com sucesso em: ${saida}. Quantidade: ${Object.keys(dados).length}`);
     } catch (erro) {
@@ -55,7 +54,6 @@ try {
     }
 
      try {
-        // A palavra 'await' pausa a execução DENTRO desta função até a gravação terminar
         await writeFile(saida2, JSON.stringify(dados2, null, 4), 'utf8');
         console.log(`Arquivo salvo com sucesso em: ${saida2}. Quantidade: ${Object.keys(dados2).length}`);
     } catch (erro) {
