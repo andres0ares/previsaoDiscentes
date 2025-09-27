@@ -1,5 +1,6 @@
 {
     "codigo": "252006",
+    "curso": 1626866,
     "curriculo": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2007,
     "periodo": 1,
@@ -10,594 +11,694 @@
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1404128",
             "nome": "LINGUA FRANCESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1609247",
             "nome": "EDUCAÇÃO FÍSICA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701156",
             "nome": "TECNOLOGIA MECANICA II",
             "carga_horaria": "90CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701204",
             "nome": "MÁQUINAS FERRAMENTAS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701205",
             "nome": "SELEÇÃO E USO DE MATERIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701206",
             "nome": "NOVOS MATERIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701207",
             "nome": "CORROSÃO E PROTEÇÃO DOS MATERIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701227",
             "nome": "PROCESSAMENTO DE MATERIAIS PARTICULADOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705149",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO II",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705150",
             "nome": "EMPREENDEDORISMO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103177",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105161",
             "nome": "QUÍMICA FUNDAMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1401161",
             "nome": "SOCIOLOGIA DO TRABALHO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1701175",
             "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "GDLPL0063",
             "nome": "PORTUGUÊS INSTRUMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1101157",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103178",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103179",
             "nome": "INTRODUÇÃO À ÁLGEBRA LINEAR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1404138",
             "nome": "LINGUA INGLESA I",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1701176",
             "nome": "DESENHO DE MÁQUINAS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1703103",
             "nome": "CIÊNCIAS DO AMBIENTE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1101163",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101165",
             "nome": "FÍSICA EXPERIMENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103180",
             "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103232",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1107136",
             "nome": "INTRODUÇÃO A PROGRAMAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1701178",
             "nome": "DESENHO DE MÁQUINAS ASSISTIDO POR COMPUTADOR",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1701215",
             "nome": "SISTEMAS CAE/CAD/CAM",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 4
         },
         {
             "codigo": "1101164",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1204115",
             "nome": "ADMINISTRAÇÃO DE EMPRESAS",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1701180",
             "nome": "MECÂNICA DOS SÓLIDOS I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1701198",
             "nome": "METROLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703211",
             "nome": "PESQUISA APLICADA À ENGENHARIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1708064",
             "nome": "MATERIAIS DE CONSTRUÇÃO MECÂNICA I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1101120",
             "nome": "FÍSICA GERAL IV",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1701208",
             "nome": "ROBÓTICA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "GDFIS0114",
             "nome": "FÍSICA GERAL IV",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1101166",
             "nome": "FÍSICA EXPERIMENTAL II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1201126",
             "nome": "ECONOMIA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701179",
             "nome": "MECÂNICA DOS FLUIDOS II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701181",
             "nome": "MECÂNICA DOS SÓLIDOS II",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701186",
             "nome": "MATERIAIS DE CONSTRUÇÃO MECÂNICA II",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701196",
             "nome": "FUNDIÇÃO E SOLDAGEM DOS METAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "GDCOC0072",
             "nome": "CALCULO NUMERICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701182",
             "nome": "MECÂNICA DOS SÓLIDOS III",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701185",
             "nome": "MÉTODOS COMPUTACIONAIS APLICADOS À ENGENHARIA",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701187",
             "nome": "TEORIA DE CONTROLE",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701193",
             "nome": "CINEMÁTICA E DINÂMICA DE MECANISMOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701195",
             "nome": "CONFORMAÇÃO PLÁSTICA DOS METAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701197",
             "nome": "USINAGEM DOS METAIS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701202",
             "nome": "TERMODINÂMICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701210",
             "nome": "CONTROLE DE ROBÔS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1701211",
             "nome": "CONTROLE DE PROCESSOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1701214",
             "nome": "PROJETO EM MECÂNICA DE PRECISÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1701216",
             "nome": "ANÁLISE MATRICIAL E MODELAGEM DE ESTRUTURAS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1701218",
             "nome": "CONTROLE DE RUÍDO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1701109",
             "nome": "ELEMENTOS DE MÁQUINAS I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701162",
             "nome": "TRANSFERÊNCIA DE CALOR E MASSA",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701177",
             "nome": "OFICINA MECÂNICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701191",
             "nome": "SISTEMAS FLUIDOMECÂNICOS II",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701203",
             "nome": "TERMODINÂMICA II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1707010",
             "nome": "ELETROTÉCNICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701213",
             "nome": "SISTEMAS MECÂNICOS DE TRANSPORTE",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701219",
             "nome": "PROCESSOS E SISTEMAS DE COMBUSTÃO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701220",
             "nome": "PROJETO DE SISTEMAS TERMOHIDRÁULICOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701221",
             "nome": "MODELAGEM E SIMULAÇÃO DE SISTEMAS TERMO-FLUÍDOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701223",
             "nome": "SISTEMAS ENERGÉTICOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701224",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA I",
             "carga_horaria": "90CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 8
         },
         {
             "codigo": "1701454",
             "nome": "SISTEMAS ENERGÉTICOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701455",
             "nome": "PROJETOS DE SISTEMAS MECÂNICOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1701184",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701194",
             "nome": "VIBRAÇÕES DE SISTEMAS MECÂNICOS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701200",
             "nome": "GERAÇÃO E DISTRIBUIÇÃO DE VAPOR",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705102",
             "nome": "CUSTOS DA PRODUÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705103",
             "nome": "ERGONOMIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705108",
             "nome": "PROGRAMA E CONTROLE DA PRODUCAO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705109",
             "nome": "SEGURANÇA INDUSTRIAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1707006",
             "nome": "MAQUINAS E ACIONAMENTOS ELETRICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1707008",
             "nome": "ELETRÔNICA ANALÓGICA E DIGITAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701209",
             "nome": "CONTROLE DE VIBRAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1701130",
             "nome": "MANUTENÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1701183",
             "nome": "ESTÁGIO SUPERVISIONADO",
             "carga_horaria": "ENGENHARIA MECÂNICA",
+            "tipo": "Obrigatória",
+            "optativa": "180CH",
             "periodo": 9
         },
         {
             "codigo": "1701190",
             "nome": "INSTRUMENTAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1701199",
             "nome": "MÁQUINAS TÉRMICAS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1701201",
             "nome": "CONDICIONAMENTO DE AR, VENTILAÇÃO E REFRIGERAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705106",
             "nome": "PLANEJAMENTO DAS INSTALAÇÕES INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDEME0100",
             "nome": "ELEMENTOS DE MÁQUINAS II",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDEME0105",
             "nome": "ACIONAMENTO E COMANDOS HIDROPNEUMÁTICOS (TEÓRIA)",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDEME0106",
             "nome": "ACIONAMENTO E COMANDOS HIDROPNEUMÁTICOS (PRÁTICA)",
             "carga_horaria": "15CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1701173",
             "nome": "TOPICOS ESPECIAIS EM ENGENHARIA MECANICA",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 10
         },
         {
             "codigo": "1701217",
             "nome": "EXTENSOMETRIA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 10
         },
         {
             "codigo": "1701222",
             "nome": "PROJETO DE REFRIGERAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 10
         },
         {
             "codigo": "1701225",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II",
             "carga_horaria": "60CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 10
         },
         {
             "codigo": "GDEME0101",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECANICA",
             "carga_horaria": "45CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 10
         },
         {
             "codigo": "GDEME0102",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA (COMPLETAÇÃO DE POÇOS)",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 10
         }
     ]

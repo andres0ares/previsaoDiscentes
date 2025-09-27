@@ -1,5 +1,6 @@
 {
     "codigo": "202021",
+    "curso": 1626809,
     "curriculo": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2021,
     "periodo": 1,
@@ -10,510 +11,597 @@
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "DENM00093",
             "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS I",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "DENM00094",
             "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS II",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "DENM00095",
             "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS III",
             "carga_horaria": "60CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "DENM00096",
             "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE MATERIAIS IV",
             "carga_horaria": "60CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "DEP005116",
             "nome": "SEGURANÇA DO TRABALHO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103177",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105163",
             "nome": "QUIMICA BASICA  ESTRUTURA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105164",
             "nome": "QUIMICA BASICA  TRANSFORMACOES",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1107136",
             "nome": "INTRODUÇÃO A PROGRAMAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1708001",
             "nome": "METODOLOGIA DO TRABALHO CIENTIFICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "DENM00070",
             "nome": "INTRODUÇÃO À ENGENHARIA DE MATERIAIS",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1101157",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103178",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103179",
             "nome": "INTRODUÇÃO À ÁLGEBRA LINEAR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105162",
             "nome": "QUIMICA BASICA  EXPERIMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1708002",
             "nome": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "DENM00085",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "DQUI00212",
             "nome": "QUÍMICA ORGÂNICA TEÓRICA A",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1101163",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101165",
             "nome": "FÍSICA EXPERIMENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103180",
             "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103232",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1708003",
             "nome": "DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "DENM00069",
             "nome": "GEOLOGIA E MINERALOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "DENM00071",
             "nome": "MATERIAIS POLIMÉRICOS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "DENM00086",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101164",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1708009",
             "nome": "MATERIAIS CERÂMICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1708010",
             "nome": "MATERIAIS METÁLICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1708011",
             "nome": "MECÂNICA DOS MATERIAIS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "DENM00072",
             "nome": "MEIO AMBIENTE E RECICLAGEM DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "DENM00081",
             "nome": "MATERIAIS POLIMÉRICOS II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1101166",
             "nome": "FÍSICA EXPERIMENTAL II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1708012",
             "nome": "PESQUISA APLICADA A ENGENHARIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1708013",
             "nome": "PROPRIEDADES MECÂNICAS DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1708014",
             "nome": "CARACTERIZAÇÃO MICROESTRUTURAL DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1708018",
             "nome": "FENÔMENOS DE TRANSPORTE",
             "carga_horaria": "ENGENHARIA DE MATERIAIS",
+            "tipo": "Obrigatória",
+            "optativa": "60CH",
             "periodo": 5
         },
         {
             "codigo": "1708019",
             "nome": "MECÂNICA DOS MATERIAIS II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "DENM00077",
             "nome": "REOLOGIA DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "DENM00097",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1708020",
             "nome": "CARACTERIZAÇÃO MECÂNICA DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1708021",
             "nome": "PROPRIEDADES FÍSICAS DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1708022",
             "nome": "TRATAMENTOS TÉRMICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1708024",
             "nome": "TERMODINÂMICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1708027",
             "nome": "CORROSÃO E DEGRADAÇÃO DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "DENM00084",
             "nome": "PROCESSAMENTO DE ELASTÔMEROS E TERMOFIXOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "DENM00088",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1705178",
             "nome": "GESTÃO DA QUALIDADE",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1708025",
             "nome": "MECÂNICA DOS MATERIAIS III",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1708043",
             "nome": "CERÂMICAS REFRATÁRIAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "DENM00065",
             "nome": "BLENDAS POLIMÉRICAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1708030",
             "nome": "TRANSFORMAÇÕES DE FASES",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1708032",
             "nome": "BIOMATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1708042",
             "nome": "PROCESSAMENTO DE MATERIAIS CERÂMICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "DENM00068",
             "nome": "FUNDIÇÃO DE METAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "DENM00075",
             "nome": "PROCESSAMENTO DE TERMOPLÁSTICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "DENM00082",
             "nome": "MATERIAIS E DISPOSITIVOS ELETRO-ELETRÔNICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1708023",
             "nome": "MATERIAIS CIMENTÍCIOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1708031",
             "nome": "MODELAGEM DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1708046",
             "nome": "TECNOLOGIA DE VIDROS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "DENM00073",
             "nome": "METALURGIA DO PÓ",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "DENM00074",
             "nome": "NANOTECNOLOGIA DE POLÍMEROS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1201153",
             "nome": "INTRODUCAO A ECONOMIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1708017",
             "nome": "MATERIAIS COMPÓSITOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "DENM00066",
             "nome": "CERÂMICAS AVANÇADAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "DENM00067",
             "nome": "CONFORMAÇÃO PLÁSTICA DE METAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "DENM00076",
             "nome": "PRODUTOS CERÂMICOS INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "DENM00078",
             "nome": "SOLDAGEM DE METAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1708050",
             "nome": "SIDERURGIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1708056",
             "nome": "SELEÇÃO DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "DENM00079",
             "nome": "TÉCNICAS ESPECTROSCÓPICAS PARA POLÍMEROS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "DENM00080",
             "nome": "USINAGEM DE METAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "GDFIS0109",
             "nome": "LABORATORIO DE INSTRUMENTAÇÃO CIENTIFICA II",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1204172",
             "nome": "ADMINISTRAÇÃO PARA ENGENHARIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "DCSC00197",
             "nome": "RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "DENM00089",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "DENM00090",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VI",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "DENM00091",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "DENM00092",
             "nome": "UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VIII",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDENM0066",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
             "carga_horaria": "TCC",
+            "tipo": "Obrigatória",
+            "optativa": "60CH",
             "periodo": 9
         },
         {
             "codigo": "DENM00083",
             "nome": "ESTÁGIO SUPERVISIONADO EM ENGENHARIA DE MATERIAIS",
             "carga_horaria": "285CH",
+            "tipo": "Obrigatória",
             "periodo": 10
         }
     ]

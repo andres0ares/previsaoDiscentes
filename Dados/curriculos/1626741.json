@@ -1,5 +1,6 @@
 {
     "codigo": "591997",
+    "curso": 1626741,
     "curriculo": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 1997,
     "periodo": 1,
@@ -10,552 +11,644 @@
             "codigo": "1202142",
             "nome": "CONTABILIDADE GERENCIAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1202162",
             "nome": "ORCAMENTO EMPRESARIAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1202173",
             "nome": "ADMINISTRACAO FINANCEIRA ENGENHARIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1204174",
             "nome": "MARKETING",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1204175",
             "nome": "ADM ESTRATEGICA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1204181",
             "nome": "ADMINISTRACAO FINANCEIRA ADM",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1403119",
             "nome": "LINGUA PORTUGUESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1403120",
             "nome": "LÍNGUA PORTUGUESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1404128",
             "nome": "LINGUA FRANCESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1404138",
             "nome": "LINGUA INGLESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1609247",
             "nome": "EDUCAÇÃO FÍSICA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1701173",
             "nome": "TOPICOS ESPECIAIS EM ENGENHARIA MECANICA",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1704218",
             "nome": "TÓPICOS XXIII PROG NEC E MOD DE FUNC",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1705134",
             "nome": "SIMULAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705135",
             "nome": "PLANEJ E CONTR INTEG DE MANUFATURA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705136",
             "nome": "PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705137",
             "nome": "GERENCIAMENTO DE PROJETOS",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705138",
             "nome": "ENGENHARIA DE PRODUÇÃO NA PEQUENA E MÉDIA EMPRESA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705139",
             "nome": "SINDICALISMO E CONDIÇÕES DE TRABALHO",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705140",
             "nome": "CONFIABILIDADE DE SISTEMAS",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705141",
             "nome": "GESTÃO DE MATERIAIS",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705143",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705148",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705149",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO II",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLPL0029",
             "nome": "LÍNGUA PORTUGUESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1103114",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105128",
             "nome": "QUIMICA GERAL I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1107135",
             "nome": "INICIACAO A COMPUTACAO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704148",
             "nome": "DESENHO BASICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1705112",
             "nome": "INTRODUÇÃO À ENGENHARIA DE PRODUÇÃO",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1101117",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103104",
             "nome": "ÁLGEBRA LINEAR GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103115",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1701166",
             "nome": "MATERIAIS DE CONSTRUCAO MECANICA",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1705125",
             "nome": "SISTEMAS DE PRODUÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "GDCOC0080",
             "nome": "MÉTODOS COMPUTACIONAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1705133",
             "nome": "SISTEMAS DE INFORMAÇÕES GERENCIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1101118",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103112",
             "nome": "CALCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1204172",
             "nome": "ADMINISTRAÇÃO PARA ENGENHARIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1405183",
             "nome": "PSICOLOGIA DO TRABALHO",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1701142",
             "nome": "MECANICA GERAL",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101119",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1401161",
             "nome": "SOCIOLOGIA DO TRABALHO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1701167",
             "nome": "CINEMATICA E DINAMICA DAS MAQUINAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703139",
             "nome": "MECÂNICA DOS FLUIDOS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703154",
             "nome": "RESISTENCIA DOS MATERIAIS I",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1704149",
             "nome": "DESENHO ASSISTIDO POR COMPUTADOR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "GDCOC0072",
             "nome": "CALCULO NUMERICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1108124",
             "nome": "MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1201176",
             "nome": "ECONOMIA DA PRODUCAO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701174",
             "nome": "INTRODUCAO A ENGENHARIA DE FABRICACAO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1703155",
             "nome": "RESISTÊNCIA DOS MATERIAIS III",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705102",
             "nome": "CUSTOS DA PRODUÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705103",
             "nome": "ERGONOMIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705114",
             "nome": "ENGENHARIA ECONÔMICA I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705123",
             "nome": "SEGURANÇA INDUSTRIAL I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "GDFIS0114",
             "nome": "FÍSICA GERAL IV",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701146",
             "nome": "OFICINA MECÂNICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701159",
             "nome": "TERMODINÂMICA APLICADA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701170",
             "nome": "PROCESSOS METALURGICOS DE FABRICACAO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701171",
             "nome": "USINAGEM DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1705110",
             "nome": "TEMPOS E MOVIMENTOS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1705115",
             "nome": "ENGENHARIA ECONÔMICA II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1705126",
             "nome": "ORGANIZAÇÃO DO TRABALHO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1705144",
             "nome": "PLANEJAMENTO ESTRATEGICO",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1707010",
             "nome": "ELETROTÉCNICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1701153",
             "nome": "SISTEMAS TERMICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1701172",
             "nome": "SISTEMAS FLUIDOMECANICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1705124",
             "nome": "SEGURANÇA INDUSTRIAL II",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1705127",
             "nome": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1705130",
             "nome": "PLANEJAMENTO E PROJETO DO PRODUTO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1705145",
             "nome": "PESQUISA OPERACIONAL I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1106134",
             "nome": "TEORIA ECOLÓGICA E ANÁLISE AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1401198",
             "nome": "MÉTODOS E TÉCNICAS DA PESQUISA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701168",
             "nome": "ELEMENTOS DE MAQUINAS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701169",
             "nome": "CONFORTO TERMICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705101",
             "nome": "CONTROLE ESTATÍSTICO DA QUALIDADE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705106",
             "nome": "PLANEJAMENTO DAS INSTALAÇÕES INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705113",
             "nome": "ÉTICA E ENGENHARIA",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1705146",
             "nome": "PESQUISA OPERACIONAL II",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1701130",
             "nome": "MANUTENÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705122",
             "nome": "GESTÃO DA QUALIDADE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705128",
             "nome": "TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705129",
             "nome": "LOGÍSTICA INDUSTRIAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705167",
             "nome": "PROJETOS INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705132",
             "nome": "TRABALHO DE GRADUAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 10
         },
         {
             "codigo": "GDEPR0018",
             "nome": "ESTÁGIO SUPERVISIONADO",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 10
         }
     ]

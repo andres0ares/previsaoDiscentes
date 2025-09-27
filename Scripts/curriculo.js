@@ -23,6 +23,8 @@ for(let i = 0; i < qtd; i++) {
             codigo: disciplina[0],
             nome: disciplina[1],
             carga_horaria: disciplina[2],
+            tipo: disciplinas_do_periodo[j].children[1].textContent.replace(/\s+/g, ''),
+            optativa:  disciplina[3],
             periodo: i,
         })
     }

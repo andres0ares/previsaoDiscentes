@@ -1,5 +1,6 @@
 {
     "codigo": "442009",
+    "curso": 1626740,
     "curriculo": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2009,
     "periodo": 1,
@@ -10,576 +11,673 @@
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1404138",
             "nome": "LINGUA INGLESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1404139",
             "nome": "LINGUA INGLESA I",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1405183",
             "nome": "PSICOLOGIA DO TRABALHO",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1406238",
             "nome": "RELAÇÕES PÚBLICAS E HUMANA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1702150",
             "nome": "ESTAGIO EXTRA CURRICULAR",
             "carga_horaria": "240CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1702190",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS I",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1702191",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE ALIMENTOS II",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1702202",
             "nome": "TECNOLOGIA DE BEBIDAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705102",
             "nome": "CUSTOS DA PRODUÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1709023",
             "nome": "TECNOLOGIA DO AÇÚCAR E DO ÁLCOOL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDEAL0100",
             "nome": "FUNDAMENTOS DE TECNOLOGIA DA CERVEJA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDEAL0101",
             "nome": "FUNDAMENTOS DE TECNOLOGIA DA CACHAÇA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103177",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1104232",
             "nome": "FUNDAMENTOS DE BIOLOGIA CELULAR E MOLECULAR APLICADA A ENGENHARIA DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105220",
             "nome": "QUIMICA GERAL E INORGANICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1107136",
             "nome": "INTRODUÇÃO A PROGRAMAÇÃO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1205003",
             "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1401134",
             "nome": "INTRODUÇÃO À SOCIOLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1702154",
             "nome": "ENGENHARIA DE ALIMENTOS NA SOCIEDADE",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704239",
             "nome": "DESENHO ASSIST POR COMP PENG DE ALIM",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 2
         },
         {
             "codigo": "1101157",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103141",
             "nome": "INTRODUÇÃO À ÁLGEBRA LINEAR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103178",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105167",
             "nome": "QUÍMICA ORGÂNICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105218",
             "nome": "FUNDAMENTOS DE FISICOQUIMICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105219",
             "nome": "QUIMICA GERAL E INORGÂNICA EXPERIMENTAL",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1702170",
             "nome": "MATÉRIAS-PRIMAS AGROPECUÁRIAS DE ORIGEM ANIMAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1702171",
             "nome": "MATÉRIAS-PRIMAS AGROPECUÁRIAS DE ORIGEM VEGETAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105172",
             "nome": "QUÍMICA ORGÂNICA II",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1101163",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101165",
             "nome": "FÍSICA EXPERIMENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103180",
             "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103232",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105171",
             "nome": "QUÍMICA ORGÂNIGA EXPERIMENTAL I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105222",
             "nome": "FUNDAMENTO DA FÍSICO-QUÍMICA EXPERIMENTAL",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1702158",
             "nome": "QUÍMICA DE ALIMENTOS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1702160",
             "nome": "MICROBIOLOGIA DE ALIMENTOS I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1702161",
             "nome": "LABORATÓRIO DE MICROBIOLOGIA DE ALIMENTOS I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105179",
             "nome": "QUÍMICA ORGÂNICA EXPERIMENTAL II",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 4
         },
         {
             "codigo": "1101164",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1105166",
             "nome": "QUÍMICA ANALÍTICA CLÁSSICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1701141",
             "nome": "MECÂNICA APLICADA TECNOLOGIA DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1702159",
             "nome": "QUÍMICA DE ALIMENTOS II",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1702162",
             "nome": "MICROBIOLOGIA DE ALIMENTOS II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1702163",
             "nome": "LABORATÓRIO DE MICROBIOLOGIA DE ALIMENTOS II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1702164",
             "nome": "PESQUISA APLICADA A ENGENHARIA DE ALIMENTOS",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1702165",
             "nome": "TERMODINÂMICA APLICADA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1108124",
             "nome": "MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1101166",
             "nome": "FÍSICA EXPERIMENTAL II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1105168",
             "nome": "QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1701453",
             "nome": "INTRODUÇÃO A CIÊNCIA E TECNOLOGIA DE MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1702166",
             "nome": "BIOQUÍMICA DE ALIMENTOS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1702168",
             "nome": "FENÔMENOS DE TRANSPORTES I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704238",
             "nome": "DESENHO BÁSICO PARA ENGENHARIA DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "GDCOC0072",
             "nome": "CALCULO NUMERICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "GDLPL0063",
             "nome": "PORTUGUÊS INSTRUMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1702192",
             "nome": "RECURSOS COMPUTACIONAIS PARA ENGENHARIA DE ALIMENTOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1702167",
             "nome": "BIOQUIMICA DE ALIMENTOS II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702169",
             "nome": "FENOMENOS DE TRANSPORTES II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702172",
             "nome": "ANÁLISE DE ALIMENTOS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702174",
             "nome": "PRINCÍPIOS DE CONSERVAÇÃO DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702175",
             "nome": "INSTALAÇÕES INDUSTRIAIS E INSTRUMENTAÇÃO I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702177",
             "nome": "HIGIENE NA INDUSTRIA DE ALIMENTOS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1703103",
             "nome": "CIÊNCIAS DO AMBIENTE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1707010",
             "nome": "ELETROTÉCNICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1702116",
             "nome": "FUNDAMENTOS DE NUTRICAO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702173",
             "nome": "ANALISE DE ALIMENTOS II",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702176",
             "nome": "INSTALAÇÕES INDUSTRIAIS E INSTRUMENTAÇÃO II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702178",
             "nome": "OPERAÇÕES UNITÁRIAS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702179",
             "nome": "OPERAÇÕES UNITÁRIAS II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702180",
             "nome": "CONTROLE DE QUALIDADE DE ALIMENTOS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702181",
             "nome": "PROCESSAMENTO DE ALIMENTOS DE ORIGEM VEGETAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702182",
             "nome": "PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1702193",
             "nome": "TECNOLOGIA DE LEITE E DERIVADOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1702194",
             "nome": "TECNOLOGIA DE PESCADO E DERIVADOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1702195",
             "nome": "TECNOLOGIA DE CARNES E DERIVADOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1702196",
             "nome": "TECNOLOGIA DE CEREAIS, RAÍZES, TUBÉRCULOS E PANIFICAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1702197",
             "nome": "TECNOLOGIA DA ÁGUA E RESÍDUOS DA INDÚSTRIA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1702198",
             "nome": "TECNOL DO AÇUCAR E DO ALCOOL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1705109",
             "nome": "SEGURANÇA INDUSTRIAL",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1201126",
             "nome": "ECONOMIA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1204115",
             "nome": "ADMINISTRAÇÃO DE EMPRESAS",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1702184",
             "nome": "ENGENHARIA BIOQUIMICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1702185",
             "nome": "REFRIGERAÇÃO NA INDÚSTRIA DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1702186",
             "nome": "EMBALAGEM DE ALIMENTOS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1702187",
             "nome": "ANÁLISE SENSORIAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1702199",
             "nome": "LABORATÓRIO DE ENGENHARIA BIOQUÍMICA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1702200",
             "nome": "PROJ DE REFRIG NA INDUST DE ALIMENTOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1702201",
             "nome": "FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1705177",
             "nome": "PLANEJAMENTO E PROJETO DA INDÚSTRIA DE ALIMENTOS",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1702188",
             "nome": "ESTAGIO SUPERVISIONADO",
             "carga_horaria": "180CH",
+            "tipo": "Obrigatória",
             "periodo": 10
         },
         {
             "codigo": "1702189",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO",
             "carga_horaria": "ENGENHARIA DE ALIMENTOS",
+            "tipo": "Obrigatória",
+            "optativa": "30CH",
             "periodo": 10
         }
     ]

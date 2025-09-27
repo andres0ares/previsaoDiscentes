@@ -1,5 +1,6 @@
 {
     "codigo": "34/022011",
+    "curso": 1626647,
     "curriculo": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2011,
     "periodo": 1,
@@ -10,516 +11,602 @@
             "codigo": "1105158",
             "nome": "TOPICOS SELEC EM QUIMICAESPECTROSC",
             "carga_horaria": "60CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1105166",
             "nome": "QUÍMICA ANALÍTICA CLÁSSICA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1201126",
             "nome": "ECONOMIA I",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1405183",
             "nome": "PSICOLOGIA DO TRABALHO",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1709099",
             "nome": "CROMATOGRAFIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "DADM00275",
             "nome": "ADMINISTRAÇÃO DE EMPRESAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "DADM00278",
             "nome": "ERGONOMIA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "DINF00077",
             "nome": "MÉTODOS COMPUTACIONAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDPEQ0112",
             "nome": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL I",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "GDPEQ0113",
             "nome": "TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL II",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103177",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105163",
             "nome": "QUIMICA BASICA  ESTRUTURA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105164",
             "nome": "QUIMICA BASICA  TRANSFORMACOES",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1709077",
             "nome": "QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1709080",
             "nome": "BIOQUÍMICA BÁSICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "GDLPL0063",
             "nome": "PORTUGUÊS INSTRUMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105181",
             "nome": "METODOS CROMATOGRAFICOS",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 2
         },
         {
             "codigo": "1709086",
             "nome": "MINERALOGIA",
             "carga_horaria": "75CH",
+            "tipo": "Optativa",
             "periodo": 2
         },
         {
             "codigo": "1101157",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103178",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105162",
             "nome": "QUIMICA BASICA  EXPERIMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105167",
             "nome": "QUÍMICA ORGÂNICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105168",
             "nome": "QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1205003",
             "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1404325",
             "nome": "LÍNGUA INGLESA INSTRUMENTAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1101163",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103232",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105169",
             "nome": "QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105171",
             "nome": "QUÍMICA ORGÂNIGA EXPERIMENTAL I",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105172",
             "nome": "QUÍMICA ORGÂNICA II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1105193",
             "nome": "COMPUTACAO PARA QUIMICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1709078",
             "nome": "INTRODUÇÃO À CIÊNCIA DOS MATERIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "DEQ008081",
             "nome": "TECNOLOGIA DE POLÍMEROS E FIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 4
         },
         {
             "codigo": "1101164",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1101165",
             "nome": "FÍSICA EXPERIMENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1105173",
             "nome": "TERMODINAMICA QUIMICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1105179",
             "nome": "QUÍMICA ORGÂNICA EXPERIMENTAL II",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1105204",
             "nome": "INTRODUCAO AOS METODOS INSTRUMENTAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1105184",
             "nome": "MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1101166",
             "nome": "FÍSICA EXPERIMENTAL II",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1105177",
             "nome": "TERMODINAMICA QUIMICA II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1105205",
             "nome": "INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705100",
             "nome": "CONTROLE DE QUALIDADE",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1705102",
             "nome": "CUSTOS DA PRODUÇÃO INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1709093",
             "nome": "ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1709094",
             "nome": "FENÔMENOS DE TRANSPORTE (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "DADM00276",
             "nome": "GESTÃO DA PRODUTIVIDADE",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "DEQ008082",
             "nome": "PLANEJAMENTO E PROJETOS NA INDUSTRIA QUÍMICA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "GDADM0119",
             "nome": "GESTÃO DA QUALIDADE",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1709037",
             "nome": "PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1709095",
             "nome": "PROCESSO QUÍMICOS AMBIENTAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1709096",
             "nome": "MICROBIOLOGIA INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1709100",
             "nome": "CINÉTICA E CÁLCULO DE REATORES",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "GDPEQ0104",
             "nome": "OPERAÇÕES UNITÁRIAS I (QUIMICA INDUSTRIAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "GDPEQ0106",
             "nome": "TERMODINÂMICA APLICADA (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "GDPEQ0108",
             "nome": "TECNOLOGIA DE FABRICAÇÃO DE COSMÉTICOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0114",
             "nome": "BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL)",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0116",
             "nome": "CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0128",
             "nome": "TECNOLOGIA DO AÇÚCAR, DA RAPADURA E DO MEL",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0129",
             "nome": "TECNOLOGIA DO ÁLCOOL E DA CACHAÇA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0130",
             "nome": "PROCESSOS FERMENTATIVOS INDUSTRIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0131",
             "nome": "CONTROLE DE PROCESSOS FERMENTATIVOS INDUSTRIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1709087",
             "nome": "PROCESSOS QUÍMICOS ORGÂNICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1709089",
             "nome": "PESQUISA APLICADA À QUIMICA INDUSTRIAL",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1709090",
             "nome": "BOAS PRÁTICAS DE FABRICACÃO NA INDÚSTRIA QUÍMICA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1709091",
             "nome": "PROCESSOS QUÍMICOS INORGÂNICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1709098",
             "nome": "BIOTECNOLOGIA INDUSTRIAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDECV0107",
             "nome": "TRATAMENTO DE EFLUENTES DOMESTICOS E INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDECV0108",
             "nome": "TRATAMENTO DE RESIDUOS SOLIDOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDECV0109",
             "nome": "GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0007",
             "nome": "ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDPEQ0107",
             "nome": "OPERAÇÕES UNITÁRIAS II (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "DADM00277",
             "nome": "FUNDAMENTOS ESPECIAIS EM EMPREENDEDORISMO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0109",
             "nome": "GESTÃO DA QUALIDADE DE SANEANTES E COSMÉTICOS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0115",
             "nome": "BIOTECNOLOGIA NA PRODUÇÃO DE ALIMENTOS ( QUÍMICA INDUSTRIAL)",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0117",
             "nome": "HIGIENE E LEGISLAÇÃO DE ALIMENTOS ( QUIMICA INDUSTRIAL)",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0118",
             "nome": "TECNOLOGIA DE FABRICAÇÃO DE SANEANTES",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0100",
             "nome": "ESTAGIO SUPERVISIONADO II (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "180CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0101",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO (QUÍMICA INDUSTRIAL)",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0102",
             "nome": "INTRODUÇÃO À INDÚSTRIA DO PETRÓLEO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0103",
             "nome": "METROLOGIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "GDPEQ0110",
             "nome": "HIGIENE E SEGURANÇA DO TRABALHO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         }
     ]

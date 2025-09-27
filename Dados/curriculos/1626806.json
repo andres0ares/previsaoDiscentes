@@ -1,5 +1,6 @@
 {
     "codigo": "0292008",
+    "curso": 1626806,
     "curriculo": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2013,
     "periodo": 2,
@@ -10,606 +11,708 @@
             "codigo": "1102241",
             "nome": "AUDITORIA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1102243",
             "nome": "GEOQUÍMICA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1108180",
             "nome": "MÉTODOS ESTATÍSTICOS APLICADOS ÀS CIÊNCIAS TECNOLÓGICAS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1401159",
             "nome": "SOCIOLOGIA DO DESENVOLVIMENTO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1401169",
             "nome": "SOCIOLOGIA URBANA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1401313",
             "nome": "SOCIOLOGIA AMBIENTAL APLICADA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705113",
             "nome": "ÉTICA E ENGENHARIA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705123",
             "nome": "SEGURANÇA INDUSTRIAL I",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705174",
             "nome": "PLANEJAMENTO E CONTROLE DA PRODUÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1705179",
             "nome": "EMPREENDEDORISMO I",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDGEO0128",
             "nome": "AUDITORIA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDGEO0135",
             "nome": "SENSORIAMENTO REMOTO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDGEO0136",
             "nome": "PROCESSAMENTO DIGITAL DE IMAGENS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDGEO0149",
             "nome": "AGROECOLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDGEO0151",
             "nome": "LICENCIAMENTO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1103118",
             "nome": "CÁLCULO VETORIAL E GEOMETRIA ANALÍTICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1103177",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1105161",
             "nome": "QUÍMICA FUNDAMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1106222",
             "nome": "BIOLOGIA GERAL",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1703227",
             "nome": "INTRODUÇÃO À ENGENHARIA AMBIENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704242",
             "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "GDLPL0063",
             "nome": "PORTUGUÊS INSTRUMENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1106243",
             "nome": "BIOLOGIA VEGETAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 2
         },
         {
             "codigo": "1106249",
             "nome": "ZOOLOGIA GERAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 2
         },
         {
             "codigo": "1101157",
             "nome": "FÍSICA GERAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1103178",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1105174",
             "nome": "QUIMICA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1106254",
             "nome": "ECOLOGIA BÁSICA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1107174",
             "nome": "INICIACAO A COMPUTACAO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1108100",
             "nome": "CÁLCULO DAS PROBABILIDADES E ESTATÍSTICA I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1704245",
             "nome": "DESENHO BÁSICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1106129",
             "nome": "OCEANOGRAFIA GERAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1106181",
             "nome": "TÉCNICAS DE CAMPO APLICADA À BOTÂNICA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1106185",
             "nome": "DIVERSIDADE E CONSERVACAO DA FLORA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1106251",
             "nome": "FITOSSOCIOLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 3
         },
         {
             "codigo": "1101163",
             "nome": "FÍSICA GERAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1101165",
             "nome": "FÍSICA EXPERIMENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1102240",
             "nome": "FUNDAMENTOS DE CLIMATOLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103179",
             "nome": "INTRODUÇÃO À ÁLGEBRA LINEAR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1103232",
             "nome": "CÁLCULO DIFERENCIAL E INTEGRAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1106250",
             "nome": "ECOLOGIA MICROBIANA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1703236",
             "nome": "INTRODUÇÃO ÀS CIÊNCIAS DOS MATERIAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704235",
             "nome": "DESENHO ASSISTIDO POR COMPUTADOR",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1106244",
             "nome": "DIVERSIDADE E CONSERV DA FAUNA BRAS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 4
         },
         {
             "codigo": "1106246",
             "nome": "EST COMPARATIVO DA FLORA NORDESTINA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 4
         },
         {
             "codigo": "1703239",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL I",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 4
         },
         {
             "codigo": "1101164",
             "nome": "FÍSICA GERAL III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1102116",
             "nome": "FUNDAMENTOS DE GEOLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1103180",
             "nome": "SÉRIES E EQUAÇÕES DIFERENCIAIS ORDINÁRIAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1106253",
             "nome": "ECOSSISTEMAS AQUÁTICOS E TERRESTRES",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1613126",
             "nome": "SAUDE AMBIENTAL",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703139",
             "nome": "MECÂNICA DOS FLUIDOS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703221",
             "nome": "TOPOGRAFIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1102245",
             "nome": "RISCO GEOLÓGICO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1106247",
             "nome": "FITOGEOGRAFIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1106248",
             "nome": "TEORIA ECOL E ANALISE AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 5
         },
         {
             "codigo": "1703240",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL II",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 5
         },
         {
             "codigo": "1102242",
             "nome": "CARTOGRAFIA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1106230",
             "nome": "ECOLOGIA APLICADA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1201294",
             "nome": "ECONOMIA AMBIENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1703127",
             "nome": "HIDRÁULICA",
             "carga_horaria": "75CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1703128",
             "nome": "HIDROLOGIA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "GDCOC0072",
             "nome": "CALCULO NUMERICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1703132",
             "nome": "IRRIGAÇÃO E DRENAGEM",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1703215",
             "nome": "SANEAMENTO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1703230",
             "nome": "AVALIAÇÃO ECONÔMICA DE PROJETOS AMBIENTAIS",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1703241",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL III",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 6
         },
         {
             "codigo": "GDECV0102",
             "nome": "DRENAGEM URBANA DE ÁGUAS PLUVIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "GDECV0103",
             "nome": "PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "GDECV0104",
             "nome": "USO RACIONAL DA ÁGUA EM EDIFICAÇÕES",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1102246",
             "nome": "SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1106161",
             "nome": "BASES DA EDUCAÇÃO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1106207",
             "nome": "GESTÃO DE RECURSOS NATURAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1501206",
             "nome": "DIREITO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1703216",
             "nome": "SISTEMA DE ABASTECIMENTO DE ÁGUA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1703229",
             "nome": "MECÂNICA DOS SÓLIDOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1102244",
             "nome": "PERÍCIA AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 7
         },
         {
             "codigo": "1106252",
             "nome": "RECUPERAÇÃO DE ÁREAS DEGRADADAS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1204172",
             "nome": "ADMINISTRAÇÃO PARA ENGENHARIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1703217",
             "nome": "SISTEMAS DE ESGOTO E DRENAGEM",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1703234",
             "nome": "GESTÃO DE RECURSOS HIDRICOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1703237",
             "nome": "MODELAGENS DE SISTEMAS AMBIENTAIS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1703238",
             "nome": "POLUIÇÃO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1704237",
             "nome": "OCUPAÇÃO E USO DO SOLO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDECV0101",
             "nome": "TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1106215",
             "nome": "ESTUDOS DE IMPACTO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1703170",
             "nome": "TRATAMENTO DE ÁGUA E ESGOTO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1703202",
             "nome": "GESTÃO DE RESÍDUOS SÓLIDOS URBANOS",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1703231",
             "nome": "ENERGIA E MEIO AMBIENTE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "DECV00252",
             "nome": "PESQUISA APLICADA À ENGENHARIA AMBIENTAL",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "GDECV0113",
             "nome": "ESTÁGIO SUPERVISIONADO I (ENGENHARIA AMBIENTAL)",
             "carga_horaria": "150CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1703242",
             "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL IV",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 9
         },
         {
             "codigo": "1703243",
             "nome": "TRATAMENTO DE RESÍDUOS SÓLIDOS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 9
         },
         {
             "codigo": "1703235",
             "nome": "GESTÃO DE RISCOS E DESASTRES AMBIENTAIS",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1703251",
             "nome": "SEMINÁRIO TEMÁTICO I",
             "carga_horaria": " EDUCAÇÃO DAS RELAÇÕES ÉTNICO",
+            "tipo": "Obrigatória",
+            "optativa": "RACIAIS",
             "periodo": 9
         },
         {
             "codigo": "1704236",
             "nome": "DESENVOLVIMENTO E MEIO AMBIENTE",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1705175",
             "nome": "PLANEJAMENTO E GESTÃO AMBIENTAL",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDECV0112",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO (ENGENHARIA AMBIENTAL)",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "GDECV0114",
             "nome": "ESTÁGIO SUPERVISIONADO II (ENGENHARIA AMBIENTAL)",
             "carga_horaria": "150CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         }
     ]

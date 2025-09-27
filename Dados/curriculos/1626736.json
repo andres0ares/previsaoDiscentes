@@ -1,5 +1,6 @@
 {
     "codigo": "472012",
+    "curso": 1626736,
     "curriculo": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
     "ano": 2012,
     "periodo": 1,
@@ -10,486 +11,569 @@
             "codigo": "1403747",
             "nome": "LIBRAS  LÍNGUA BRASILEIRA DE SINAIS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704151",
             "nome": "ANÁLISE DO ESPAÇO URBANO",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704197",
             "nome": "TÓPICOS III FOTOGRAFIA",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704201",
             "nome": "TÓPICOS VII DETALHE I",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704202",
             "nome": "TÓPICOS VIII EMPREENDEDORISMO",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704205",
             "nome": "TÓPICOS XI ESTRUTURAS METÁLICAS",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704237",
             "nome": "OCUPAÇÃO E USO DO SOLO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704243",
             "nome": "TÓPIX REPRESENTGRÁFICA DO PROJETO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704276",
             "nome": "ARTE CONTEMPORÂNEA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704277",
             "nome": "EMPREENDEDORISMO",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704278",
             "nome": "TÉCNICAS DE AVALIAÇÃO PÓS-OCUPAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704279",
             "nome": "ARQUITETURA E SEGURANÇA NO TRABALHO",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704280",
             "nome": "FOTOGRAFIA APLICADA À ARQUITETURA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704281",
             "nome": "DESENHO À MÃO LIVRE",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704282",
             "nome": "DETALHES I",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704283",
             "nome": "DETALHES II",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704284",
             "nome": "COR NA ARQUITETURA",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704285",
             "nome": "REPRESENTAÇÃO GRÁFICA DO PROJETO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704286",
             "nome": "PAISAGISMO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704287",
             "nome": "ILUMINAÇÃO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704288",
             "nome": "TECTÔNICA",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704289",
             "nome": "PROJETOS ESPECIAIS I",
             "carga_horaria": "15CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704291",
             "nome": "PROJETOS ESPECIAIS III",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704292",
             "nome": "PROJETOS ESPECIAIS IV",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704293",
             "nome": "PROJETOS ESPECIAIS V",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704294",
             "nome": "PROJETOS ESPECIAIS EM URBANISMO",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704295",
             "nome": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO I",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1704296",
             "nome": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO II",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1704297",
             "nome": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO III",
             "carga_horaria": "30CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "1704298",
             "nome": "TÓPICOS ESPECIAIS EM ARQUITETURA E URBANISMO IV",
             "carga_horaria": "60CH",
+            "tipo": "ComplementarFlexiva",
             "periodo": 0
         },
         {
             "codigo": "GDLS0024",
             "nome": "LIBRAS",
             "carga_horaria": "60CH",
+            "tipo": "Optativa",
             "periodo": 0
         },
         {
             "codigo": "1704160",
             "nome": "ELEMENTOS DE HISTÓRIA, ARTE E ARQUITETURA",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704179",
             "nome": "OFICINA DE DESENHO I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704248",
             "nome": "METODOLOGIA DO TRABALHO CIENTÍFICO",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704249",
             "nome": "GEOMETRIA DESCRITIVA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704250",
             "nome": "INTRODUÇAO AO DESENHO ARQUITETÔNICO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704251",
             "nome": "OFICINA DE PLASTICA I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704252",
             "nome": "NOÇÕES DE ARQUITETURA E URBANISMO",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 1
         },
         {
             "codigo": "1704128",
             "nome": "OFICINA PLÁSTICA II",
             "carga_horaria": "ARQUITETURA",
+            "tipo": "Obrigatória",
+            "optativa": "90CH",
             "periodo": 2
         },
         {
             "codigo": "1704154",
             "nome": "DESENHO DE ARQUITETURA",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1704180",
             "nome": "OFICINA DE DESENHO II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1704253",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1704258",
             "nome": "INTRODUÇÃO AO PROJETO DE ARQUITETURA E URBANISMO",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1705147",
             "nome": "ERGONOMIA",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 2
         },
         {
             "codigo": "1704184",
             "nome": "PROJETO DE EDIFICAÇÕES I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704208",
             "nome": "SISTEMAS ESTRUTURAIS I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704254",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704266",
             "nome": "URBANISMO  I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704268",
             "nome": "CONFORTO AMBIENTAL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1704271",
             "nome": "PERSPECTIVA",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 3
         },
         {
             "codigo": "1401349",
             "nome": "SOCIOLOGIA URBANA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703246",
             "nome": "TECNOLOGIA DAS CONSTRUÇÕES I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703250",
             "nome": "FUNDAMENTOS DE TOPOGRAFIA",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1704247",
             "nome": "PESQUISA APLICADA À ARQUITETURA E URBANISMO",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1704256",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1704259",
             "nome": "PROJETO DE EDIFICAÇÕES II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1704263",
             "nome": "DESENHO URBANO I",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 4
         },
         {
             "codigo": "1703248",
             "nome": "SISTEMAS ESTRUTURAIS II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704101",
             "nome": "CONFORTO AMBIENTAL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704260",
             "nome": "PROJETO DE EDIFICAÇÕES III",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704264",
             "nome": "DESENHO URBANO II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704270",
             "nome": "FUNDAMENTOS PARA INTERVENÇÕES EM ÁREAS HISTÓRICAS",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 5
         },
         {
             "codigo": "1704290",
             "nome": "PROJETOS ESPECIAIS II",
             "carga_horaria": "30CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "GDARQ0100",
             "nome": "ARQUITETURA DE INTERIORES",
             "carga_horaria": "45CH",
+            "tipo": "Optativa",
             "periodo": 6
         },
         {
             "codigo": "1703249",
             "nome": "SISTEMAS  ESTRUTURAIS III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1704187",
             "nome": "PROJETO DE EDIFICAÇÕES IV",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1704255",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO III",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1704265",
             "nome": "DESENHO URBANO III",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1704269",
             "nome": "CONFORTO AMBIENTAL  III",
             "carga_horaria": "45CH",
+            "tipo": "Obrigatória",
             "periodo": 6
         },
         {
             "codigo": "1703247",
             "nome": "TECNOLOGIA DAS CONSTRUÇÕES II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1704257",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO NO BRASIL II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1704261",
             "nome": "PROJETO DE EDIFICAÇÕES V",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "1704267",
             "nome": "URBANISMO II",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 7
         },
         {
             "codigo": "GDARQ0101",
             "nome": "ESTÁGIO SUPERVISIONADO I",
             "carga_horaria": "ARQUITETURA",
+            "tipo": "Obrigatória",
+            "optativa": "90CH",
             "periodo": 7
         },
         {
             "codigo": "1704159",
             "nome": "DESENHO URBANO V",
             "carga_horaria": "90CH",
+            "tipo": "Optativa",
             "periodo": 8
         },
         {
             "codigo": "1704172",
             "nome": "HISTÓRIA DA ARQUITETURA E DO URBANISMO IV",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1704262",
             "nome": "PROJETO DE EDIFICAÇÕES VI",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1704273",
             "nome": "ESTÁGIO SUPERVISIONADO II",
             "carga_horaria": "90CH",
+            "tipo": "Obrigatória",
             "periodo": 8
         },
         {
             "codigo": "1704102",
             "nome": "DEONTOLOGIA E PRÁTICA PROFISSIONAL",
             "carga_horaria": "30CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1704274",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO I",
             "carga_horaria": "60CH",
+            "tipo": "Obrigatória",
             "periodo": 9
         },
         {
             "codigo": "1704275",
             "nome": "TRABALHO DE CONCLUSÃO DE CURSO II",
             "carga_horaria": "300CH",
+            "tipo": "Obrigatória",
             "periodo": 10
         }
     ]
