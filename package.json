@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Projeto para a disciplina de Paradigmas de Aprendizagem de Máquina",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "organizar-disciplinas": "node ./Scripts/disciplinas.js"
+    "organizar-disciplinas": "node ./Scripts/disciplinas.js",
+    "turmas-alocadas": "node ./Scripts/turmasAlocadas.js"
   },
   "repository": {
     "type": "git",
