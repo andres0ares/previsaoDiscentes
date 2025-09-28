@@ -1,0 +1,577 @@
+[
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 314 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTM 205 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 6,
+        "capacidade": 40,
+        "local": "CT-MULTI PPGEPS (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "IGOR FERNANDES GOMES",
+            "RAFAELA LOPES DA SIL"
+        ],
+        "horario": "24T23",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CT-MULTI PPGEPS (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT) / CTJ 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "25T23",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTD 105 (CT) / CTM 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "25T23",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTA 105 (CT) / CTM 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "25T23",
+        "matriculas": 19,
+        "capacidade": 49,
+        "local": "CTM 203 (CT) / CTA 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 49
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "25T23",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTM 203 (CT) / CTA 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "25T23",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTA 105 (CT) / CTM 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 49
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "IM",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "IM",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703245",
+        "nome": " MECÂNICA E RESISTÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

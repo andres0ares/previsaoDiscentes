@@ -1,0 +1,116 @@
+[
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T45",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "26T45",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "CTJ 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703191",
+        "nome": " ENGENHARIA LEGAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

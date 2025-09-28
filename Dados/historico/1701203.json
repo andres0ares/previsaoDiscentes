@@ -1,0 +1,681 @@
+[
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 105 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "24T45",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTM 202 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "36M45  3T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 42,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "CTA 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTM 203 (CT) / CTM 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 42,
+        "capacidade": 40,
+        "local": "CTM 201 (CT) / CTM 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "CTM 203 (CT) / CTM 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 42,
+        "capacidade": 49,
+        "local": "CTM 203 /CTM 201",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA",
+            "PROFESSOR SUBSTITUTO (60h)\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO PONTES CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCO ANTONIO WANDER"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "02",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701203",
+        "nome": " TERMODINÂMICA II ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO WANDERLEY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

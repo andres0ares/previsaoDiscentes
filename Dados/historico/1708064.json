@@ -1,0 +1,500 @@
+[
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "AURISTELA CARLA DE MIRANDA"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTJ 103 (CT) / CTB 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA DE CARVALHO FIM"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CTB 101 (CT) / CTJ 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA DE CARVALHO FIM"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA DE CARVALHO FIM"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "FABIANA DE CARVALHO FIM"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CTJT 03 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES"
+        ],
+        "horario": "35M45  3T45",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "DANIELLE GUEDES DE LIMA CAVALCANTE"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "DANIELLE GUEDES DE LIMA CAVALCANTE"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SEVERINO JACKSON GUEDES DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "DANIELLE GUEDES DE LIMA CAVALCANTE"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "SEVERINO JACKSON GUEDES DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "SEVERINO JACKSON GUEDES DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "LSR",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RAMON ALVES TORQUATO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "SILVIO ROMERO DE BAR"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS",
+            "CLAUDIO ALVES DE SIQUEIR"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708064",
+        "nome": " MATERIAIS DE CONSTRUÇÃO MECÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "SILVIO ROMERO DE BARROS",
+            "HEBER SIVINI FERREIRA ("
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

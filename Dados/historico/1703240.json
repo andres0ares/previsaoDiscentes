@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1703240",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703240",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

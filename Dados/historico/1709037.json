@@ -1,0 +1,481 @@
+[
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 702 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 4,
+        "capacidade": 25,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES",
+            "ANA FLAVIA SANTOS "
+        ],
+        "horario": "35M23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "24N12",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA LOPES DE OLIVEIRA FERREIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA",
+            "ANDREA LOPES DE OLIVEIRA FERREIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTB 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 16,
+        "capacidade": 15,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTB 101 (CT) / CTB 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTB 105 (CT) / CTB 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA",
+            "IZABEL CRISTINA EVARISTO DA S"
+        ],
+        "horario": "35M1",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTB 105 /CTB 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709037",
+        "nome": " PLANEJAMENTO E OTIMIZAÇÃO DE EXPERIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

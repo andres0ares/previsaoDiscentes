@@ -1,0 +1,2920 @@
+[
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "4M123",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 601 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6N234",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 601 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "4M123",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CTF 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "4M123",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "2M123",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "2M123",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "2M123",
+        "matriculas": 33,
+        "capacidade": 55,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA",
+            "JULIANA MACHION GONCALVES (9h)"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "IVAN BOLIS"
+        ],
+        "horario": "2M123",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "2M123",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "CTF SALA MANDACARU (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "2M123",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "MANDACARU (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "2M123",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6M345",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "2M123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6M345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "04",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6T6  6N12",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "7M456  4N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "2M123",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "2M123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA",
+            "IVANIZE CLAUDIA DOS SANTOS E S"
+        ],
+        "horario": "5T123",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "AUD DEP (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6M456",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 47,
+        "capacidade": 47,
+        "local": "AUD DEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "6M456",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 36,
+        "capacidade": 45,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N612",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6M456",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6N612",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "6M456",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "2M123",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "6M456",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "AUD DEP (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 27
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "AUD DEP (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6N612",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "BOUNGANVIL (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROMERO CARDOSO OLIVE"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROMERO CARDOSO OLIVE"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "EUCALIPTUS",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROMERO CARDOSO OLIVE"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 104",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "AUD PROD",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "AUD PROD",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTF 01",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "ATELIER 1",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "ATELIER 1",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO SOARES MASCULO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705103",
+        "nome": " ERGONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

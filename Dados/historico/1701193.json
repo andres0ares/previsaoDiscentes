@@ -1,0 +1,822 @@
+[
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 102 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "02",
+        "docentes": [
+            "ANDERSSON GUIMARAES OLIVEIRA"
+        ],
+        "horario": "46T45",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTB 103 (CT) / CTB 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTA 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35T23",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "2M45  36T23",
+        "matriculas": 26,
+        "capacidade": 26,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 46,
+        "capacidade": 45,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "46M45",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "3M6 4M456",
+        "matriculas": 42,
+        "capacidade": 55,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "02",
+        "docentes": [
+            "ABEL CAVALCANTE LIMA FILHO"
+        ],
+        "horario": "7M1234",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "ABEL CAVALCANTE LIMA FILHO"
+        ],
+        "horario": "3M6 4M456",
+        "matriculas": 43,
+        "capacidade": 42,
+        "local": "CTP LI4 (CT) / AUD DEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "34M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTA 101 (CT) / CTA 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "3M6 4M456",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTP LI4 (CT) / CTA 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "3M6 4M456",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTP LI4 (CT) / CTS 100 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "3M6 4M456",
+        "matriculas": 63,
+        "capacidade": 65,
+        "local": "CTA 101 (CT) / CTP LI4 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO",
+            "JOSE ANTONIO RIUL (60h)\n\t\t\t\t\t\t\t\t\n\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL",
+            "PAULO HENRIQUE DE"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701193",
+        "nome": " CINEMÁTICA E DINÂMICA DE MECANISMOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL",
+            "MARCELO CAVALCANT"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

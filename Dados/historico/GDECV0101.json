@@ -1,0 +1,135 @@
+[
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24N61",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T23",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTD 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0101",
+        "nome": " TRATAMENTO DE EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

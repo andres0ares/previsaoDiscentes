@@ -1,0 +1,339 @@
+[
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 312 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "6T23",
+        "matriculas": 4,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "03",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M456",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0104",
+        "nome": " USO RACIONAL DA ÁGUA EM EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "6M45",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

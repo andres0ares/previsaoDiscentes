@@ -1,0 +1,534 @@
+[
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 706 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT) / CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTMULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 18,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 28,
+        "capacidade": 27,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 32,
+        "capacidade": 32,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTJT 02 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709042",
+        "nome": " MODELAGEM E SIMULAÇÃO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 107",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

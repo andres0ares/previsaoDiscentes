@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "1704291",
+        "nome": " PROJETOS ESPECIAIS III ",
+        "turma": "01",
+        "docentes": [
+            "ANGELINA DIAS LEAO COSTA"
+        ],
+        "horario": "2T34",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 708 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704291",
+        "nome": " PROJETOS ESPECIAIS III ",
+        "turma": "01",
+        "docentes": [
+            "LUCILA CHEBEL LABAKI"
+        ],
+        "horario": "2T45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704291",
+        "nome": " PROJETOS ESPECIAIS III ",
+        "turma": "01",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "2M45",
+        "matriculas": 17,
+        "capacidade": 19,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704291",
+        "nome": " PROJETOS ESPECIAIS III ",
+        "turma": "01",
+        "docentes": [
+            "ELIEZER LEITE ROLIM FILHO"
+        ],
+        "horario": "4M23",
+        "matriculas": 19,
+        "capacidade": 21,
+        "local": "CTE 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 21
+            }
+        ]
+    }
+]

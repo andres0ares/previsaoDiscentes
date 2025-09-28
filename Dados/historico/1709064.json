@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1709064",
+        "nome": " SEPARAÇÃO TRANSP E ARMAZENAMENTO PPPGN ",
+        "turma": "01",
+        "docentes": [
+            "FABIOLA DIAS DA SILVA CURBELO"
+        ],
+        "horario": "5M456",
+        "matriculas": 21,
+        "capacidade": 22,
+        "local": "CTM 204 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709064",
+        "nome": " SEPARAÇÃO TRANSP E ARMAZENAMENTO PPPGN ",
+        "turma": "02",
+        "docentes": [
+            "FABIOLA DIAS DA SILVA CURBELO"
+        ],
+        "horario": "4M456",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTE 104 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    }
+]

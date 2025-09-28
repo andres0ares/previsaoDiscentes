@@ -1,0 +1,59 @@
+[
+    {
+        "codigo": "1701221",
+        "nome": " MODELAGEM E SIMULAÇÃO DE SISTEMAS TERMO-FLUÍDOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "46T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 102 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701221",
+        "nome": " MODELAGEM E SIMULAÇÃO DE SISTEMAS TERMO-FLUÍDOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "46T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT) / CT-MULTI LAB. MÍDIA 02 ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701221",
+        "nome": " MODELAGEM E SIMULAÇÃO DE SISTEMAS TERMO-FLUÍDOS ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "26T23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

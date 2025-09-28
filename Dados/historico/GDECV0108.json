@@ -1,0 +1,30 @@
+[
+    {
+        "codigo": "GDECV0108",
+        "nome": " TRATAMENTO DE RESIDUOS SOLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA",
+            "ADRIANO DUARTE TAVAR"
+        ],
+        "horario": "2T23 6T45",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTB 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    }
+]

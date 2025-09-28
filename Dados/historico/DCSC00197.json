@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DCSC00197",
+        "nome": " RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA FRANCO LIMA E SILVA"
+        ],
+        "horario": "4N1234",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DCSC00197",
+        "nome": " RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL ",
+        "turma": "02",
+        "docentes": [
+            "JORISSA DANILLA NASCIMENTO AGUIAR"
+        ],
+        "horario": "4N1234",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DCSC00197",
+        "nome": " RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL ",
+        "turma": "01",
+        "docentes": [
+            "ELIANE DA CONCEIÇÃO SILVA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CAE 107 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DCSC00197",
+        "nome": " RELAÇÕES ÉTNICO-RACIAIS E DIREITOS HUMANOS NO BRASIL ",
+        "turma": "01",
+        "docentes": [
+            "ELIANE DA CONCEIÇÃO SILVA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

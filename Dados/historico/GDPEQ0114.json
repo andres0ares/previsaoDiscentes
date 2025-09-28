@@ -1,0 +1,98 @@
+[
+    {
+        "codigo": "GDPEQ0114",
+        "nome": " BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "5T123",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTK 201 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0114",
+        "nome": " BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3T345",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0114",
+        "nome": " BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "2T456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0114",
+        "nome": " BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES",
+            "RENNIO FELIX DE SE"
+        ],
+        "horario": "4T12345",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0114",
+        "nome": " BIOQUIMICA DE ALIMENTOS (QUIMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "2M123",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    }
+]

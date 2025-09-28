@@ -1,0 +1,319 @@
+[
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "HENRIQUE ELIAS PESSOA GUTIERRES"
+        ],
+        "horario": "4T2345",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "DGEOC 103 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 25,
+        "capacidade": 31,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "4M2345",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "4M2345",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "03",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CUNICO"
+        ],
+        "horario": "5T2341",
+        "matriculas": 6,
+        "capacidade": 40,
+        "local": "DGEOC 103 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0128",
+        "nome": " AUDITORIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

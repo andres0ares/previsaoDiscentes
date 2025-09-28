@@ -1,0 +1,1139 @@
+[
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 311 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "35T45",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "CTB 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "CTD 105 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 54,
+        "capacidade": 55,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "03",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "04",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO",
+            "JOSE MARCILIO FILGUEIRAS"
+        ],
+        "horario": "24M45",
+        "matriculas": 7,
+        "capacidade": 7,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35N61",
+        "matriculas": 5,
+        "capacidade": 5,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 6,
+        "capacidade": 6,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CTD 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "JOSE MARCILIO FILGUEIRAS CRUZ (3"
+        ],
+        "horario": "6T2345",
+        "matriculas": 9,
+        "capacidade": 9,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "04",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 9,
+        "capacidade": 9,
+        "local": "CTD 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "03",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ",
+            "CARLOS ANTONIO TAURINO DE LUC"
+        ],
+        "horario": "6M45 7M23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 37,
+        "capacidade": 38,
+        "local": "CTD 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "CTA 103 (CT) / CTD 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CTD 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 37
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 37,
+        "capacidade": 38,
+        "local": "CTD 105 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 37,
+        "local": "CTA 103 /CTD 107",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 37
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANDREA BRASILIANO SI"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "03",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703185",
+        "nome": " ANÁLISE ESTRUTURAL I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

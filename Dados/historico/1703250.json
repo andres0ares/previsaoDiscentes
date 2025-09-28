@@ -1,0 +1,467 @@
+[
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "2M345",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 309 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "2M345",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "2M345",
+        "matriculas": 26,
+        "capacidade": 36,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 36
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "2M345",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "2M345",
+        "matriculas": 36,
+        "capacidade": 38,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA",
+            "ISABELLE YRUSKA DE LU"
+        ],
+        "horario": "2M345",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "FABIO LOPES SOARES (15h)\n\t\t\t\t\t\t\t\t\n\t\t\t"
+        ],
+        "horario": "2M345",
+        "matriculas": 46,
+        "capacidade": 47,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 47
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 47
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "2M345",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "2M345",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "4M123",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "4M123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "2M123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "2M123",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "2M123",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "2M123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "4M456",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTE 104 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "4M456",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTE 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "PABLO BRILHANTE DE SOUSA (15h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "4M456",
+        "matriculas": 38,
+        "capacidade": 42,
+        "local": "CTE 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "FABIO LOPES SOARES",
+            "PABLO BRILHANTE DE"
+        ],
+        "horario": "4M456",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "CTE 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "3T123",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "CTM 204",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703250",
+        "nome": " FUNDAMENTOS DE TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

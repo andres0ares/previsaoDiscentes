@@ -1,0 +1,306 @@
+[
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTM 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "02",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "CTM 202 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTM 202 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "CTK 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTK 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "CTK 201 (CT) / CTJ 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTK 201 (CT) / CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "CTJ 203 (CT) / CTK 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "35M23",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTK 201 (CT) / CTJ 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "NILTON PEREIRA DE ANDRADE"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703226",
+        "nome": " TRANSPORTE PÚBLICO URBANO ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

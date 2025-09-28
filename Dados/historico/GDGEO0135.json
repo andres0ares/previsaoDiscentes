@@ -1,0 +1,389 @@
+[
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "02",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "02",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 32,
+        "capacidade": 33,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "02",
+        "docentes": [
+            "JORGE FLAVIO CAZÉ BRAGA DA COSTA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "02",
+        "docentes": [
+            "JORGE FLAVIO CAZÉ BRAGA DA COSTA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 1,
+        "capacidade": 40,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "02",
+        "docentes": [
+            "JORGE FLAVIO CAZÉ BRAGA DA COSTA SILVA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "03",
+        "docentes": [
+            "VICTOR HUGO RABELO COELHO"
+        ],
+        "horario": "3M2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO VILAR DE ARAÚJO SEGUNDO NETO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0135",
+        "nome": " SENSORIAMENTO REMOTO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO VILAR DE ARAÚJO SEGUNDO NETO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CDREUNI (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            }
+        ]
+    }
+]

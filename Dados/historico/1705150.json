@@ -1,0 +1,445 @@
+[
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "Ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "3T123",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "02",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "4T345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "3T456",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "6T123",
+        "matriculas": 36,
+        "capacidade": 36,
+        "local": "CCTA 111 - BLOCO A - SALA DA PÓS - GRADUAÇÃO (CCTA)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO",
+            "LENITA VILLAMARIN LOPEZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 45,
+        "capacidade": 47,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "6M456",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "MANDACARU (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "6M456",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "DEP S/S 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANTONIO GUALBERTO FI"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "DEP S/S 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANTONIO GUALBERTO FI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "DEP S/S 01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GUALBERTO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705150",
+        "nome": " EMPREENDEDORISMO ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

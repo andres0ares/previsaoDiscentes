@@ -1,0 +1,864 @@
+[
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "35T45",
+        "matriculas": 2,
+        "capacidade": 25,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JONAS OTAVIANO PRACA DE SOUZA",
+            "VINÍCIUS FERREIRA DE LIMA (15"
+        ],
+        "horario": "35T45",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "VINÍCIUS FERREIRA DE LIMA"
+        ],
+        "horario": "35T45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "FABIO LOPES SOARES",
+            "CELSO AUGUSTO GUIM"
+        ],
+        "horario": "35T45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 49,
+        "capacidade": 53,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 44,
+        "capacidade": 46,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 46
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "246T45",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 46,
+        "capacidade": 46,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "LABEME (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 47,
+        "capacidade": 47,
+        "local": "LABEME (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 46
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703203",
+        "nome": " GEOLOGIA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

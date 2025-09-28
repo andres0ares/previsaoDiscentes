@@ -1,0 +1,173 @@
+[
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CAD 105 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "35T45",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CAE 107 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "35T45",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DQUI00212",
+        "nome": " QUÍMICA ORGÂNICA TEÓRICA A ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    }
+]

@@ -1,0 +1,957 @@
+[
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "RENATA DE OLIVEIRA MOTA"
+        ],
+        "horario": "5T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 611 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "RENATA DE OLIVEIRA MOTA"
+        ],
+        "horario": "5T23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "5T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "RENATA DE OLIVEIRA MOTA"
+        ],
+        "horario": "5T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "5T23",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR",
+            "RENATA DE OLIVEIRA M"
+        ],
+        "horario": "4T23",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "6N23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "4T6  4N1",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "02",
+        "docentes": [
+            "GABRIEL FREITAS GONCALVES"
+        ],
+        "horario": "4N12",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "4M12",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "KATHYANA VANESSA DINIZ SANTOS"
+        ],
+        "horario": "7T12  35N12",
+        "matriculas": 19,
+        "capacidade": 22,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "6T6  6N1",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "6T56",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "5M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "5M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "5M23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "5M23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "5M23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "5M23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "3M23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "ATELIER 1",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTF 104",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "AUD PROD",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "ATELIER 3",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705144",
+        "nome": " PLANEJAMENTO ESTRATEGICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

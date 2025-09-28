@@ -1,0 +1,344 @@
+[
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 100 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "CTM 204 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTA 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "2T45 5T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 39,
+        "capacidade": 41,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701205",
+        "nome": " SELEÇÃO E USO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE"
+        ],
+        "horario": "5T123",
+        "matriculas": 32,
+        "capacidade": 30,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

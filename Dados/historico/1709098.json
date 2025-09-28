@@ -1,0 +1,439 @@
+[
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 706 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTM 205 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 7,
+        "capacidade": 18,
+        "local": "CTB 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T234",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTK 201 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTK 201 (CT) / CTB 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTK 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTK 201 (CT) / CTB 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTK 201 (CT) / CTB 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTK 201 (CT) / CTB 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "7M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 100 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709098",
+        "nome": " BIOTECNOLOGIA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "24T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

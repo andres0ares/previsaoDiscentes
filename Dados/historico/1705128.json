@@ -1,0 +1,1124 @@
+[
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5N234",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 605 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTA 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO RAMOM MATIAS DE ANDRADE"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN AZEVEDO PEREIRA"
+        ],
+        "horario": "5T6  5N12",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5T6  5N12",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5T6  5N12",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5T6  5N12",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTF SALA EUCALIPTUS (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5T123",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "5T123",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "SALA ACÁCIA     PPGEP (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "AUD DEP (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N234",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "MANDACARU (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N234",
+        "matriculas": 29,
+        "capacidade": 31,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "6N612",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "MARIANA MOURA NOBREGA"
+        ],
+        "horario": "6N612",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "VITORIA MARIA MOLA DE VASCONCELOS"
+        ],
+        "horario": "3N612",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "VITORIA MARIA MOLA DE VASCONCELOS"
+        ],
+        "horario": "2T456",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "VITORIA MARIA MOLA DE VASCONCELOS"
+        ],
+        "horario": "3N612",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "AUD DEP (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ARTHUR HARRY FREDERICO RIBEIRO KRAMER"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705128",
+        "nome": " TÉCNICAS AVANÇADAS DE PLANEJAMENTO DA PRODUÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

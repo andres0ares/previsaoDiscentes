@@ -1,0 +1,1621 @@
+[
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "2T234",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 603 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "5T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 602 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "2T234",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "5T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5T123",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "2T234",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "2T234",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "5T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "2T234",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "5T123",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "2T234",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "4T123",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "5T123",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO",
+            "IVAN BOLIS (5h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4T123",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "4T123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "4T123",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5M345",
+        "matriculas": 5,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA",
+            "DAYVISON JOSE NUNES DO NASCIME"
+        ],
+        "horario": "4T123",
+        "matriculas": 30,
+        "capacidade": 55,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "03",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "4T123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5M345",
+        "matriculas": 9,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "4T123",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5M345",
+        "matriculas": 8,
+        "capacidade": 31,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "4T123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5M345",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "5M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAMILA RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "6M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAMILA RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "6M123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "6M123",
+        "matriculas": 19,
+        "capacidade": 53,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "DARLAN AZEVEDO PEREIRA"
+        ],
+        "horario": "6M123",
+        "matriculas": 33,
+        "capacidade": 34,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DANTAS MUNIZ"
+        ],
+        "horario": "6M123",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "AUD DEP (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTINE SILVA DE LIMA"
+        ],
+        "horario": "6M123",
+        "matriculas": 38,
+        "capacidade": 41,
+        "local": "MANDACARU (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "KELLY CHRISTINE SILVA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "DEP S/S 01",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "ROMERO CARDOSO OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 104",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705123",
+        "nome": " SEGURANÇA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

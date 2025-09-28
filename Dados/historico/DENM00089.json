@@ -1,0 +1,102 @@
+[
+    {
+        "codigo": "DENM00089",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M23 (03/11/2025 - 08/04/2026)",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 502 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00089",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M23 (09/06/2025 - 06/10/2025)",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00089",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M23 (25/11/2024 - 05/05/2025)",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00089",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M45 (05/06/2024 - 02/10/2024)",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00089",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA V ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO",
+            "MICHELLE FELIX DE ANDRADE (10h)"
+        ],
+        "horario": "35M45 (05/12/2023 - 10/05/2024)",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

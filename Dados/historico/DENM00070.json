@@ -1,0 +1,192 @@
+[
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 507 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 43,
+        "capacidade": 44,
+        "local": "CTM 204 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "2T23",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "2T23",
+        "matriculas": 36,
+        "capacidade": 47,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTB 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIELLE GUEDES DE LIMA CAVALCANTE"
+        ],
+        "horario": "6M45",
+        "matriculas": 42,
+        "capacidade": 44,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00070",
+        "nome": " INTRODUÇÃO À ENGENHARIA DE MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "DANIELLE GUEDES DE LIMA CAVALCANTE"
+        ],
+        "horario": "6T23",
+        "matriculas": 57,
+        "capacidade": 61,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    }
+]

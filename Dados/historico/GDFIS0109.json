@@ -1,0 +1,21 @@
+[
+    {
+        "codigo": "GDFIS0109",
+        "nome": " LABORATORIO DE INSTRUMENTAÇÃO CIENTIFICA II ",
+        "turma": "01",
+        "docentes": [
+            "CHARLIE SALVADOR GONCALVES"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "DF1 - Laboratório de Instrumentação Científica I e II ...",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    }
+]

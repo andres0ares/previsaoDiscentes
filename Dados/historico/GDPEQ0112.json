@@ -1,0 +1,21 @@
+[
+    {
+        "codigo": "GDPEQ0112",
+        "nome": " TÓPICOS ESPECIAIS EM QUÍMICA INDUSTRIAL I ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "4M45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SOFACLES FIGUEREDO CARREIRO SOARES"
+        ],
+        "horario": "4T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 703 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SOFACLES FIGUEREDO CARREIRO SOARES"
+        ],
+        "horario": "4T123",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "4T123",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "02",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO",
+            "ANA FLAVIA SANTOS COELHO (15h)\n\t\t\t\t"
+        ],
+        "horario": "4M123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 5,
+        "capacidade": 18,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0130",
+        "nome": " PROCESSOS FERMENTATIVOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "5M123",
+        "matriculas": 3,
+        "capacidade": 6,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    }
+]

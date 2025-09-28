@@ -1,0 +1,135 @@
+[
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "02",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "BRENDA PONTUAL GUEDES"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTJT 07",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709079",
+        "nome": " TRATAMENTO DE ÁGUAS E EFLUENTES LÍQUIDOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VIVIAN STUMPF MADEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB GRAF",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

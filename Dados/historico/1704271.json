@@ -1,0 +1,634 @@
+[
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 404 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 36,
+        "capacidade": 36,
+        "local": "CTP  LABGRAPH 04 (CT) / CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTP  LABGRAPH 04 (CT) / CTMULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T234",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T234",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "03",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T234",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALEJANDRO NOME SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 34,
+        "capacidade": 34,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO MIGUEL FERNANDES MOREIRA",
+            "ITALO PEREIRA FERNANDES (30h)\n"
+        ],
+        "horario": "46M123",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "246M45",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "246M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "35M456",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M456",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "35M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M456",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "35M456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "35M456",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTP LI3 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46M456",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTP LI3 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "246T23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "246T23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "AMB 052",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "AMB 96",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "AMB 99",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB INF 1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704271",
+        "nome": " PERSPECTIVA ",
+        "turma": "02",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB INF 2",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

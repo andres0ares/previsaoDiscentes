@@ -1,0 +1,644 @@
+[
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "24M23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 501 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "24M45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "24M23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "2T456  2N1",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "2T456  2N1",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTK 201 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24M23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24M23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24M23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24M23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTM 205 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "35N23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24T123",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES",
+            "ANTONIO FARIAS LEAL "
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES",
+            "ANTONIO FARIAS LEAL "
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL",
+            "SANDRO MARDEN TORRE"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24T23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "24T23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTM 202",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LSR",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTM 202",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 202",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708012",
+        "nome": " PESQUISA APLICADA A ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "IZABEL CRISTINA EVARISTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

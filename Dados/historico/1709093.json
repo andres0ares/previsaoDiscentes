@@ -1,0 +1,382 @@
+[
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 705 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTM 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "meet",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 27,
+        "capacidade": 27,
+        "local": "CTB 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "CTB 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTB 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CTB 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24T45",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24M45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ 107 (CT) / CTJ 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24M45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTJ 105 (CT) / CTJ 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT) / CTJ 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "24M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT) / CTJ 105 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709093",
+        "nome": " ESTEQUIOMETRIA INDUSTRIAL QUÍMICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

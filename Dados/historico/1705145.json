@@ -1,0 +1,877 @@
+[
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "02",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T123",
+        "matriculas": 4,
+        "capacidade": 25,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "02",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "MANDACARU (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T123",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4T456",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T456",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4N612",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "MANDACARU (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "4N612",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "4T456",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LES (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "MUCIO ANTONIO SOBREIRA SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 01",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTF 01",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ BUENO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "SALA AZUL",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "MUCIO ANTONIO SOBREIRA SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705145",
+        "nome": " PESQUISA OPERACIONAL I ",
+        "turma": "01",
+        "docentes": [
+            "MUCIO ANTONIO SOBREIRA SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

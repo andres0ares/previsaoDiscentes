@@ -1,0 +1,1233 @@
+[
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 304 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 309 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 3,
+        "capacidade": 35,
+        "local": "CTD 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTF 101 (CT) / CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "CTB 105 (CT) / CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTB 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "ORLANDO DE CAVALCANTI VILLAR FIL"
+        ],
+        "horario": "24T23",
+        "matriculas": 6,
+        "capacidade": 35,
+        "local": "CTF SALA XIQUEXIQUE (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "ORLANDO DE CAVALCANTI VILLAR FIL"
+        ],
+        "horario": "24T23",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "24T23",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "ORLANDO DE CAVALCANTI VILLAR FIL"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "JOSE MARCILIO FILGUEIRAS CRUZ (3"
+        ],
+        "horario": "24T23",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "PRIMO FERNANDES FILHO (30h)\n\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "PRIMO FERNANDES FILHO (30h)\n\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "PRIMO FERNANDES FILHO (30h)\n\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTD 105 (CT) / CTD 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PRIMO FERNANDES FILHO",
+            "CARLOS ANTONIO TAURIN"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTJ 201 (CT) / CTJ 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "PRIMO FERNANDES FILHO (30h)\n\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT) / CTJ 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA",
+            "JOSE MARCILIO FILGUEIRAS CRUZ (3"
+        ],
+        "horario": "35N34",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTK 201 (CT) / CTJ 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO",
+            "CARLOS ANTONIO TAURINO DE "
+        ],
+        "horario": "24T23",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT) / CTK 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA",
+            "WESLLEY IMPERIANO GOMES"
+        ],
+        "horario": "35N34",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "03",
+        "docentes": [
+            "WESLLEY IMPERIANO GOMES DE MELO",
+            "ROBERTO LEAL PIMENTEL (15h)\n\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT) / CTK 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "WESLLEY IMPERIANO GOMES DE MELO"
+        ],
+        "horario": "35N34",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA",
+            "WESLLEY IMPERIANO GOMES"
+        ],
+        "horario": "25T23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTK 201 (CT) / CTJ 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "DECA 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703229",
+        "nome": " MECÂNICA DOS SÓLIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

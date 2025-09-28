@@ -1,0 +1,499 @@
+[
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ",
+            "ANA FLAVIA SANTOS COEL"
+        ],
+        "horario": "46T23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "46T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "46T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "46T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "46T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "46T23",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 45,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANA FLAVIA SANTOS COELHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES",
+            "RENNIO FELIX DE SENA "
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJT 07",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTN 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTN 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA",
+            "MANOEL FERREIRA ALVE"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES",
+            "RENNIO FELIX DE SENA "
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA",
+            "MANOEL FERREIRA ALVE"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709024",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MANOEL FERREIRA ALVES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

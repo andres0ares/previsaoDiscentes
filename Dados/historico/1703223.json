@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1703223",
+        "nome": " TRANSPORTE AÉREO ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "46M45",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703223",
+        "nome": " TRANSPORTE AÉREO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

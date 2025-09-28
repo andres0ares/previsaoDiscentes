@@ -59,7 +59,8 @@ await page.waitForNavigation();
 
 let first_click = true;
 
-for (const diciplina of Object.keys(conteudo).slice(120, 130)) {
+const max = Object.keys(conteudo).length
+for (const diciplina of Object.keys(conteudo).slice(400, max)) {
 
     await page.evaluate(
         (nivel, codigo, first_click) => {

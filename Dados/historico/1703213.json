@@ -1,0 +1,1236 @@
+[
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 311 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "24T45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA",
+            "ROBERTO LEAL PIMENTEL (15h"
+        ],
+        "horario": "24M45",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T01 (CT) / CTJ T03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTF SALA ACÁCIA [DEP] (CT) / CT-ADM SALA DE REUNIÕES ...",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTD 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PRIMO FERNANDES FILHO",
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "246M45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "36M123",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "LABEME (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "LABEME (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "LABEME (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "LABEME (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "LABEME (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 13,
+        "capacidade": 33,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "LABEME 1",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTJ 102",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "03",
+        "docentes": [
+            "PRIMO FERNANDES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "02",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703213",
+        "nome": " RESISTÊNCIA DOS MATERIAIS I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

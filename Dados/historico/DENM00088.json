@@ -1,0 +1,135 @@
+[
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (03/11/2025 - 08/04/2026)",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 504 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (09/06/2025 - 06/10/2025)",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (25/11/2024 - 05/05/2025)",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (05/06/2024 - 02/10/2024)",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (05/12/2023 - 10/05/2024)",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (12/07/2023 - 10/11/2023)",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00088",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA IV ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "6M2345 (08/02/2023 - 16/06/2023)",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

@@ -1,0 +1,249 @@
+[
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "46T23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTA 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "46T23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTF 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "46T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTJ 105 (CT) / MIDIA DEA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "46T23",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTJ 105 (CT) / CTJ 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "46T23",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "MIDIA DEA (CT) / CTJ 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "MIDIA DEA (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "IAN CARNEIRO DA CUNHA NOBREGA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "MIDIA DEA (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "EDILMA PINTO COUTINHO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "MIDIA DEA (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "EDILMA PINTO COUTINHO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "CTB 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "EDILMA PINTO COUTINHO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTB 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "EDILMA PINTO COUTINHO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTB 107",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702202",
+        "nome": " TECNOLOGIA DE BEBIDAS ",
+        "turma": "01",
+        "docentes": [
+            "EDILMA PINTO COUTINHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

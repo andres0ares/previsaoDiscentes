@@ -1,0 +1,760 @@
+[
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T56",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 202 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "THIAGO DA SILVA ALMEIDA"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 708 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T56",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "THIAGO DA SILVA ALMEIDA"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T56",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T56",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA",
+            "CAMILA CAVALCANTI RESENDE (35h)\n\t\t"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T56",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "35T56",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "35T56",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "6T6  6N123",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "CTMULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "35T56",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTMULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "35T56",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "35T56",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "35T56",
+        "matriculas": 0,
+        "capacidade": 10,
+        "local": "Campus 1 João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "35T56",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "Campus 1",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "24T45",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "35T456",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Plataforma digital",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N61",
+        "matriculas": 36,
+        "capacidade": 37,
+        "local": "CTS 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "35N12",
+        "matriculas": 37,
+        "capacidade": 35,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35N12",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35N12",
+        "matriculas": 7,
+        "capacidade": 35,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "MARCIA MARIA LUNA ACCIOLY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "02",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTP LI3",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704246",
+        "nome": " DESENHO ASSISTIDO POR COMPUTADOR ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

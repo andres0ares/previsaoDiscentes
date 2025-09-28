@@ -1,0 +1,5984 @@
+[
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 303 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 310 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "DAVI DE CARVALHO DINIZ "
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 303 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 26,
+        "capacidade": 44,
+        "local": "CTM 204 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "DAVI DE CARVALHO DINIZ "
+        ],
+        "horario": "24N612",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CT-LARHENA 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 22,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "DAVI DE CARVALHO DINIZ "
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTB 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO",
+            "TARCISO CABRAL DA SILVA (60"
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CT-LARHENA 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 26,
+        "capacidade": 31,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA",
+            "TARCISO CABRAL DA SILVA (15"
+        ],
+        "horario": "24M123",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "CTA 105 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO"
+        ],
+        "horario": "24N234",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTD 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO"
+        ],
+        "horario": "35T123",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "DAVI DE CARVALHO DINIZ "
+        ],
+        "horario": "24N234",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTA 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "ANA CRISTINA SOUZA DA S"
+        ],
+        "horario": "24M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO"
+        ],
+        "horario": "24N234",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CT-LARHENA 01 [DECA] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "DAVI DE CARVALHO DINIZ "
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "RH01 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO",
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "TARCISO CABRAL DA SILVA",
+            "ANA CRISTINA SOUZA DA S"
+        ],
+        "horario": "24M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTD 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALBANISE BARBOSA MARINHO",
+            "ANA CRISTINA SOUZA DA SI"
+        ],
+        "horario": "24M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALBANISE BARBOSA MARINHO",
+            "GERALD NORBERT SOUZA DA "
+        ],
+        "horario": "24T6  24N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA",
+            "CRISTIANO DAS NEVES ALMEIDA ("
+        ],
+        "horario": "46M123",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GERALD NORBERT SOUZA DA SILVA"
+        ],
+        "horario": "24N612",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALBANISE BARBOSA MARINHO",
+            "TARCISO CABRAL DA SILVA "
+        ],
+        "horario": "24M123",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTA 107 (CT) / CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT) / CTJ 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T123",
+        "matriculas": 5,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "24N612",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24M123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT) / CTJ 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 3,
+        "capacidade": 35,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "24N612",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M123",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTJ 103 (CT) / CTJ 102 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 36,
+        "capacidade": 36,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T123",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "24N612",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTD 107 (CT) / CTJ 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "46M123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "24N612",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T123",
+        "matriculas": 5,
+        "capacidade": 35,
+        "local": "CTD 107 (CT) / CTM 203 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M456",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 34
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T456",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTM 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTD 107 (CT) / CTJ 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT) / CTJ T02 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24N612",
+        "matriculas": 38,
+        "capacidade": 38,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M456",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T456",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTM 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT) / CTD 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTD 103 (CT) / CTD 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24N612",
+        "matriculas": 45,
+        "capacidade": 40,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M456",
+        "matriculas": 36,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTD 103 (CT) / CTD 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTJ 103 (CT) / CTD 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T456",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "24N612",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M456",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTB 101 (CT) / CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T456",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTM 203 (CT) / CTM 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA",
+            "GUSTAVO BARBOSA LIMA DA SIL"
+        ],
+        "horario": "24N612",
+        "matriculas": 37,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTA 103 (CT) / CTJ 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 33,
+        "capacidade": 36,
+        "local": "CTA 107 (CT) / CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "24N612",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT) / CTJ 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "35T456",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "46M123",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "CTA 103 /CTJ 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "24M456",
+        "matriculas": 44,
+        "capacidade": 44,
+        "local": "CTB 101 (CT) / CTD 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "46M123",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTA 107 /CTM 203",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "LUIZ SIMAO DE ANDRADE FILHO (60h)\n"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "CRISTIANO DAS NEVES ALMEIDA (90h)\n"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA",
+            "CRISTIANO DAS NEVES ALMEIDA (90h)\n"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTN 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTN 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTH 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "TARCISO CABRAL DA SILVA (15h)\n\t\t\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "TARCISO CABRAL DA SILVA (15h)\n\t\t\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "TARCISO CABRAL DA SILVA (15h)\n\t\t\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "MARIA DA PENHA MEDEIROS COS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "HEBER PIMENTEL GOMES",
+            "LUIZ SIMAO DE ANDRAD"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "LUIZ SIMAO DE ANDRAD"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "MARIA DA PENHA MEDEIROS COS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "MARIA DA PENHA MEDEIROS COS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "TARCISO CABRAL DA SILVA (15"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "TARCISO CABRAL DA SILVA (15"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "LUIZ SIMAO DE ANDRAD"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "16",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARIA DA PENHA MEDEI"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARIA DA PENHA MEDEI"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TARCISO CABRAL DA SI"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TARCISO CABRAL DA SI"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TARCISO CABRAL DA SI"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "16",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "17",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "18",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RI"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO",
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS "
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO",
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS "
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RI"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO",
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS "
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO",
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS "
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "16",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "CRISTINA MARIA MAGALHAES GRANADEIRO RIO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA",
+            "CRISTINA MARIA MAGALHAES GRAN"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA",
+            "CRISTINA MARIA MAGALHAES GRAN"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR",
+            "CRISTINA MARIA MAGALHAES GRANADE"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "22",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "23",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR",
+            "CRISTINA MARIA MAGALHAES GRANADE"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "17",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "18",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "19",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "20",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "21",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "22",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "23",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "24",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "25",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS",
+            "FRANCISCO JACOME SARMENTO (45h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO",
+            "HAMILCAR JOSE ALMEIDA FIL"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "16",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "17",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "18",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "19",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "20",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "21",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "22",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "23",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "ALAIN MARIE BERNARD PASSERAT DE SILANS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "ALCIDES LEITE DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "ALCIDES LEITE DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "ALCIDES LEITE DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "ALCIDES LEITE DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "ALCIDES LEITE DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "LUIZ SIMAO DE ANDRADE FILHO",
+            "HAMILCAR JOSE ALMEIDA FILGU"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "LUIZ SIMAO DE ANDRADE FILHO (45"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "LUIZ SIMAO DE ANDRADE FILHO (45"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "LUIZ SIMAO DE ANDRADE FILHO (45"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "LUIZ SIMAO DE ANDRADE FILHO (45"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "08",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "09",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "10",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "11",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "GERAL",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "12",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "GERAL",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "13",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "14",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703139",
+        "nome": " MECÂNICA DOS FLUIDOS ",
+        "turma": "15",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB HIDRA",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CTM 204 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 18,
+        "local": "CTS 100 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "01",
+        "docentes": [
+            "SILVIA LAYARA FLORIANI ANDERSEN"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTN 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709083",
+        "nome": " CONVERSÃO TÉRMICA DE BIOMASSA ",
+        "turma": "01",
+        "docentes": [
+            "SILVIA LAYARA FLORIANI ANDERSEN"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTN 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

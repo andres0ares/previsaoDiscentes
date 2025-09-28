@@ -1,0 +1,926 @@
+[
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "DARLAN AZEVEDO PEREIRA"
+        ],
+        "horario": "26N34",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "EUCALIPTUS (CT) / CTA 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "46T45",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "4T23 6T45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "AUD DEP (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "EUCALIPTUS",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "DEP S/S 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "DEP S/S 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO COSTA SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GERALDO MACIEL DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "AUD 1",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "AUD 1",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "AUD PROD",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DE MELLO VILLAR"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705108",
+        "nome": " PROGRAMA E CONTROLE DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,910 @@
+[
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALEJANDRO NOME SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTS 808 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTS 512 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALEJANDRO NOME SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 10,
+        "capacidade": 13,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTH 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 13,
+        "capacidade": 14,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB",
+            "CARLOS ALEJANDRO NOME S"
+        ],
+        "horario": "46T345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "CTH 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 12,
+        "capacidade": 18,
+        "local": "CT-MULTI PILOTIS 2 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 16,
+        "capacidade": 18,
+        "local": "CTE 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTE 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA MAGNA DA SILVA COSTA MORAIS"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 9,
+        "capacidade": 18,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTE 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T345",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T234",
+        "matriculas": 9,
+        "capacidade": 18,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T234",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "46T234",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "46T234",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "46T123",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T123",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DEBORAH PADULA KISHIMOTO"
+        ],
+        "horario": "46T123",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T123",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARCELE TRIGUEIRO DE ARAUJO MORAIS",
+            "DEBORAH PADULA KISHIMOTO (72h)\n\t\t\t"
+        ],
+        "horario": "46T123",
+        "matriculas": 6,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "RUI VANDERLEI ROCHA JÚNIOR"
+        ],
+        "horario": "46T456",
+        "matriculas": 10,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 11,
+        "capacidade": 18,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTH 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "03",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "46T456",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARILIA DE AZEVEDO D"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "AMB 037",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTH AT5",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704259",
+        "nome": " PROJETO DE EDIFICAÇÕES II ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

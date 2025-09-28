@@ -1,0 +1,881 @@
+[
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 108 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 106 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CT-MAT LSR [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CT-MAT LSR [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CT-MAT LSR [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CT-MAT LSR [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTM 204 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTOFICINA SALA (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 10,
+        "capacidade": 21,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "03",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "25M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "4M123",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 56,
+        "capacidade": 55,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 53,
+        "capacidade": 52,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "2M123",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "2M123",
+        "matriculas": 52,
+        "capacidade": 55,
+        "local": "CTA 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOSINALDO PEREIRA LE"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701195",
+        "nome": " CONFORMAÇÃO PLÁSTICA DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

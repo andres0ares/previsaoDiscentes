@@ -1,0 +1,572 @@
+[
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 505 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTK 201 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 5,
+        "capacidade": 18,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 14,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 2,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CTM 202 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTJ 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708017",
+        "nome": " MATERIAIS COMPÓSITOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

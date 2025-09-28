@@ -1,0 +1,1161 @@
+[
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LÍGIA LOBO MESQUITA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 601 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ROGERIO SANTANA PERUCHI"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA",
+            "LÍGIA LOBO MESQUITA (44h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTF SALA MANDACARU [DEP] (CT) / CTF SALA MANDACARU [DEP] ...",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT) / CTG INFOLAB [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ROGERIO SANTANA PERUCHI"
+        ],
+        "horario": "35T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA",
+            "AURELIA ALTEMIRA ACUNA IDROGO (5"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "MULTI CT (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "IVSON FERREIRA DOS ANJOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "02",
+        "docentes": [
+            "ROGERIO SANTANA PERUCHI"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ALLINE THAMYRES CLAUDINO DA SILVA"
+        ],
+        "horario": "25T12",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "CTA 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "TATYANA KARLA OLIVEIRA REGIS"
+        ],
+        "horario": "25T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "INFOLAB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "INFOLAB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJT 01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "INFOLAB",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "INFOLAB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BOTELHO DA FONSECA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTF 01",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 104",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO JOSE ADISSI"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTB 104",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "IVSON FERREIRA DOS ANJOS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705100",
+        "nome": " CONTROLE DE QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

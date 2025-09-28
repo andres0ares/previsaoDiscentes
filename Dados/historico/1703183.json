@@ -1,0 +1,425 @@
+[
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "3M456",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "3M456",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO",
+            "ROBERTO LEAL PIMENTEL (15h"
+        ],
+        "horario": "3M456",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M456",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M456",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M456",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M456",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M456",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTD 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "02",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LABEME (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "3M123",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "6M456",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "6M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LABEME (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "6M456",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "LABEME (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "6M456",
+        "matriculas": 13,
+        "capacidade": 18,
+        "local": "LABEME (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "6M456",
+        "matriculas": 13,
+        "capacidade": 18,
+        "local": "LABEME 1",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1703183",
+        "nome": " ALVENARIA ESTRUTURAL ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

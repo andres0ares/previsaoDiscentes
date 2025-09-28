@@ -1,0 +1,192 @@
+[
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 507 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 5,
+        "capacidade": 13,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00077",
+        "nome": " REOLOGIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 1,
+        "capacidade": 10,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    }
+]

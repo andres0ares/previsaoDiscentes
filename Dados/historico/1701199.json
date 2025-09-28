@@ -1,0 +1,900 @@
+[
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "DIEGO PAES DE ANDRADE PENA"
+        ],
+        "horario": "2M345",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "DIEGO PAES DE ANDRADE PENA"
+        ],
+        "horario": "2M345",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "DIEGO PAES DE ANDRADE PENA"
+        ],
+        "horario": "2M345",
+        "matriculas": 1,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "DIEGO PAES DE ANDRADE PENA"
+        ],
+        "horario": "2T345",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "DIEGO PAES DE ANDRADE PENA"
+        ],
+        "horario": "2T345",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CT-ELET LAB MOTOR [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "2T456",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "03",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 3,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "5M45  2T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "03",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M45  2T5",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M345",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T345",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M456",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2T456",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "7T456",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M456",
+        "matriculas": 41,
+        "capacidade": 40,
+        "local": "CTA 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M456",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTA 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M456",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB MOTOR (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "2M456",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "LAB MOTOR",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "02",
+        "docentes": [
+            "ADRIANO SITONIO RUMAO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOSE MAURICIO ALVES "
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701199",
+        "nome": " MÁQUINAS TÉRMICAS ",
+        "turma": "01",
+        "docentes": [
+            "ARNALDO VILELA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

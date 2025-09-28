@@ -1,0 +1,116 @@
+[
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "35M45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "35M45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708056",
+        "nome": " SELEÇÃO DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

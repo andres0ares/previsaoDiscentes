@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1709038",
+        "nome": " CORROSÃO NA INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "ISABEL CORRIA GUEDES"
+        ],
+        "horario": "24T45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709038",
+        "nome": " CORROSÃO NA INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "MULTI DEQ",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

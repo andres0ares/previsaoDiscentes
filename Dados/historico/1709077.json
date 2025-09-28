@@ -1,0 +1,525 @@
+[
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "5M123",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 704 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "5M123",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "6T123",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "02",
+        "docentes": [
+            "REBECA TIBAU AGUIAR"
+        ],
+        "horario": "6T123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "2T456",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "2T456",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 28,
+        "capacidade": 33,
+        "local": "meet",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "SIGAA; Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "4M1  2T45",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "2T456",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "2T456",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "2T456",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES"
+        ],
+        "horario": "2T456",
+        "matriculas": 20,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA MELO DE ALMEIDA MOTA"
+        ],
+        "horario": "2T564",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTM 201 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA MELO DE ALMEIDA MOTA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTM 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA MELO DE ALMEIDA MOTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTM 201",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA MELO DE ALMEIDA MOTA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA MELO DE ALMEIDA MOTA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES",
+            "MANOEL FERREIRA ALVES (22h)\n\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709077",
+        "nome": " QUÍMICA NO CONTEXTO SÓCIO-ECONÔMICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO LUIZ DE ALBUQUERQUE GOMES",
+            "MANOEL FERREIRA ALVES (22h)\n\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

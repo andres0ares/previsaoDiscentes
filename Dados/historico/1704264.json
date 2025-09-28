@@ -1,0 +1,791 @@
+[
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T345",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 804 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 610 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T345",
+        "matriculas": 12,
+        "capacidade": 14,
+        "local": "CTH 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "CTH 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 12,
+        "capacidade": 16,
+        "local": "CTH 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T345",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "CAROLINA SILVA OUKAWA"
+        ],
+        "horario": "35T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CT-MULTI PILOTIS 1 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTE 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA VERONICA TORRES BARBOSA"
+        ],
+        "horario": "35T345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "CTH 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T345",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA VERONICA TORRES BARBOSA"
+        ],
+        "horario": "35T345",
+        "matriculas": 16,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "35T345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T345",
+        "matriculas": 19,
+        "capacidade": 19,
+        "local": "CTH 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA VERONICA TORRES BARBOSA"
+        ],
+        "horario": "35T345",
+        "matriculas": 19,
+        "capacidade": 19,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T345",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTH 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTE 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T345",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T123",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T231",
+        "matriculas": 21,
+        "capacidade": 24,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "AMANDA PESSOA DE ARAUJO LEITE"
+        ],
+        "horario": "35T123",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "AMANDA PESSOA DE ARAUJO LEITE",
+            "DEBORAH PADULA KISHIMOTO (45h"
+        ],
+        "horario": "35T123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS",
+            "ITALO PEREIRA FERNANDES (3"
+        ],
+        "horario": "35T123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "DEBORAH PADULA KISHIMOTO"
+        ],
+        "horario": "35T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ITALO PEREIRA FERNANDES"
+        ],
+        "horario": "35T123",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "ITALO PEREIRA FERNANDES",
+            "MARCELE TRIGUEIRO DE AR"
+        ],
+        "horario": "35T123",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTH 102 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS",
+            "CHRISTIANE C. RODRIGUES (2"
+        ],
+        "horario": "35T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "35T456",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T456",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T456",
+        "matriculas": 32,
+        "capacidade": 32,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "35T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "35T456",
+        "matriculas": 27,
+        "capacidade": 29,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTH AT2",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "MARCELE TRIGUEIRO DE ARAUJO MORAIS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704264",
+        "nome": " DESENHO URBANO II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCELE TRIGUEIRO DE"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "AMB 012",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "3T2345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 506 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "3T2345",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 2,
+        "capacidade": 18,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00076",
+        "nome": " PRODUTOS CERÂMICOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 6,
+        "capacidade": 10,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    }
+]

@@ -1,0 +1,246 @@
+[
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 703 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "02",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 1,
+        "capacidade": 30,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 0,
+        "capacidade": 18,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0129",
+        "nome": " TECNOLOGIA DO ÁLCOOL E DA CACHAÇA ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ"
+        ],
+        "horario": "5M123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

@@ -1,0 +1,1494 @@
+[
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 203 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 110 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "03",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTS 116 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "03",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "3T345 5T456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T345",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T345",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T234",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "03",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T234",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T123",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "46T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "46T123",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 10,
+        "capacidade": 16,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "46T123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "46T123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTP LI3 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTP LI3 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "35T456",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "46T456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTP LI3 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ALEXANDRE AUGUSTO BE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCELO ANDRADE DINI"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTP L14",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ANNA CRISTINA ANDRADE FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTS 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO ANDRADE DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELA FERNANDES SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LI 04",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LI 04",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LI 04",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIA GIOVANNA DUARTE DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LI 04",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIA GIOVANNA DUARTE DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LI 04",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTPLI 04",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTPLI 04",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTPL I4",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIA GIOVANNA DUARTE DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTPL I2",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIA GIOVANNA DUARTE DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTP LI2",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTP LI2",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTP LI2",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704154",
+        "nome": " DESENHO DE ARQUITETURA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTP LI2",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

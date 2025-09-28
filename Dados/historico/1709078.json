@@ -1,0 +1,396 @@
+[
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 704 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CT-MULTI PPGEQ (CT) / CTJ T03 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTK 201 (CT) / CTJ 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTM 204 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24M23",
+        "matriculas": 17,
+        "capacidade": 18,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT) / CTM 201 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTM 201 (CT) / CTJ T02 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CTB 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "CTE 104 (CT) / CTM 205 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ",
+            "ADRIANO DUARTE TAVARES"
+        ],
+        "horario": "2T45 6T23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ",
+            "RAUL ROSENHAIM (15h)\n\t"
+        ],
+        "horario": "2T45 6T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709078",
+        "nome": " INTRODUÇÃO À CIÊNCIA DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

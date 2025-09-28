@@ -1,0 +1,762 @@
+[
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "CTB 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T45",
+        "matriculas": 7,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTA 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "CTB 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 26,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 10,
+        "capacidade": 22,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "235T45",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 39,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 55,
+        "capacidade": 57,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 57
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CTD 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703186",
+        "nome": " ANÁLISE ESTRUTURAL II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

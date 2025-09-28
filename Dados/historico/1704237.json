@@ -1,0 +1,600 @@
+[
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "04",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "5M345",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 810 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "5M345",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTH 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 13,
+        "capacidade": 45,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "02",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS",
+            "ROSSANA CRISTINA HONORATO "
+        ],
+        "horario": "2T123",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ARISTOTELES LOBO DE MAGALHAES CORDEIRO",
+            "MARCOS AURELIO PEREIRA SANTANA (39h)\n\t"
+        ],
+        "horario": "2T123",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "CTA 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTS 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA MARIA GUIMARAES MARROQUIM"
+        ],
+        "horario": "2T123",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS",
+            "CAROLINA GUARITA TAVARES L"
+        ],
+        "horario": "2T123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "CAROLINA GUARITA TAVARES LEITE"
+        ],
+        "horario": "2T123",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTM 205 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE AUGUSTO BEZERRA DA CUNHA CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "AMB 96",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704237",
+        "nome": " OCUPAÇÃO E USO DO SOLO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

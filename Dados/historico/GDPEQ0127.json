@@ -1,0 +1,364 @@
+[
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "02",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "2N1234",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 701 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO",
+            "RENNIO FELIX DE SENA (30h)\n\t\t\t\t\t\t\t\t"
+        ],
+        "horario": "2N1234",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "2N1234",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ELSON SOARES FILHO"
+        ],
+        "horario": "24N12",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "02",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35N12",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSÉ ETIMÓGENES DUARTE VIEIRA SEGUNDO"
+        ],
+        "horario": "24N61",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24N12",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24N12",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTA 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "02",
+        "docentes": [
+            "JULICE DUTRA LOPES",
+            "RAUL ROSENHAIM (30"
+        ],
+        "horario": "26N34",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA",
+            "RAUL ROSENHAIM (30h)"
+        ],
+        "horario": "24N12",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 11,
+        "capacidade": 18,
+        "local": "SALA ACÁCIA     PPGEP (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 3,
+        "capacidade": 25,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "SIGAA; Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA",
+            "ADRIANO DUARTE TAVAR"
+        ],
+        "horario": "7T456  35N12",
+        "matriculas": 15,
+        "capacidade": 17,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "35N12",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "CTS 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0127",
+        "nome": " PROCESSOS DE INDÚSTRIA QUÍMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "24N12",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    }
+]

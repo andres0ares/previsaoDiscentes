@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DENM00065",
+        "nome": " BLENDAS POLIMÉRICAS ",
+        "turma": "01",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "3T6  3N123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 502 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00065",
+        "nome": " BLENDAS POLIMÉRICAS ",
+        "turma": "01",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "2T456  2N1",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00065",
+        "nome": " BLENDAS POLIMÉRICAS ",
+        "turma": "01",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "2T456  2N1",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00065",
+        "nome": " BLENDAS POLIMÉRICAS ",
+        "turma": "01",
+        "docentes": [
+            "RENATE MARIA RAMOS WELLEN"
+        ],
+        "horario": "4T6  4N123",
+        "matriculas": 6,
+        "capacidade": 18,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    }
+]

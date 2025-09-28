@@ -1,0 +1,534 @@
+[
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 311 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "IGOR FERNANDES GOMES"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTD 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTD 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 5,
+        "capacidade": 25,
+        "local": "CTB 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 2,
+        "capacidade": 30,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTD 105 (CT) / CTB 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "24M45",
+        "matriculas": 5,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56M45",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56M45",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTJ 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "03",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "46M23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTB 107 /CTB 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703219",
+        "nome": " TÓPICOS EM ENGENHARIA II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

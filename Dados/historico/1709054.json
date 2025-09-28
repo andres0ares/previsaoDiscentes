@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1709054",
+        "nome": " TRATAMENTO DE RESÍDUOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "4T456",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTB 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709054",
+        "nome": " TRATAMENTO DE RESÍDUOS INDUSTRIAIS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTJT 07",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

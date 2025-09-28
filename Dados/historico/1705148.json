@@ -1,0 +1,410 @@
+[
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "5T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4N34",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "7M45",
+        "matriculas": 34,
+        "capacidade": 36,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "2N34",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "6M45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "PAULO ROTELLA JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 22,
+        "capacidade": 20,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "IVSON FERREIRA DOS ANJOS"
+        ],
+        "horario": "6T45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "PAULO ROTELLA JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "PAULO ROTELLA JUNIOR"
+        ],
+        "horario": "6T45",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "EUCALIPTUS",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO SOCORRO MARCIA LOPES SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705148",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "AUDITORIO",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

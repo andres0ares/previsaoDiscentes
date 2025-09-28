@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "1701204",
+        "nome": " MÁQUINAS FERRAMENTAS ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO ALESSANDRO SILVA GUEDES DE LIMA"
+        ],
+        "horario": "3T234 5T23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701204",
+        "nome": " MÁQUINAS FERRAMENTAS ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO ALESSANDRO SILVA GUEDES DE LIMA"
+        ],
+        "horario": "6M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTA 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

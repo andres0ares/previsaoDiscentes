@@ -1,0 +1,3179 @@
+[
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 65,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 65,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35N12",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "SALA NCDH (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 106 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 63,
+        "capacidade": 65,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 13,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 65,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35N12",
+        "matriculas": 60,
+        "capacidade": 62,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 14
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "SALA VIRTUAL (CI)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35N12",
+        "matriculas": 47,
+        "capacidade": 47,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 60,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 60,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 70,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 60,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35N12",
+        "matriculas": 22,
+        "capacidade": 65,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 26,
+        "capacidade": 70,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 63,
+        "capacidade": 70,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 65,
+        "capacidade": 65,
+        "local": "CAF 105 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "LIEPE-07 (CI)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 63,
+        "local": "CAE 111 (PRG) / CAD 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG) / CAB 102 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35N12",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CAE 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 62,
+        "local": "LIEPE-05/06 (CI)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 70,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 68,
+        "capacidade": 70,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 46,
+        "capacidade": 70,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 39
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35N12",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CAE 106 (PRG) / CAE 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 62,
+        "local": "CI 304 (CI)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 40,
+        "capacidade": 65,
+        "local": "CAE 111 (PRG) / CAH 105 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 63,
+        "capacidade": 68,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 68,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "08",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35N12",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 43,
+        "capacidade": 44,
+        "local": "Sigaa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35T23",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CAH 101 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CAE 106 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 70,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 39
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 47
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 19
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 70,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 48
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANA PAULA PINTADO WYSE"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 75,
+        "local": "Sigaa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 21
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35T23",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "Sigaa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 37
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "Sigaa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "Sigaa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 61,
+        "capacidade": 61,
+        "local": "Sigaa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "Sigaa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "TATIANA ARAUJO SIMOES"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "Sigaa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS",
+            "ANA PAULA PINTADO WYSE (30h)\n\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 68,
+        "local": "Sigaa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "08",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35N12",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "João Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "09",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 75,
+        "local": "Centro de Informática",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "10",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 70,
+        "local": "Centro de Informática",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "11",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "Centro de Informática",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "12",
+        "docentes": [
+            "ANA PAULA PINTADO WYSE"
+        ],
+        "horario": "35T23",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "Centro de Informática",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA",
+            "TATIANA ARAUJO SIMOES (60h)\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M456",
+        "matriculas": 155,
+        "capacidade": 155,
+        "local": "Centro de informática",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "LIEPE 27 (CI)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35N12",
+        "matriculas": 36,
+        "capacidade": 51,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANA PAULA PINTADO WYSE"
+        ],
+        "horario": "35T23",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CENTRAL - CAF 110 (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "LIEPE 22 (CI)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 60,
+        "local": "CAD 106 (PRG) / CAD 107 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 21,
+        "capacidade": 70,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "ANA PAULA PINTADO WYSE"
+        ],
+        "horario": "35T23",
+        "matriculas": 65,
+        "capacidade": 60,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35N12",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "CAH 103 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35N12",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 11
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 22,
+        "capacidade": 60,
+        "local": "CI 307 (CI)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CTDR C108 (CTDR)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 33,
+        "capacidade": 34,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35N12",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "MOISES DANTAS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35T45",
+        "matriculas": 35,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "ROBERTO QUIRINO DO NASCIMENTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "JAIRO ROCHA DE FARIA"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "CTDR C108 (CTDR)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "08",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35M23",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CI - T05 (CI)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "ANDRE JACOMEL TORII"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "SERGIO DE CARVALHO BEZERRA"
+        ],
+        "horario": "35N12",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "01",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "CI - T05 (CI)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "02",
+        "docentes": [
+            "APARECIDO JESUINO DE SOUZA"
+        ],
+        "horario": "35N12",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 16
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "05",
+        "docentes": [
+            "ANA PAULA PINTADO WYSE"
+        ],
+        "horario": "35M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO CHARLES PEIXOTO DE OLIVEIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "GDCOC0072",
+        "nome": " CALCULO NUMERICO ",
+        "turma": "07",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

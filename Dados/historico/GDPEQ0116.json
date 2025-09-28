@@ -1,0 +1,187 @@
+[
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA"
+        ],
+        "horario": "2M123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 704 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BISPO DE SOUSA",
+            "ISLANNY LARISSA OURIQUES BRAS"
+        ],
+        "horario": "2M123",
+        "matriculas": 5,
+        "capacidade": 25,
+        "local": "CTK 201 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO",
+            "CARLOS ALBERTO BISPO DE SOUSA (30h)"
+        ],
+        "horario": "2M123",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "2M123",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "2M123",
+        "matriculas": 1,
+        "capacidade": 30,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6T234",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "4M123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "4M123",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0116",
+        "nome": " CONTROLE DE QUALIDADE DOS ALIMENTOS (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "4M123",
+        "matriculas": 4,
+        "capacidade": 4,
+        "local": "CTB 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    }
+]

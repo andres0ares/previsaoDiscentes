@@ -1,0 +1,107 @@
+[
+    {
+        "codigo": "1704243",
+        "nome": " TÓPIX REPRESENTGRÁFICA DO PROJETO ",
+        "turma": "02",
+        "docentes": [
+            "CAMILA CAVALCANTI RESENDE"
+        ],
+        "horario": "2M345",
+        "matriculas": 0,
+        "capacidade": 16,
+        "local": "CTS 608 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704243",
+        "nome": " TÓPIX REPRESENTGRÁFICA DO PROJETO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1704243",
+        "nome": " TÓPIX REPRESENTGRÁFICA DO PROJETO ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA",
+            "PROFESSOR SUBSTITUTO (22h)\n\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "AMB 048",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704243",
+        "nome": " TÓPIX REPRESENTGRÁFICA DO PROJETO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "AMELIA DE FARIAS PAN"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "AMB 97",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704243",
+        "nome": " TÓPIX REPRESENTGRÁFICA DO PROJETO ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

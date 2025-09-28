@@ -1,0 +1,596 @@
+[
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO",
+            "CLAUDINO LINS NOBREGA JUNIOR ("
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24M23",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "235M45",
+        "matriculas": 1,
+        "capacidade": 10,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "35T23",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTE 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T45",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTA 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T45",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTB 105 (CT) / CTD 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTD 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTD 107 (CT) / CTD 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "CTB 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTB 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24M45",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTB 107",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703187",
+        "nome": " AVALIAÇÃO E PERÍCIAS DE ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,896 @@
+[
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 507 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 709 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "CTE 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 16,
+        "capacidade": 18,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CT-MULTI PILOTIS 1 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46M345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 14,
+        "capacidade": 18,
+        "local": "CTH 103 (CT) / CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "03",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "46M345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO FERREIRA DE ARAUJO"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 12,
+        "capacidade": 14,
+        "local": "CTH 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "CTH 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTE 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46T345",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "DANIEL PAULO DE ANDRADE SILVA"
+        ],
+        "horario": "46T345",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTE 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46M345",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "Ambiente virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46M345",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "46M345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "Ensino remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "03",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T234",
+        "matriculas": 3,
+        "capacidade": 5,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO MIGUEL FERNANDES MOREIRA",
+            "AMELIA DE FARIAS PANET BARROS "
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTE 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO MIGUEL FERNANDES MOREIRA",
+            "AMELIA DE FARIAS PANET BARROS "
+        ],
+        "horario": "46T123",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CTE 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T123",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTE 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "PABLO DE SOTO SUAREZ"
+        ],
+        "horario": "46T123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T123",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTE 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T456",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T456",
+        "matriculas": 9,
+        "capacidade": 18,
+        "local": "CTH 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T456",
+        "matriculas": 11,
+        "capacidade": 18,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T456",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTH 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46T456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERTHILDE DE BARROS LIMA E MOURA FILHA"
+        ],
+        "horario": "46T456",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "46M456",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTH AT5",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "01",
+        "docentes": [
+            "MARCO ANTONIO FARIAS COUTINHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "AMELIA DE FARIAS PAN"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTH AT5",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704260",
+        "nome": " PROJETO DE EDIFICAÇÕES III ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ISABEL AMALIA MEDERO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "AMB 006",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 204 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTM 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 10,
+        "local": "Midia DEA CT",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 4,
+        "capacidade": 10,
+        "local": "Midia DEA CT",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 5,
+        "capacidade": 10,
+        "local": "MIDIA DEA CT",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "MIDIA DEA CT",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "Centro de Tecnologia",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T234",
+        "matriculas": 4,
+        "capacidade": 4,
+        "local": "Centro de Tecnologia",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "MIDIA DEA (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTM 204 (CT) / MIDIA DEA (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "MIDIA DEA (CT) / CTM 204 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTM 204 (CT) / MIDIA DEA (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "MIDIA DEA (CT) / CTM 204 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "34T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTM 204 (CT) / MIDIA DEA (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTM 204 (CT) / CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTJ 102 (CT) / CTJ 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BARBOSA MUNIZ"
+        ],
+        "horario": "24M45",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTB 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "TOMAZ ARAKAKI"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "TOMAZ ARAKAKI"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "TOMAZ ARAKAKI",
+            "PROFESSOR SUB"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "JOAO CARLOS DIAS FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702184",
+        "nome": " ENGENHARIA BIOQUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TOMAZ ARAKAKI (30h)\n"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

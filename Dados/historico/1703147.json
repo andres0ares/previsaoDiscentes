@@ -1,0 +1,862 @@
+[
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "7M23  6T456",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 308 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "2T456 4T45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTM 204 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "4M45 6M123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTD 105 (CT) / CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "4M45 6M123",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT) / CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "4M45 6M123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT) / CTD 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "4M45 6M123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT) / CTJ 106 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "2M456 4M45",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "2M456 4M45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT) / CTJ 106 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES",
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "2M456 4M45",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "CTJ 106 (CT) / CTJ 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "2M456 4M45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT) / CTJ 106 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "2M456 4M45",
+        "matriculas": 1,
+        "capacidade": 40,
+        "local": "CTJ 106 /CTJ 102",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJT 07",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703147",
+        "nome": " PONTES ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

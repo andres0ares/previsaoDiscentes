@@ -1,0 +1,21 @@
+[
+    {
+        "codigo": "1701215",
+        "nome": " SISTEMAS CAE/CAD/CAM ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "3M45 4M1",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "CTB 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    }
+]

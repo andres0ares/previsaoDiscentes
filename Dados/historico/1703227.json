@@ -1,0 +1,691 @@
+[
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA",
+            "ALINE FLAVIA NUNES REMIG"
+        ],
+        "horario": "4T234",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 305 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "4T234",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTM 203 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "4T234",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "CLAUDIA COUTINHO NOBREGA (15h)\n\t\t\t"
+        ],
+        "horario": "4T234",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTM 203 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES",
+            "CLAUDIA COUTINHO NOBREGA (15h)\n\t\t\t"
+        ],
+        "horario": "4T234",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTM 202 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "4T234",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA",
+            "CLAUDIA COUTINHO NOBREG"
+        ],
+        "horario": "4T345",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "4T345",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALINE FLAVIA NUNES REMIGIO ANTUNES"
+        ],
+        "horario": "4T345",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "4T345",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "4T345",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T456",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ELISANGELA MARIA RODRIGUES ROCHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTD 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA COUTINHO NOBREGA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON BARBOSA ATHAYDE JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703227",
+        "nome": " INTRODUÇÃO À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

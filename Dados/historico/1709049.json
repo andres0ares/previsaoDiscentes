@@ -1,0 +1,649 @@
+[
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSÉ ETIMÓGENES DUARTE VIEIRA SEGUNDO",
+            "FLAVIO LUIZ HONORATO DA SILVA (30h)\n\t"
+        ],
+        "horario": "6M2345",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 702 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA",
+            "ARIOSTON ARAUJO DE MORAIS JUN"
+        ],
+        "horario": "6M2345",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR",
+            "FLAVIO LUIZ HONORATO DA SILVA (4"
+        ],
+        "horario": "6M2345",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 16,
+        "capacidade": 18,
+        "local": "CTM 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "7M1234",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "SIGAA, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "03",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "7M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "03",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR",
+            "FLAVIO LUIZ HONORATO DA SILVA (3"
+        ],
+        "horario": "5M2345",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "3T2345",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "LEOPOLDO OSWALDO ALCAZAR ROJAS",
+            "ALFREDO ISMAEL CURBELO GARNICA"
+        ],
+        "horario": "3T2345",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALFREDO ISMAEL CURBELO GARNICA",
+            "ARIOSTON ARAUJO DE MORAIS JUNI"
+        ],
+        "horario": "3T2345",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 4,
+        "capacidade": 10,
+        "local": "CTS 100 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR",
+            "ALFREDO ISMAEL CURBELO GARNICA ("
+        ],
+        "horario": "24M45",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "LEOPOLDO OSWALDO ALCAZAR ROJAS"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24M23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTF 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709049",
+        "nome": " PROJETO DE PROCESSOS QUÍMICOS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,601 @@
+[
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 204 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 1,
+        "capacidade": 25,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 3,
+        "capacidade": 25,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM",
+            "ANOAR ABBAS EL AOUAR (30"
+        ],
+        "horario": "24T45",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 4,
+        "capacidade": 25,
+        "local": "CTD 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "CTB 105 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T45",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "Ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "35M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "35M23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "35M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "MIDIA DEA (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "35M45",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTM 205 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTB 107 (CT) / CTB 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 2,
+        "capacidade": 10,
+        "local": "CTB 105 (CT) / CTB 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "CTB 107 (CT) / CTE 104 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTB 107 /CTE 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702165",
+        "nome": " TERMODINÂMICA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

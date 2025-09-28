@@ -1,0 +1,2479 @@
+[
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5N1234",
+        "matriculas": 0,
+        "capacidade": 80,
+        "local": "CE 302 (BLOCO A - TÉRREO) (CE)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5N1234",
+        "matriculas": 0,
+        "capacidade": 63,
+        "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T1234",
+        "matriculas": 0,
+        "capacidade": 73,
+        "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T1234",
+        "matriculas": 0,
+        "capacidade": 55,
+        "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M1234",
+        "matriculas": 0,
+        "capacidade": 115,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M1234",
+        "matriculas": 0,
+        "capacidade": 111,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M1234",
+        "matriculas": 0,
+        "capacidade": 115,
+        "local": "CCHLA 423 BLOCO A 2º ANDAR (CCHLA.)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "TERAPIA OCUPACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T1234",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "AMANDA BATISTA BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 54,
+        "capacidade": 71,
+        "local": "CE 302 (BLOCO A - TÉRREO) (CE)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 72,
+        "capacidade": 112,
+        "local": "PS-1 (CCHLA.)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 89,
+        "capacidade": 120,
+        "local": "CCHLA 425 BLOCO A 2º ANDAR (CCHLA.)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "EVANGELINA MARIA BRITO DE FARIA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 3,
+        "capacidade": 120,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CCHLA 417 BLOCO A (CCHLA.)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 51,
+        "capacidade": 85,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "ISAIAS MOREIRA FERREIRA (40h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "3T1234",
+        "matriculas": 107,
+        "capacidade": 111,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 71,
+        "capacidade": 70,
+        "local": "CCHLA 405 BLOCO IV (CCHLA.)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "AMANDA BATISTA BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CE 304 (BLOCO A - TÉRREO) (CE)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 65,
+        "capacidade": 100,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 63,
+        "capacidade": 100,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 79,
+        "capacidade": 100,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "3T1234",
+        "matriculas": 81,
+        "capacidade": 90,
+        "local": "CAF 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 90,
+        "capacidade": 90,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "PEDAGOGIA (MSC) - João Pessoa - Presencial - MAG ANOS INIC PEC MSC - MT - LICENCIATURA",
+                "vagas": 45
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 70,
+        "capacidade": 71,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 76,
+        "capacidade": 80,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 70,
+        "capacidade": 70,
+        "local": "CAF 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JUDITHE GENUINO HENRIQUE"
+        ],
+        "horario": "5N1234",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CE 305 (BLOCO A - TÉRREO) (CE)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 83,
+        "capacidade": 85,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 46,
+        "capacidade": 70,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LETÍCIA MORAES LIMA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 88,
+        "capacidade": 90,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 58
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "JACKSON CICERO FRANÇA BARBOSA (10h)\n"
+        ],
+        "horario": "3T1234",
+        "matriculas": 74,
+        "capacidade": 76,
+        "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "JACKSON CICERO FRANÇA BARBOSA (10h)\n"
+        ],
+        "horario": "5N1234",
+        "matriculas": 57,
+        "capacidade": 58,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 58
+            },
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 58
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MONICA MANO TRINDADE FERRAZ",
+            "ISAIAS MOREIRA FERREIRA (50"
+        ],
+        "horario": "5N1234",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 84,
+        "capacidade": 80,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA",
+            "MONICA MANO TRINDADE FE"
+        ],
+        "horario": "6M1234",
+        "matriculas": 87,
+        "capacidade": 87,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 56,
+        "capacidade": 56,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MONICA MANO TRINDADE FERRAZ",
+            "ISAIAS MOREIRA FERREIRA (60"
+        ],
+        "horario": "6M1234",
+        "matriculas": 87,
+        "capacidade": 85,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "PEDRO FARIAS FRANCELINO",
+            "JACKSON CICERO FRANÇA B"
+        ],
+        "horario": "5N1234",
+        "matriculas": 80,
+        "capacidade": 80,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "MONICA MANO TRINDADE FERRAZ",
+            "JACKSON CICERO FRANÇA BARBO"
+        ],
+        "horario": "3T1234",
+        "matriculas": 89,
+        "capacidade": 88,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA",
+            "MARIA LEONOR MAIA DOS S"
+        ],
+        "horario": "6M1234",
+        "matriculas": 109,
+        "capacidade": 120,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "PEDRO FARIAS FRANCELINO",
+            "MARIA LEONOR MAIA DOS S"
+        ],
+        "horario": "6M1234",
+        "matriculas": 106,
+        "capacidade": 120,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "PEDRO FARIAS FRANCELINO",
+            "MARIA LEONOR MAIA DOS S"
+        ],
+        "horario": "6M1234",
+        "matriculas": 70,
+        "capacidade": 120,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MAGDIEL MEDEIROS ARAGAO NETO",
+            "MARIA LEONOR MAIA DOS SANTOS"
+        ],
+        "horario": "3T1234",
+        "matriculas": 39,
+        "capacidade": 120,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "MAGDIEL MEDEIROS ARAGAO NETO",
+            "TIAGO DE AGUIAR RODRIGUES (1"
+        ],
+        "horario": "3T1234",
+        "matriculas": 59,
+        "capacidade": 120,
+        "local": "CAE 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "MONICA NOBREGA",
+            "JORGEVALDO DE "
+        ],
+        "horario": "5N1234",
+        "matriculas": 98,
+        "capacidade": 120,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "09",
+        "docentes": [
+            "MONICA NOBREGA",
+            "TIAGO DE AGUIA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 118,
+        "capacidade": 120,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JULIENE LOPES RIBEIRO PEDROSA",
+            "MONICA NOBREGA (57h)\n\t\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M1234",
+        "matriculas": 110,
+        "capacidade": 120,
+        "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JULIENE LOPES RIBEIRO PEDROSA",
+            "MONICA NOBREGA (1h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "6M1234",
+        "matriculas": 80,
+        "capacidade": 120,
+        "local": "CCHLA 422 BLOCO A 1º ANDAR (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MONICA NOBREGA",
+            "JULIENE LOPES "
+        ],
+        "horario": "6M1234",
+        "matriculas": 76,
+        "capacidade": 120,
+        "local": "CCHLA 424 BLOCO A 2º ANDAR (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "JULIENE LOPES RIBEIRO PEDROSA (1h)\n\t"
+        ],
+        "horario": "5N1234",
+        "matriculas": 99,
+        "capacidade": 100,
+        "local": "CCHLA 418 BLOCO A (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JULIENE LOPES RIBEIRO PEDROSA",
+            "MARIA DE FATIMA ALMEIDA (59h)"
+        ],
+        "horario": "3T1234",
+        "matriculas": 50,
+        "capacidade": 120,
+        "local": "CCHLA 405 BLOCO IV (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO",
+            "JULIENE LOPES RIBEIRO PEDROSA (1h)\n\t"
+        ],
+        "horario": "5N1234",
+        "matriculas": 38,
+        "capacidade": 100,
+        "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "JULIENE LOPES RIBEIRO PEDROSA",
+            "MARIA DE FATIMA ALMEIDA (1h)\n"
+        ],
+        "horario": "3T1234",
+        "matriculas": 52,
+        "capacidade": 120,
+        "local": "CCHLA 504 (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "09",
+        "docentes": [
+            "JULIENE LOPES RIBEIRO PEDROSA",
+            "MONICA NOBREGA (1h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "6M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CCHLA 510 (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 77,
+        "capacidade": 100,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 67,
+        "capacidade": 100,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 95,
+        "capacidade": 120,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "VANIA MARIA DE VASCONCELOS"
+        ],
+        "horario": "6M1234",
+        "matriculas": 73,
+        "capacidade": 100,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 65
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 87,
+        "capacidade": 100,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 101,
+        "capacidade": 100,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 80
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "4T2345",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "ALVANIRA LUCIA DE BARROS",
+            "MAGDIEL MEDEIROS ARAGAO "
+        ],
+        "horario": "3T1234",
+        "matriculas": 64,
+        "capacidade": 65,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "09",
+        "docentes": [
+            "ALVANIRA LUCIA DE BARROS",
+            "MAGDIEL MEDEIROS ARAGAO "
+        ],
+        "horario": "5N1234",
+        "matriculas": 83,
+        "capacidade": 83,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 88,
+        "capacidade": 90,
+        "local": "SIGAA",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 68,
+        "capacidade": 70,
+        "local": "SIGAA",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 84,
+        "capacidade": 90,
+        "local": "SIGAA",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 8,
+        "capacidade": 8,
+        "local": "SIGAA",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "SIGAA",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VANIA MARIA DE VASCONCELOS",
+            "ISAIAS MOREIRA FERREIRA (6"
+        ],
+        "horario": "56N1234",
+        "matriculas": 61,
+        "capacidade": 63,
+        "local": "SIGAA",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FERNANDA ROSARIO DE MELLO",
+            "HENRIQUE MIGUEL DE LIMA S"
+        ],
+        "horario": "35T234",
+        "matriculas": 24,
+        "capacidade": 20,
+        "local": "SIGAA",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDA ROSARIO DE MELLO"
+        ],
+        "horario": "3T1234",
+        "matriculas": 100,
+        "capacidade": 150,
+        "local": "CCHLA 416 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA LEONOR MAIA DOS SANTOS"
+        ],
+        "horario": "5N1234",
+        "matriculas": 132,
+        "capacidade": 150,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 70
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "AMANDA BATISTA BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 123,
+        "capacidade": 200,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 99,
+        "capacidade": 200,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "VANIA MARIA DE VASCONCELOS"
+        ],
+        "horario": "6M1234",
+        "matriculas": 117,
+        "capacidade": 185,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSETE MARINHO DE LUCENA",
+            "ALVANIRA LUCIA DE BARROS"
+        ],
+        "horario": "3T1234",
+        "matriculas": 81,
+        "capacidade": 300,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 99
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 99
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA LEONOR MAIA DOS SANTOS"
+        ],
+        "horario": "5N1234",
+        "matriculas": 102,
+        "capacidade": 200,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "PEDAGOGIA - EDUCAÇÃO DO CAMPO - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "6M1234",
+        "matriculas": 74,
+        "capacidade": 200,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "6M1234",
+        "matriculas": 144,
+        "capacidade": 200,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0063",
+        "nome": " PORTUGUÊS INSTRUMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "AMANDA BATISTA BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 142,
+        "capacidade": 150,
+        "local": "CCHLA 417 BLOCO A (CCHLA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "GASTRONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    }
+]

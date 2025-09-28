@@ -1,0 +1,601 @@
+[
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 201 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "CTB 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTB 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 21,
+        "capacidade": 22,
+        "local": "CTE 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTA 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTF 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTB 101",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "CTB 101",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTB 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTB 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 27,
+        "capacidade": 31,
+        "local": "CTB 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 18,
+        "capacidade": 32,
+        "local": "CTF 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CTF 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "CTF 102 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTF 102 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "LABORATÓRIO DE BIOQUIMICA DE ALIMENTOS - LBA",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LAB BIOQ",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB BIOQ",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "MIDIA DEA",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB TEC B",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB BIOQ",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702167",
+        "nome": " BIOQUIMICA DE ALIMENTOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIANE MAGNANI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

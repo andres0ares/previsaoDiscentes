@@ -1,0 +1,102 @@
+[
+    {
+        "codigo": "GDECV0109",
+        "nome": " GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA ",
+        "turma": "02",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 303 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0109",
+        "nome": " GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA ",
+        "turma": "01",
+        "docentes": [
+            "SOFACLES FIGUEREDO CARREIRO SOARES",
+            "ISLANNY LARISSA OURIQUES BRASILEIR"
+        ],
+        "horario": "6T1234",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0109",
+        "nome": " GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "6T1234",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0109",
+        "nome": " GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA ",
+        "turma": "01",
+        "docentes": [
+            "ISLANNY LARISSA OURIQUES BRASILEIRO"
+        ],
+        "horario": "5T1234",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0109",
+        "nome": " GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "CTB 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    }
+]

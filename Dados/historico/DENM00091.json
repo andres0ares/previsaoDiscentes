@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DENM00091",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (03/11/2025 - 08/04/2026)",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 503 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00091",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (09/06/2025 - 06/10/2025)",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00091",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (25/11/2024 - 05/05/2025)",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00091",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA VII ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (05/06/2024 - 02/10/2024)",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

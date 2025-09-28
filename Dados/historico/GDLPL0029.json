@@ -1,0 +1,526 @@
+[
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "SOCORRO CLAUDIA TAVARES DE SOUSA"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "TS-1 (CCHLA.)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCHLA 404 BLOCO IV (CCHLA.)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 72,
+        "capacidade": 110,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "MONICA MANO TRINDADE FERRAZ",
+            "ISAIAS MOREIRA FERREIRA (10"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 54,
+        "capacidade": 55,
+        "local": "AMBIENTE  Inglês Instrumental 07 (CCHLA.) / CCHLA 418 ...",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "MONICA MANO TRINDADE FERRAZ",
+            "JACKSON CICERO FRANÇA BARBO"
+        ],
+        "horario": "3T12345",
+        "matriculas": 20,
+        "capacidade": 35,
+        "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA",
+            "MONICA MANO TRINDADE FE"
+        ],
+        "horario": "6M12345",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA",
+            "MAGDIEL MEDEIROS ARAGAO"
+        ],
+        "horario": "3T12345",
+        "matriculas": 72,
+        "capacidade": 80,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "MONICA NOBREGA",
+            "JORGEVALDO DE "
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 72,
+        "capacidade": 80,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "FABIANA SOUZA SILVA MENDES DE ARAUJO"
+        ],
+        "horario": "3T12345",
+        "matriculas": 40,
+        "capacidade": 110,
+        "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "LEONARDO GUEIROS DA SILVA"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 24,
+        "capacidade": 55,
+        "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "ISAIAS MOREIRA FERREIRA"
+        ],
+        "horario": "6N1234 7N1",
+        "matriculas": 36,
+        "capacidade": 100,
+        "local": "CCHLA 420 BLOCO A 1º ANDAR (CCHLA.)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "ALVANIRA LUCIA DE BARROS",
+            "MAGDIEL MEDEIROS ARAGAO "
+        ],
+        "horario": "3T12345",
+        "matriculas": 66,
+        "capacidade": 105,
+        "local": "SIGAA",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "MONICA NOBREGA"
+        ],
+        "horario": "7M12345",
+        "matriculas": 25,
+        "capacidade": 27,
+        "local": "SIGAA",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDA ROSARIO DE MELLO"
+        ],
+        "horario": "3T12345",
+        "matriculas": 27,
+        "capacidade": 70,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA LEONOR MAIA DOS SANTOS"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CCHLA 512 (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA ALMEIDA"
+        ],
+        "horario": "3T12345",
+        "matriculas": 82,
+        "capacidade": 200,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "GDLPL0029",
+        "nome": " LÍNGUA PORTUGUESA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA LEONOR MAIA DOS SANTOS"
+        ],
+        "horario": "5N1234 7N1",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    }
+]

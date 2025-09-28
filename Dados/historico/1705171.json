@@ -1,0 +1,526 @@
+[
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO CARLOS AZEVEDO DA COSTA"
+        ],
+        "horario": "4N234",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 609 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO CARLOS AZEVEDO DA COSTA"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTG INFOLAB [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "3N234",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "02",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "3N234",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4N612",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "04",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4M345",
+        "matriculas": 16,
+        "capacidade": 24,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4N612",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4N612",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4N612",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4N612",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "PAULO ROTELLA JUNIOR"
+        ],
+        "horario": "4N612",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "HUGO HARRY FREDERICO R KRAMER"
+        ],
+        "horario": "4N612",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "SALA ACÁCIA     PPGEP (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "4N612",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "MANDACARU (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "5N612",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ALESSANDRA BERENGUER DE MORAES",
+            "ANAND SUBRAMANIAN (45h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705171",
+        "nome": " PESQUISA OPERACIONAL APLICADA À ENGENHARIA DE PRODUÇÃO I ",
+        "turma": "01",
+        "docentes": [
+            "ANAND SUBRAMANIAN"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

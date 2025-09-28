@@ -1,0 +1,436 @@
+[
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 707 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 34,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24M45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24M45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35T45",
+        "matriculas": 6,
+        "capacidade": 18,
+        "local": "CTB 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35N12",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "SIGAA; Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35T45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35T45",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ 102 (CT) / CTK 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTA 101 (CT) / CTB 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "56T45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTB 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709095",
+        "nome": " PROCESSO QUÍMICOS AMBIENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

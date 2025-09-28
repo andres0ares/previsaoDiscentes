@@ -1,0 +1,21 @@
+[
+    {
+        "codigo": "1701222",
+        "nome": " PROJETO DE REFRIGERAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

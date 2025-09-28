@@ -1,0 +1,632 @@
+[
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 202 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "02",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "03",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTB SALA PROF. ARTUR RAIMUNDO DINIZ DE ANDRADE [DEA] ...",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CT-MULTI PPGEPS (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 2,
+        "capacidade": 30,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 1,
+        "capacidade": 25,
+        "local": "CTB 103",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTB 103",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4M123",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4T123",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4T123",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4T123",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "YURI MONTENEGRO ISHIHARA"
+        ],
+        "horario": "4T123",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "4T123",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "4T123",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "4T123",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTE 104 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "4T123",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTE 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "2 A",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702177",
+        "nome": " HIGIENE NA INDUSTRIA DE ALIMENTOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

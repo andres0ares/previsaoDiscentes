@@ -1,0 +1,173 @@
+[
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "02",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "35M45",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "02",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 4,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "236M45",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTP LI4 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701225",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

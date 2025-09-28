@@ -1,0 +1,486 @@
+[
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3N23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 607 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3N23",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3N23",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3N23",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "3N23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3N34",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N34",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTF SALA MANDACARU (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N34",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "6N34",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "SALA ACÁCIA     PPGEP (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA MACHION GONCALVES"
+        ],
+        "horario": "4N34",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTINE SILVA DE LIMA"
+        ],
+        "horario": "4N34",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTINE SILVA DE LIMA"
+        ],
+        "horario": "6N34",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "INFOLAB (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTINE SILVA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "INFOLAB",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "DIOGO SERGIO CESAR D"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "AUD DEP",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CHRISTINE WERBA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705161",
+        "nome": " ANÁLISE DE PROJETO DE TRABALHO II ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

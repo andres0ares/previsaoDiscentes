@@ -1,0 +1,1010 @@
+[
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 511 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 708 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTE 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTE 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF 104 [PPGEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTH 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 22,
+        "capacidade": 23,
+        "local": "CTH 104 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 22,
+        "capacidade": 24,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTE 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2T123",
+        "matriculas": 17,
+        "capacidade": 19,
+        "local": "CTE 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "3M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "5M123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "04",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2T234",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "05",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2M345",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "Ambiente virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2T234",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "Ambiente virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR",
+            "CLAUDIA RUBERG (45h)"
+        ],
+        "horario": "2M12345",
+        "matriculas": 5,
+        "capacidade": 6,
+        "local": "Plataforma digital",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2M123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTH 102 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2M123",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "CTH 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M123",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M123",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTH 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2M123",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M123",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "2M123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M456",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "LIZIA AGRA VILLARIM"
+        ],
+        "horario": "2M456",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LABGRAF B (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "2M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LABGRAF B (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "2M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M456",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTE 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "2M456",
+        "matriculas": 41,
+        "capacidade": 44,
+        "local": "CTH 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "3M456",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "2M456",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "2M456",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTH 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTH AT6",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704249",
+        "nome": " GEOMETRIA DESCRITIVA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ESTEVAM DE MEDEIROS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

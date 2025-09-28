@@ -1,0 +1,154 @@
+[
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO GOMES NETO"
+        ],
+        "horario": "24M45",
+        "matriculas": 21,
+        "capacidade": 27,
+        "local": "CTE 104 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO GOMES NETO"
+        ],
+        "horario": "24M45",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "35T23",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "5T23 6T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "PAULO GERMANO TOSCANO MOURA"
+        ],
+        "horario": "5T23 6T45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0105",
+        "nome": " DESEMPENHO DAS EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "24T23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

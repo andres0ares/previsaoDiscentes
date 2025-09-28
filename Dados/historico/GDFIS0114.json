@@ -1,0 +1,225 @@
+[
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "KNUT BAKKE FILHO"
+        ],
+        "horario": "24N12",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "02",
+        "docentes": [
+            "LAERCIO LOSANO"
+        ],
+        "horario": "24N12",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO LOSANO"
+        ],
+        "horario": "24M45",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CCENA 102 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO LOSANO"
+        ],
+        "horario": "24N12",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CCENC 104 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO DE SOUSA PIRES"
+        ],
+        "horario": "24M45",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CCENC 102 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "KAROLINE OLIVEIRA MOURA"
+        ],
+        "horario": "24M45",
+        "matriculas": 18,
+        "capacidade": 28,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 14
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO LOSANO"
+        ],
+        "horario": "24M45",
+        "matriculas": 6,
+        "capacidade": 40,
+        "local": "CCENB 105 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDFIS0114",
+        "nome": " FÍSICA GERAL IV ",
+        "turma": "02",
+        "docentes": [
+            "VALDIR BARBOSA BEZERRA"
+        ],
+        "horario": "24N12",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    }
+]

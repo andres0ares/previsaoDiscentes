@@ -1,0 +1,116 @@
+[
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "ITAMARA FARIAS LEITE"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 508 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "ITAMARA FARIAS LEITE"
+        ],
+        "horario": "35T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "ITAMARA FARIAS LEITE"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24T45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT) / CTA 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00075",
+        "nome": " PROCESSAMENTO DE TERMOPLÁSTICOS ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "24T45",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTK 201 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

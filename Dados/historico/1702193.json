@@ -1,0 +1,173 @@
+[
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 10,
+        "capacidade": 11,
+        "local": "LTL DEA (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "LTL DEA (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "Laboratório de Leite - LAB Leite (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "4M123",
+        "matriculas": 10,
+        "capacidade": 12,
+        "local": "CTB 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LTL",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702193",
+        "nome": " TECNOLOGIA DE LEITE E DERIVADOS ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTB 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

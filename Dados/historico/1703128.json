@@ -1,0 +1,2484 @@
+[
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO",
+            "TARCISO CABRAL DA SILVA (20"
+        ],
+        "horario": "56T23",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 303 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 309 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "DAVI DE CARVALHO DINIZ MELO",
+            "TARCISO CABRAL DA SILVA (30"
+        ],
+        "horario": "56T23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT) / CT-LARHENA 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "CT-LARHENA 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTD 105 (CT) / CTD 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 21
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CTM 204 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 36,
+        "capacidade": 42,
+        "local": "CTD 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 7,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 31,
+        "capacidade": 45,
+        "local": "CTD 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA",
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTJ 103 (CT) / CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 32,
+        "capacidade": 45,
+        "local": "CTJ 103 (CT) / CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 29,
+        "capacidade": 45,
+        "local": "CTJ 103 (CT) / CTB 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 21,
+        "capacidade": 45,
+        "local": "CTJ 103 (CT) / CTB 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 39,
+        "capacidade": 45,
+        "local": "CTJ 105 (CT) / CTB 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 45,
+        "local": "CTD 107 (CT) / CTD 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "56T23",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "CTA 103 (CT) / CTJ 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 26,
+        "capacidade": 45,
+        "local": "CTD 101 (CT) / CTD 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTD 107 (CT) / CTD 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "5T23 6T45",
+        "matriculas": 41,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA",
+            "ANA CRISTINA SOUZA DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTD 107 (CT) / CTA 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 43,
+        "local": "CTD 107 (CT) / CTD 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35M23",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 107 /CTD 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "35T23",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTD 107 /CTA 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANO DAS NEVES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "HAMILCAR JOSE ALMEIDA FILGUEIRA",
+            "CRISTIANO DAS NEVES ALMEIDA (20"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LAUDELINO DE ARAUJO PEDROSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MATEMATICA - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DA PENHA MEDEIROS COSTA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703128",
+        "nome": " HIDROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

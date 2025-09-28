@@ -1,0 +1,705 @@
+[
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 514 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 29,
+        "capacidade": 33,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T123456",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE BATISTA CARDOSO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTS 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6M2345",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T2345",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T2345",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T2345",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "6T2345",
+        "matriculas": 30,
+        "capacidade": 31,
+        "local": "CTJT 02",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJT 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTP L14",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTP L14",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTP LI4",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708003",
+        "nome": " DESENHO TÉCNICO PARA ENGENHARIA DE MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

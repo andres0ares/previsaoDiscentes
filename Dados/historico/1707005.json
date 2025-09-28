@@ -1,0 +1,639 @@
+[
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 801 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CEAR T.13 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "CTM 202 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 39,
+        "capacidade": 80,
+        "local": "CTM 203 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "35M23",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 23,
+        "local": "CTM 205 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "02",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUES JUNIOR"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA",
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUE"
+        ],
+        "horario": "36M23",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "TATIANA PONTUAL GUEDES",
+            "JESSICA PEDERNEIRAS MO"
+        ],
+        "horario": "36M23",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTD 103 (CT) / CTD 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTD 107 (CT) / CTD 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTD 103 (CT) / CTD 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 52,
+        "capacidade": 52,
+        "local": "CTD 103 (CT) / CTD 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 49
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "36M23",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTD 107 (CT) / CTD 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLIVALDO SILVA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707005",
+        "nome": " INSTALAÇÕES ELÉTRICAS E PREDIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

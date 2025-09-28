@@ -1,0 +1,97 @@
+[
+    {
+        "codigo": "1703204",
+        "nome": " INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703204",
+        "nome": " INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 2,
+        "capacidade": 8,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1703204",
+        "nome": " INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703204",
+        "nome": " INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703204",
+        "nome": " INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS ",
+        "turma": "01",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

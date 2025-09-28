@@ -1,0 +1,173 @@
+[
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 502 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 4,
+        "capacidade": 18,
+        "local": "CTM 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00081",
+        "nome": " MATERIAIS POLIMÉRICOS II ",
+        "turma": "01",
+        "docentes": [
+            "ELITON SOUTO DE MEDEIROS"
+        ],
+        "horario": "24M23",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

@@ -1,0 +1,639 @@
+[
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 301 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "35T23",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "35T23",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO",
+            "RAFAELA LOPES DA SILVA (44"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTA 101 (CT) / CTD 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "02",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 31,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "02",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "LABEME (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO",
+            "WESLLEY IMPERIANO GOMES DE"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "35T23",
+        "matriculas": 53,
+        "capacidade": 53,
+        "local": "LABEME 1 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 53
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "GIVANILDO ALVES DE AZEREDO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703197",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

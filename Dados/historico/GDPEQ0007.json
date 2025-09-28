@@ -1,0 +1,397 @@
+[
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (03/11/2025 - 08/04/2026)",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 703 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (09/06/2025 - 06/10/2025)",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (25/11/2024 - 05/05/2025)",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (05/06/2024 - 02/10/2024)",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (05/12/2023 - 10/05/2024)",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (12/07/2023 - 10/11/2023)",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "VITAL DE SOUSA QUEIROZ",
+            "RENNIO FELIX DE SENA ("
+        ],
+        "horario": "6M2345 (08/02/2023 - 16/06/2023)",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (15/08/2022 - 17/12/2022)",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (21/02/2022 - 25/06/2022)",
+        "matriculas": 6,
+        "capacidade": 18,
+        "local": "CTS 104 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM",
+            "RENNIO FELIX D"
+        ],
+        "horario": "6M2345 (09/08/2021 - 09/12/2021)",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTS 100 (CT)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM",
+            "RENNIO FELIX D"
+        ],
+        "horario": "6M2345 (03/03/2021 - 03/07/2021)",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTS 100 (CT)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "6M2345 (15/10/2019 - 01/04/2020)",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTS 100 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7T2345 (29/05/2019 - 26/09/2019)",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTS 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7T2345 (22/11/2018 - 10/05/2019)",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTS 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7T2345 (09/07/2018 - 05/11/2018)",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTS 100 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7M2345 (01/02/2018 - 16/06/2018)",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTS 100 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7M1234 (17/07/2017 - 28/11/2017)",
+        "matriculas": 2,
+        "capacidade": 10,
+        "local": "CTS 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "JOSE SOARES"
+        ],
+        "horario": "5M23  6T23 (17/01/2017 - 06/06/2017)",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTS 100 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7M2345 (11/07/2016 - 28/11/2016)",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CTS 100 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0007",
+        "nome": " ESTAGIO SUPERVISIONADO I (QUÍMICA INDUSTRIAL) ",
+        "turma": "01",
+        "docentes": [
+            "RENNIO FELIX DE SENA"
+        ],
+        "horario": "7M23  7T23 (01/02/2016 - 06/06/2016)",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "Laboratório de Fenomenos de transporte (LF) Sala CTJ 115 ...",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    }
+]

@@ -1,0 +1,463 @@
+[
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4T123",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 117 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4T123",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CT-MAT LSR [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES",
+            "SIDERLEY FERNANDES ALBUQUE"
+        ],
+        "horario": "4M123",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "4M123",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTA 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "5M123",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "24M123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 2,
+        "capacidade": 30,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "LTT (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "2M123",
+        "matriculas": 29,
+        "capacidade": 21,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LTT",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LTT",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LTT",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LTT",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701207",
+        "nome": " CORROSÃO E PROTEÇÃO DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ERIDON CELSO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LTT",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,1313 @@
+[
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 114 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 0,
+        "capacidade": 10,
+        "local": "CTS 111 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTA 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 105 (CT) / CTB 101 (CT) / CTB 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTA 101 (CT) / CTJ 107 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTA 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTA 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 104 (CT) / CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "03",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 44,
+        "capacidade": 46,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "04",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "3M123  26T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 39,
+        "capacidade": 39,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "235M45",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M45  3T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTA 103 (CT) / CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "23M123",
+        "matriculas": 39,
+        "capacidade": 39,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M456",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "24M456",
+        "matriculas": 39,
+        "capacidade": 42,
+        "local": "CTM 201 (CT) / CTA 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M456",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTA 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "24M456",
+        "matriculas": 48,
+        "capacidade": 48,
+        "local": "CTM 201 (CT) / CTA 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M456",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "24M456",
+        "matriculas": 49,
+        "capacidade": 49,
+        "local": "CTM 201 (CT) / CTA 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 47
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M456",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CTM 205 (CT) / CTD 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "24M456",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTE 104 (CT) / CTA 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "26M456",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTM 205 /CTD 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "24M456",
+        "matriculas": 48,
+        "capacidade": 47,
+        "local": "CTA 105 (CT) / CTH 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DA SILVEIRA PAZ"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROMULO DA SILVEIRA P"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "JEAN PIERRE VERONESE"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PRALON FERREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PRALON FERREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "HAMILCAR JOSE ALMEID"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PRALON FERREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PRALON FERREIRA LEITE",
+            "MARCIO RODRIGO DE ARAUJO SOUZ"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO RODRIGO DE ARAUJO SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO RODRIGO DE ARAUJO SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "01",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701179",
+        "nome": " MECÂNICA DOS FLUIDOS II ",
+        "turma": "02",
+        "docentes": [
+            "RONILDO INACIO SOARES DE ALENCAR"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

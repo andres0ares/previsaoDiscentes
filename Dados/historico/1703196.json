@@ -1,0 +1,686 @@
+[
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 309 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "LAYS RAIANNE AZEVEDO DA COSTA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTF 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 47
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "02",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "246T23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 29,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTD 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTD 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "ENILDO TALES FERREIRA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO TAURINO DE LUCENA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LABEME",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703196",
+        "nome": " ESTRUTURA DE CONCRETO ARMADO I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

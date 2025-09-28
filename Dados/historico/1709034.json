@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "1709034",
+        "nome": " TECNOLOGIA DO BIODIESEL ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709034",
+        "nome": " TECNOLOGIA DO BIODIESEL ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709034",
+        "nome": " TECNOLOGIA DO BIODIESEL ",
+        "turma": "01",
+        "docentes": [
+            "ANGELA LUCINIA URTIGA VASCONCELOS"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709034",
+        "nome": " TECNOLOGIA DO BIODIESEL ",
+        "turma": "01",
+        "docentes": [
+            "RAUL ROSENHAIM"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB GRAF",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

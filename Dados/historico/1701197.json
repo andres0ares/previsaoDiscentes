@@ -1,0 +1,934 @@
+[
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 109 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTA 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTA 101 (CT) / CTO OFICINA MECÂNICA - SALA DE AULA [DEM] ...",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTA 105 (CT) / CTB 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTOFICINA SALA (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTOFICINA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123  24T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTOFICINA (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 42,
+        "capacidade": 43,
+        "local": "CTA 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTA 107 (CT) / CTB 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTA 107 (CT) / CTB 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "SIDERLEY FERNANDES ALBUQUERQUE",
+            "JOSE HILTON FERREIRA DA SILVA "
+        ],
+        "horario": "5T456 7T123",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTA 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "345M23",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "345M23",
+        "matriculas": 46,
+        "capacidade": 49,
+        "local": "CTA 107",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "AUD. LI",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTS 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "TIBERIO ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "01",
+        "docentes": [
+            "SILVIO ROMERO DE BARROS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701197",
+        "nome": " USINAGEM DOS METAIS ",
+        "turma": "02",
+        "docentes": [
+            "SILVIO ROMERO DE BARROS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

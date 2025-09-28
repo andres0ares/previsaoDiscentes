@@ -1,0 +1,1289 @@
+[
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "PABLO RAMOM MATIAS DE ANDRADE"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 605 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4T345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 607 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4T123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "PABLO RAMOM MATIAS DE ANDRADE"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTG AUDITÓRIO PROF. ANTONIO COUTINHO [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "03",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "4N612",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "SALA DE MULTIMIDIAS DE PRODUÇÃO PPGEP (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2T6  2N12",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2N612",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "03",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2T6  2N12",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "7M12  2T56  2N1",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2N612",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2T123",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2T123",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "2N612",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3M123",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "2N612",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA",
+            "LUZIA GOES CAMBOIM (45h)\n\t\t"
+        ],
+        "horario": "3M123",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA",
+            "LUZIA GOES CAMBOIM (45h)\n\t\t"
+        ],
+        "horario": "2N612",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "4M123",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "ANDERSON CARLOS DE OLIVEIRA",
+            "LUZIA GOES CAMBOIM (30h)\n\t\t"
+        ],
+        "horario": "3N612",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "5M456",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "VITORIA MARIA MOLA DE VASCONCELOS"
+        ],
+        "horario": "3N612",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "3M123",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTF 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "03",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "3N612",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "6M123",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "VITORIA MARIA MOLA DE VASCONCELOS"
+        ],
+        "horario": "6N612",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "6N612",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA SILENE ALEXANDRE LEITE"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA SILENE ALEXANDRE LEITE"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "MANDACARU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LUZIA GOES CAMBOIM"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "LIANE MARCIA FREITAS E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705129",
+        "nome": " LOGÍSTICA INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "HOMERO CATAO MARIBONDO DA TRINDADE"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTG",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

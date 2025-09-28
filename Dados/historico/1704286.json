@@ -1,0 +1,87 @@
+[
+    {
+        "codigo": "1704286",
+        "nome": " PAISAGISMO ",
+        "turma": "01",
+        "docentes": [
+            "PAULA DIEB MARTINS"
+        ],
+        "horario": "2M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTE 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704286",
+        "nome": " PAISAGISMO ",
+        "turma": "01",
+        "docentes": [
+            "PAULA DIEB MARTINS",
+            "LUCIANA ANDRADE DO"
+        ],
+        "horario": "2M345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704286",
+        "nome": " PAISAGISMO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "2M456",
+        "matriculas": 27,
+        "capacidade": 27,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704286",
+        "nome": " PAISAGISMO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "2M456",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTH AT3 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    }
+]

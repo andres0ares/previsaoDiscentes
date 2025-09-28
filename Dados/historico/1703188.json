@@ -1,0 +1,696 @@
+[
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDINO LINS NOBREGA JUNIOR"
+        ],
+        "horario": "46T23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTM 204 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO",
+            "SINARA MARTINS CAMELO (46h)\n\t\t"
+        ],
+        "horario": "46T23",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "24T45",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "46T23",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CTF SALA ACÁCIA (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "46T23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35M23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "46T23",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "03",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "7M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "Ambiente virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "46T23",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTD 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES",
+            "CIBELLE GUIMARAES SILVA SEVERO ("
+        ],
+        "horario": "46T23",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "46T23",
+        "matriculas": 20,
+        "capacidade": 22,
+        "local": "CTE 104 (CT) / CTE 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T23",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 19,
+        "capacidade": 45,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "LABEME (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "LABEME (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "35T6  35N1",
+        "matriculas": 53,
+        "capacidade": 56,
+        "local": "CTD 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 56
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "26T23",
+        "matriculas": 40,
+        "capacidade": 52,
+        "local": "CTJ 103 (CT) / CTJ 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 52
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "PAULO GERMANO TOSCANO MOURA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703188",
+        "nome": " CONSTRUÇÃO DE EDIFÍCIOS I ",
+        "turma": "01",
+        "docentes": [
+            "UBIRATAN HENRIQUE OLIVEIRA PIMENTEL"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

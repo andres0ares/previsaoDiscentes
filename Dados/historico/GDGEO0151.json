@@ -1,0 +1,109 @@
+[
+    {
+        "codigo": "GDGEO0151",
+        "nome": " LICENCIAMENTO AMBIENTAL ",
+        "turma": "03",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0151",
+        "nome": " LICENCIAMENTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "HENRIQUE ELIAS PESSOA GUTIERRES"
+        ],
+        "horario": "3T2345",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "DGEOC 103 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0151",
+        "nome": " LICENCIAMENTO AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "HENRIQUE ELIAS PESSOA GUTIERRES"
+        ],
+        "horario": "3T2345",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "DGEOC 103 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0151",
+        "nome": " LICENCIAMENTO AMBIENTAL ",
+        "turma": "03",
+        "docentes": [
+            "HENRIQUE ELIAS PESSOA GUTIERRES"
+        ],
+        "horario": "4T2345",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "DGEOC 103 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDGEO0151",
+        "nome": " LICENCIAMENTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "HENRIQUE ELIAS PESSOA GUTIERRES"
+        ],
+        "horario": "5T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 27
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    }
+]

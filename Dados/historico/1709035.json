@@ -1,0 +1,97 @@
+[
+    {
+        "codigo": "1709035",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "ANDREA LOPES DE OLIVEIRA FERREIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTB 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709035",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "SHARLINE FLORENTINO DE MELO SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709035",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "SHARLINE FLORENTINO DE MELO SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709035",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "SHARLINE FLORENTINO DE MELO SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709035",
+        "nome": " TECNOLOGIA DAS FERMENTAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "SHARLINE FLORENTINO DE MELO SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "2M345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 408 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "2M345",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTH 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "2T234",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "02",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTG LADEPI (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "03",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "2T234",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTG LADEPI (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "03",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "2M345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTH 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTE 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DE AZEVEDO DIEB"
+        ],
+        "horario": "2M345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTE 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "4M345",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "4M345",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDARQ0100",
+        "nome": " ARQUITETURA DE INTERIORES ",
+        "turma": "01",
+        "docentes": [
+            "MARILIA DE AZEVEDO DIEB"
+        ],
+        "horario": "3M345 5M34",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "Plataforma digital",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

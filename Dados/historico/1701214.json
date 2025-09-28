@@ -1,0 +1,211 @@
+[
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 15,
+        "capacidade": 22,
+        "local": "CTA 105 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123 6M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTA 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTA 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CTA 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTA 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701214",
+        "nome": " PROJETO EM MECÂNICA DE PRECISÃO ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "3M456",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTM 204 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    }
+]

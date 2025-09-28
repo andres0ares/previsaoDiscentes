@@ -1,0 +1,682 @@
+[
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "MARIANA FIALHO BONATES"
+        ],
+        "horario": "35T12",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 607 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 605 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "CTH 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "MARIANA FIALHO BONATES"
+        ],
+        "horario": "35T12",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "CTH 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "MARIANA FIALHO BONATES"
+        ],
+        "horario": "35T12",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTE 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTE 105 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "MARIANA FIALHO BONATES"
+        ],
+        "horario": "35T12",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35T12",
+        "matriculas": 15,
+        "capacidade": 14,
+        "local": "CTH 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 13,
+        "capacidade": 14,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35T12",
+        "matriculas": 14,
+        "capacidade": 16,
+        "local": "CTK 201 (CT) / CTM 201 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "CTH 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35T12",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTH AT5 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "CTH 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35T12",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTH 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTH 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35T12",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "03",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35T12",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS",
+            "WYLNNA CARLOS LIMA VIDAL (60"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 15,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35M45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "Plataforma digital",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "03",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35M45",
+        "matriculas": 6,
+        "capacidade": 6,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M456",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "Plataforma digital",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTE 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL"
+        ],
+        "horario": "35M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "WYLNNA CARLOS LIMA VIDAL",
+            "CHRISTIANE C. RODRIGUES "
+        ],
+        "horario": "35M23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTE 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTE 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M23",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "MARCELE TRIGUEIRO DE ARAUJO MORAIS"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CTE 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "MARCELE TRIGUEIRO DE ARAUJO MORAIS"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "02",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704274",
+        "nome": " TRABALHO DE CONCLUSÃO DE CURSO I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "LUCAS FIGUEIREDO DE "
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "AMB 009",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

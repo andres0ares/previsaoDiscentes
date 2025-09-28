@@ -1,0 +1,406 @@
+[
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "2T2345",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 102 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CAH 105 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CAH 102 (PRG) / CTJ T01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 3,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG) / CTJ 203 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "MARTA CELIA DANTAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CEAR",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35T23",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "CEAR",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "03",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 25,
+        "local": "CEAR",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "35M456",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "cear",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "MARTA CELIA DANTAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CAF 107 (PRG) / CAF 111 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "MARTA CELIA DANTAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "46M45",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "02",
+        "docentes": [
+            "MARTA CELIA DANTAS",
+            "FLAVIA DE MEDEIROS"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "MARTA CELIA DANTAS"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "4M23 6M45",
+        "matriculas": 3,
+        "capacidade": 35,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "2102044",
+        "nome": " CÉLULAS COMBUSTÍVEIS ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA DE MEDEIROS AQUINO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "codigo": "GDPEQ0125",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA I ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0125",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA I ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0125",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA QUÍMICA I ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

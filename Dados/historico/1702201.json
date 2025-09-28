@@ -1,0 +1,164 @@
+[
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM"
+        ],
+        "horario": "35T45",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CTB 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM"
+        ],
+        "horario": "35T45",
+        "matriculas": 2,
+        "capacidade": 5,
+        "local": "CTB 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM"
+        ],
+        "horario": "35T45",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "CTB 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSELMA ARAUJO DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOSELMA ARAUJO DE AM"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR",
+            "JOSELMA ARAUJO DE AM"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702201",
+        "nome": " FUNDAMENTOS DE SECAGEM DE PRODUTOS BIOLÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANOAR ABBAS EL AOUAR"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

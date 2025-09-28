@@ -1,0 +1,743 @@
+[
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 120 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTA 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTE 104 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "34T23",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 401 [Sala Provisória] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35T23",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 44,
+        "local": "CTA 107 (CT) / CTA 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 44
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "26T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTA 103 (CT) / CTA 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 40,
+        "local": "CTA 107 (CT) / CTA 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "24M23",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "CTA 107 (CT) / CTA 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "2M2345",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "CTS 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTA 103 (CT) / CTA 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 36,
+        "local": "CTA 107 (CT) / CTA 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "3M6 5M456",
+        "matriculas": 38,
+        "capacidade": 38,
+        "local": "CTA 105 (CT) / CTA 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "2M6 5M456",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTA 105 (CT) / CTP LI4 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "2M6 5M456",
+        "matriculas": 51,
+        "capacidade": 45,
+        "local": "CTA 105 (CT) / CTP LI4 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "2M6 5M456",
+        "matriculas": 50,
+        "capacidade": 49,
+        "local": "CTP LI4 /CTA 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "JOSE ANTONIO RIUL"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701187",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "PAULO HENRIQUE DE MIRANDA MONTENEGRO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 502 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ 202 (CT) / CTK 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 9,
+        "capacidade": 18,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "02",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 3,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "02",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "24T45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "35T45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "NORMANDO PERAZZO BARBOSA"
+        ],
+        "horario": "24M23",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CTM 203 (CT) / CTM 201 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES",
+            "ANTONIO FARIAS LEAL "
+        ],
+        "horario": "24M23",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "LSR (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES",
+            "ANTONIO FARIAS LEAL "
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "LSR (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL",
+            "SANDRO MARDEN TORRE"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "LSR (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "35T23",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "LAB MAT (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "CTF 102 (CT) / CTE 104 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTF 102 (CT) / CTE 104 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CTF 102 /CTE 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LSR",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTN 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL",
+            "PROFESSOR SUBSTITUT"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708023",
+        "nome": " MATERIAIS CIMENTÍCIOS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

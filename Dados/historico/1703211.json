@@ -1,0 +1,1444 @@
+[
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 309 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 312 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 46,
+        "capacidade": 46,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTD 101 (CT) / CTD 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CT-ADM SALA DE REUNIÕES [DECA] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 41
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTF SALA ACÁCIA [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "03",
+        "docentes": [
+            "ANDREA BRASILIANO SILVA"
+        ],
+        "horario": "6M456",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "Híbrido",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ORLANDO DE CAVALCANTI VILLAR FILHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 49,
+        "capacidade": 49,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "6M123",
+        "matriculas": 33,
+        "capacidade": 37,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 37
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ROBERTO LEAL PIMENTEL"
+        ],
+        "horario": "5M456",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5T456",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO GERMANO TOSCANO MOURA"
+        ],
+        "horario": "6M123",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5T456",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "04",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "6M123",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "Centro de Tecnologia",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CLOVIS DIAS"
+        ],
+        "horario": "6M123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTB 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CLOVIS DIAS"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 21,
+        "local": "CTB 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CLOVIS DIAS"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTB 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 47,
+        "capacidade": 48,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CLOVIS DIAS"
+        ],
+        "horario": "6M123",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CTB 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5M1 6M23",
+        "matriculas": 46,
+        "capacidade": 45,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "5T456",
+        "matriculas": 39,
+        "capacidade": 41,
+        "local": "CTD 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "03",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "6T456",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "LABEME (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTM 205 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "04",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "6T123",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTD 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 57,
+        "capacidade": 56,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 56
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "6M123",
+        "matriculas": 41,
+        "capacidade": 40,
+        "local": "CTM 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "6M123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTM 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MARCILIO FILGUEIRAS CRUZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 58,
+        "capacidade": 59,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 59
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "6M123",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJT 07",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA",
+            "JOSE MARCILIO FILGUEIR"
+        ],
+        "horario": "2M456",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTM 204",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ANGELO VIEIRA MENDONCA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJT 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "KARINE CRISTIANE DE OLIVEIRA SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO VIEIRA SOARES"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "03",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ANTONIO CABRAL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "JOACIO DE ARAUJO MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "02",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703211",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CRISTINA TAIGY DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

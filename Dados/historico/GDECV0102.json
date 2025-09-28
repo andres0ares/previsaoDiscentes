@@ -1,0 +1,366 @@
+[
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 310 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT) / CTF SALA MANDACARU ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 5,
+        "capacidade": 35,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 35,
+        "local": "CTD 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT) / CTM 205 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO ROLIM DA PAZ"
+        ],
+        "horario": "46T23",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "CTB 105 (CT) / CTJ 202 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CTK 201 (CT) / CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "25T6  25N1",
+        "matriculas": 26,
+        "capacidade": 27,
+        "local": "CTJ 103 (CT) / CTJ 106 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "25T6  25N1",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CTJ 103 (CT) / CTJ 106 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0102",
+        "nome": " DRENAGEM URBANA DE ÁGUAS PLUVIAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO BARBOSA LIMA DA SILVA"
+        ],
+        "horario": "25T6  25N1",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTJ 106 (CT) / CTJ 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

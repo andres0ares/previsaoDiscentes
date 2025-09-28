@@ -1,0 +1,1706 @@
+[
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 304 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 305 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M23",
+        "matriculas": 22,
+        "capacidade": 45,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "CTD 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M23",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M23",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "RAFAEL LOPES MENDONCA (45h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "35M23",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL LOPES MENDONCA",
+            "ISABELLE YRUSKA DE LU"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "CTD 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO AUGUSTO GUIMARAES SANTOS",
+            "ISABELLE YRUSKA DE LUCENA GOME"
+        ],
+        "horario": "35M23",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "CLOVIS DIAS (15h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTF SALA MANDACARU (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 36
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTF SALA MANDACARU (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 36
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "CLOVIS DIAS (15h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M23",
+        "matriculas": 49,
+        "capacidade": 55,
+        "local": "CTE 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "03",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "6M45  2T23",
+        "matriculas": 4,
+        "capacidade": 45,
+        "local": "CTE 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 45,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTE 104 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTE 104 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CTE 104 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 29
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 36,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M23",
+        "matriculas": 23,
+        "capacidade": 45,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTE 103 (CT) / CTK 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "PABLO BRILHANTE DE SOUSA (30h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "35M23",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CTE 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ISABELLE YRUSKA DE LUCENA GOMES BRAGA",
+            "FABIO LOPES SOARES (30h)\n\t\t\t\t\t\t\t\t\n\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTE 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO AUGUSTO GUIMARAES SANTOS",
+            "FABIO LOPES SOARES (30h)\n\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 46,
+        "capacidade": 46,
+        "local": "CTE 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "CELSO AUGUSTO GUIMARAES SANTOS",
+            "PABLO BRILHANTE DE SOUSA (30h)"
+        ],
+        "horario": "35M23",
+        "matriculas": 34,
+        "capacidade": 45,
+        "local": "CTE 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 45,
+        "local": "CTE 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 23,
+        "capacidade": 45,
+        "local": "CTE 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB TOPO",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703221",
+        "nome": " TOPOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

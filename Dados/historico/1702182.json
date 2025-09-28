@@ -1,0 +1,654 @@
+[
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "TALIANA KENIA ALVES BEZERRA"
+        ],
+        "horario": "2T1234",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 206 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "TALIANA KENIA ALVES BEZERRA"
+        ],
+        "horario": "2T1234",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTB 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T1234",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTB 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T1234",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTB 105 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T1234",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T1234",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTF 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T2345",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTD 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T2345",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CTF 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "LTL DEA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTB 107",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "24M45",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "Ensino remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "CTB 107 (CT) / CTB 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "24M45",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LTL DEA (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "TALIANA KENIA ALVES BEZ"
+        ],
+        "horario": "2T456 4T6",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTM 201 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "24T45",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (45h)"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO TARGINO MOREIRA",
+            "ESMERALDA PARANHOS DOS "
+        ],
+        "horario": "24T45",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "24M45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTB 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "02",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "YURI MONTENEGRO ISHIHARA (45h"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "MIDIA DEA",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (60h)"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTB 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "ESMERALDA PARANHOS DOS SANTOS",
+            "RICARDO TARGINO MOREIRA (30h)"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "HERMANO JOSE TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTF 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1702182",
+        "nome": " PROCESSAMENTO DE ALIMENTOS DE ORIGEM ANIMAL ",
+        "turma": "01",
+        "docentes": [
+            "HERMANO JOSE TOSCANO MOURA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

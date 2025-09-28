@@ -1,0 +1,610 @@
+[
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "LEOPOLDO OSWALDO ALCAZAR ROJAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CTS 704 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT) / CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "03",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24M45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT) / CT-MULTI LAB. MÍDIA 02 ...",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTMULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 18,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "6M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 103 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "SIGAA, Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 22,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "56M45",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "GIOVANILTON FERREIRA DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "MÍDIA 02 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "LEOPOLDO OSWALDO ALCAZAR ROJAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 34,
+        "capacidade": 34,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 31,
+        "capacidade": 34,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO LUIZ HONORATO DA SILVA"
+        ],
+        "horario": "7M1234",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "CTA 107 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJT 02 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSTON ARAUJO DE MORAIS JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ANGELA LUCINIA URTIGA VASCONCELOS"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709045",
+        "nome": " INSTRUMENTAÇÃO E CONTROLE DE PROCESSOS ",
+        "turma": "01",
+        "docentes": [
+            "ANGELA LUCINIA URTIGA VASCONCELOS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "codigo": "1709086",
+        "nome": " MINERALOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "3M23 5M123",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTS 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709086",
+        "nome": " MINERALOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "3M12 5M123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTS 103 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1709086",
+        "nome": " MINERALOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTS 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709086",
+        "nome": " MINERALOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1709086",
+        "nome": " MINERALOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

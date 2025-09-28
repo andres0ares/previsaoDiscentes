@@ -1,0 +1,468 @@
+[
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ROGERIO SANTANA PERUCHI"
+        ],
+        "horario": "4N23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 612 [Laboratório de Informática Provisório] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N23",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS GUEDES DE OLIVEIRA"
+        ],
+        "horario": "4N23",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS GUEDES DE OLIVEIRA"
+        ],
+        "horario": "4N23",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS GUEDES DE OLIVEIRA"
+        ],
+        "horario": "2N34",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "5N34",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTF SALA XIQUEXIQUE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "02",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "3N34",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO",
+            "LENITA VILLAMARIN LOPEZ LESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA NAOMI MORIOKA",
+            "LIGIA DE OLIVEIRA FR"
+        ],
+        "horario": "4N34",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "02",
+        "docentes": [
+            "AURELIA ALTEMIRA ACUNA IDROGO"
+        ],
+        "horario": "3N12",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 20,
+        "capacidade": 22,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LENITA VILLAMARIN LOPEZ LESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "EUCALIPTUS (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "LIGIA DE OLIVEIRA FRANZOSI BESSA"
+        ],
+        "horario": "4N34",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ALANA CAROLYNE CRISPIM"
+        ],
+        "horario": "4N34",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ALANA CAROLYNE CRISPIM"
+        ],
+        "horario": "4N34",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "ALANA CAROLYNE CRISPIM"
+        ],
+        "horario": "4N34",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705158",
+        "nome": " GESTÃO DA QUALIDADE ",
+        "turma": "01",
+        "docentes": [
+            "JAILSON RIBEIRO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

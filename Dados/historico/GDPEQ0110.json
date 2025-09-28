@@ -1,0 +1,315 @@
+[
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "5T123",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 702 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "5T123",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES",
+            "JOSE ELSON SOARES "
+        ],
+        "horario": "5T123",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3T456",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "2T456",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "FABIO MORAIS BORGES"
+        ],
+        "horario": "3M456",
+        "matriculas": 8,
+        "capacidade": 18,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3M456",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "Sigaa, Plataformas Digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3M456",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "Sigaa, plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3T123",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3M456",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3M456",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "3M456",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "4M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "4M456",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CTB 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "4M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "GDPEQ0110",
+        "nome": " HIGIENE E SEGURANÇA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JULICE DUTRA LOPES"
+        ],
+        "horario": "4M456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    }
+]

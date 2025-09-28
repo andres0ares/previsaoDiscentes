@@ -1,0 +1,492 @@
+[
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T12",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 315 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDINO LINS NOBREGA JUNIOR"
+        ],
+        "horario": "46T12",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTB 103 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO",
+            "LUARA LOPES DE ARAUJO FERNANDE"
+        ],
+        "horario": "46T12",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CT-ADM SALA NELCI TINEM [DAU] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "LUARA LOPES DE ARAUJO FERNANDES",
+            "CIBELLE GUIMARAES SILVA SEVERO "
+        ],
+        "horario": "46T12",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CTK 201 (CT) / CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "02",
+        "docentes": [
+            "LEANE PRISCILLA BONFIM SALES"
+        ],
+        "horario": "4M6  4T1 6T12",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES"
+        ],
+        "horario": "5M2345",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T12",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTA 103 (CT) / CTJ 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T12",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CTA 105 (CT) / CTE 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T12",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46M45",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46M45",
+        "matriculas": 12,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "02",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46M45",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "CIBELLE GUIMARAES SILVA SEVERO"
+        ],
+        "horario": "46T45",
+        "matriculas": 37,
+        "capacidade": 37,
+        "local": "LABEME (CT) / CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "HIDELBRANDO JOSE FARKAT DIOGENES",
+            "CIBELLE GUIMARAES SILVA SEVERO ("
+        ],
+        "horario": "46M45",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "24M45",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "46T23",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "46T23",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "46T23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "46T23",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CTH AT4 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "25T23",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTH AT1",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703246",
+        "nome": " TECNOLOGIA DAS CONSTRUÇÕES I ",
+        "turma": "01",
+        "docentes": [
+            "ANGELINA DIAS LEAO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTH AT5",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

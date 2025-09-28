@@ -1,0 +1,615 @@
+[
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "5T123",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 801 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 48
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "5T123",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CEAR T.11 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "5T123",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTM 204 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "5T123",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "5T123",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "CT-MULTI PPGEPS (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "6T456",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "4M123",
+        "matriculas": 17,
+        "capacidade": 45,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "4M123",
+        "matriculas": 21,
+        "capacidade": 45,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "4M123",
+        "matriculas": 28,
+        "capacidade": 28,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "6T123",
+        "matriculas": 37,
+        "capacidade": 45,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "6T123",
+        "matriculas": 24,
+        "capacidade": 45,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "6T123",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "Sigaa e google meet.",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "02",
+        "docentes": [
+            "FLAVIO DA SILVA VITORINO GOMES"
+        ],
+        "horario": "4M123",
+        "matriculas": 21,
+        "capacidade": 45,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "3M123",
+        "matriculas": 36,
+        "capacidade": 45,
+        "local": "CTA 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "3M123",
+        "matriculas": 27,
+        "capacidade": 45,
+        "local": "CTA 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "3M123",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "CTA 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA PONTUAL GUEDES",
+            "JESSICA PEDERNEIRAS MO"
+        ],
+        "horario": "6M456",
+        "matriculas": 23,
+        "capacidade": 45,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "TATIANA PONTUAL GUEDES"
+        ],
+        "horario": "6M123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "6M123",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "6M123",
+        "matriculas": 46,
+        "capacidade": 45,
+        "local": "CTM 205 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "4M6 6M23",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTM 205 (CT) / CTJ 105 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO SERGIO CAVALCANTI DE MENEZES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "CICERO DA ROCHA SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707008",
+        "nome": " ELETRÔNICA ANALÓGICA E DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

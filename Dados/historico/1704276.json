@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "1704276",
+        "nome": " ARTE CONTEMPORÂNEA ",
+        "turma": "01",
+        "docentes": [
+            "SICILIA CALADO FREITAS"
+        ],
+        "horario": "4T123",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTH AT1 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704276",
+        "nome": " ARTE CONTEMPORÂNEA ",
+        "turma": "02",
+        "docentes": [
+            "SICILIA CALADO FREITAS"
+        ],
+        "horario": "4M456",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTE 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704276",
+        "nome": " ARTE CONTEMPORÂNEA ",
+        "turma": "01",
+        "docentes": [
+            "SONIA MARIA DE BARROS MARQUES"
+        ],
+        "horario": "2M456",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTH AT6 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704276",
+        "nome": " ARTE CONTEMPORÂNEA ",
+        "turma": "01",
+        "docentes": [
+            "SONIA MARIA DE BARROS MARQUES"
+        ],
+        "horario": "2T456",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "CTH 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    }
+]

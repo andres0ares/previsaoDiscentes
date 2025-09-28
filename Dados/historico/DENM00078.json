@@ -1,0 +1,97 @@
+[
+    {
+        "codigo": "DENM00078",
+        "nome": " SOLDAGEM DE METAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 505 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00078",
+        "nome": " SOLDAGEM DE METAIS ",
+        "turma": "04",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "35T45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00078",
+        "nome": " SOLDAGEM DE METAIS ",
+        "turma": "01",
+        "docentes": [
+            "GUDSON NICOLAU DE MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00078",
+        "nome": " SOLDAGEM DE METAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00078",
+        "nome": " SOLDAGEM DE METAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO ALVES DE SIQUEIRA FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTM 204 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

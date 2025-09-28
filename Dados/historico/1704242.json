@@ -1,0 +1,543 @@
+[
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ELYANE LINS CORREA"
+        ],
+        "horario": "2T345",
+        "matriculas": 0,
+        "capacidade": 55,
+        "local": "CTS 305 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO BARAUNA BENTO"
+        ],
+        "horario": "2T345",
+        "matriculas": 37,
+        "capacidade": 55,
+        "local": "CTH 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO DE ASSIS DA COSTA"
+        ],
+        "horario": "2T345",
+        "matriculas": 26,
+        "capacidade": 55,
+        "local": "CTE 104 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 38,
+        "capacidade": 55,
+        "local": "CT-ADM SALA NELCI TINEM [DAU] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTH AT2 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTE 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "2T345",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "Plataforma digital",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTA 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "4T123",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "4T123",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "YANE ALMEIDA DINIZ"
+        ],
+        "horario": "4T123",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTA 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA RUBERG"
+        ],
+        "horario": "4T123",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "CHRISTIANE C. RODRIGUES"
+        ],
+        "horario": "4T123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "CAROLINA GUARITA TAVARES LEITE"
+        ],
+        "horario": "4T123",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA ANDRADE DOS PASSOS"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "JOVANKA BARACUHY CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "AMB 93",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "JOVANKA BARACUHY CAVALCANTI",
+            "ELISABETTA ROMANO JALES (45"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTM 204",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "ROSSANA CRISTINA HONORATO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704242",
+        "nome": " METODOLOGIA DO TRABALHO CIENTÍFICO ",
+        "turma": "01",
+        "docentes": [
+            "BELARMINO BARBOSA LIRA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,591 @@
+[
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTS 606 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N12",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CTG SALA BOUNGANVILLE [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF SALA MANDACARU (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "ensino remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "247T6  24N12",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "Ensino remoto de emergência",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "2N34 6N61",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T56",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "INFOLAB (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N34",
+        "matriculas": 1,
+        "capacidade": 2,
+        "local": "CTF 102 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 27,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "02",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N56",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "INFOLAB (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "SALA ACÁCIA     PPGEP (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "24N61",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "MANDACARU (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "2N34 6N12",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "DENISE DANTAS MUNIZ"
+        ],
+        "horario": "2N34 6N12",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "IVANIZE CLAUDIA DOS SANTOS E SILVA"
+        ],
+        "horario": "24N12",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "BOUNGANVIL (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "BOUNGANVIL",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1705157",
+        "nome": " PROCESSOS DE CONSTRUÇÃO DE EDIFICAÇÕES ",
+        "turma": "01",
+        "docentes": [
+            "MARIA BERNADETE FERNANDES VIEIRA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,360 @@
+[
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 3,
+        "capacidade": 15,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTD 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 2,
+        "capacidade": 25,
+        "local": "CTE 104 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 2,
+        "capacidade": 10,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 3,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T45",
+        "matriculas": 4,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "46T456",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "JOÃO PESSOA",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CTJ 101 (CT) / CTM 204 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTM 204 (CT) / CTJ 101 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTM 204 (CT) / CTJ 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTJ 101 (CT) / CTD 107 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT) / CTD 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 101 (CT) / CTD 107 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "GDECV0103",
+        "nome": " PROGRAMAÇÃO APLICADA À ENGENHARIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO JACOME SARMENTO"
+        ],
+        "horario": "56T23",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CTD 107 (CT) / CTJ 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

@@ -1,0 +1,344 @@
+[
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 105 (CT) / CTJ 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 12,
+        "capacidade": 33,
+        "local": "CTM 203",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "PABLO BRILHANTE DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "Cristiano Farias Almeida"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "02",
+        "docentes": [
+            "Cristiano Farias Almeida"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "01",
+        "docentes": [
+            "Cristiano Farias Almeida"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703190",
+        "nome": " ENGENHARIA DE TRÁFEGO ",
+        "turma": "02",
+        "docentes": [
+            "Cristiano Farias Almeida"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

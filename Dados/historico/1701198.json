@@ -1,0 +1,2396 @@
+[
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTS 401 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTS 401 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTS 401 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 105 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 2,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 4,
+        "capacidade": 13,
+        "local": "CTA 105 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 11,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 9,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 5,
+        "capacidade": 13,
+        "local": "CTA 103 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 6,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 5,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 5,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTB 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 6,
+        "capacidade": 13,
+        "local": "CTB 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CTA 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 0,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 8,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / CT-ELET METROMEC [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 3,
+        "capacidade": 12,
+        "local": "METROMEC (CT) / CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTJ 202 (CT) / METROMEC (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "METROMEC (CT) / CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 27,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 13,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "Ambiente virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 14,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 12,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 12,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 14,
+        "capacidade": 12,
+        "local": "METROMEC (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 14,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "23T23",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "METROMEC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35M23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "METROMEC (CT) / CTA 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "35M23",
+        "matriculas": 9,
+        "capacidade": 13,
+        "local": "METROMEC (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "4M23  3T23",
+        "matriculas": 13,
+        "capacidade": 60,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "3T23 4T45",
+        "matriculas": 11,
+        "capacidade": 60,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 60,
+        "local": "CTA 101 (CT) / METROMEC (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA "
+        ],
+        "horario": "5M12  3T23",
+        "matriculas": 3,
+        "capacidade": 60,
+        "local": "CTS 100 (CT) / CTA 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "METROMEC",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "ROMUALDO CAMPOS DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701198",
+        "nome": " METROLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

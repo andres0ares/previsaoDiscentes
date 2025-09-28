@@ -1,0 +1,994 @@
+[
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE HILTON FERREIRA DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 106 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "24T45",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "CTB 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA"
+        ],
+        "horario": "24T45",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "24T45",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL EVARISTO CALUETE"
+        ],
+        "horario": "24T45",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTD 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 3,
+        "capacidade": 15,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "LTE (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LTE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "46M45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LTE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "46M45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LTE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 18,
+        "capacidade": 23,
+        "local": "LTE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 13,
+        "capacidade": 15,
+        "local": "LTE (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "LTE (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "LTE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "LTE (CT) / LTE (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "LTEN",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LTE",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTH 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB MOTOR",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701171",
+        "nome": " USINAGEM DOS MATERIAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

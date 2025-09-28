@@ -1,0 +1,59 @@
+[
+    {
+        "codigo": "1703239",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL I ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO PAULO CABRAL DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703239",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL I ",
+        "turma": "01",
+        "docentes": [
+            "Cristiano Farias Almeida"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703239",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA AMBIENTAL I ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALMEIDA DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LABEME 1",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

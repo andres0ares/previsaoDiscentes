@@ -1,0 +1,21 @@
+[
+    {
+        "codigo": "GDEME0102",
+        "nome": " TÓPICOS ESPECIAIS EM ENGENHARIA MECÂNICA (COMPLETAÇÃO DE POÇOS) ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO CAVALCANTI RODRIGUES"
+        ],
+        "horario": "25T45",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "MULTI CT (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    }
+]

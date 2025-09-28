@@ -1,0 +1,634 @@
+[
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CTS 310 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CT-LABEME 01 [DECA] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "LEONARDO MEDEIROS DA COSTA",
+            "RAFAELA LOPES DA SILVA (30"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 6,
+        "capacidade": 35,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 20,
+        "capacidade": 35,
+        "local": "CTB 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CTA 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "CTB 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "02",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "36M456",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 38,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 38,
+        "capacidade": 45,
+        "local": "CTD 101 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTD 101 (CT) / CTD 101 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 36,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "24T6  24N1",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTD 101 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "2M23 5M45",
+        "matriculas": 43,
+        "capacidade": 56,
+        "local": "CTD 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 56
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1703195",
+        "nome": " ESTRUTURAS DE AÇO ",
+        "turma": "01",
+        "docentes": [
+            "ROMULO DE FREITAS PAIXAO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]
