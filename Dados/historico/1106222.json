@@ -1,0 +1,861 @@
+[
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "LEANDRO LACERDA GIACOMIN",
+            "LUANDA PEREIRA SOARES (1"
+        ],
+        "horario": "246M45",
+        "matriculas": 0,
+        "capacidade": 45,
+        "local": "CCENC 104 (CCEN) / LDZ (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "JOSENIR TEIXEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 38,
+        "capacidade": 45,
+        "local": "CCENB4 (CCEN) / DSE 05 (CCEN) / LDZ (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "MIODELI NOGUEIRA JUNIOR",
+            "FELIPE WARTCHOW (45h)\n\t"
+        ],
+        "horario": "246M45",
+        "matriculas": 35,
+        "capacidade": 42,
+        "local": "LDZ (CCEN) / DSE 05 (CCEN) / LDB (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "DSE 05 (CCEN) / LDZ (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN) / LDZ (CCEN) / AUD-DSE (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "JERONYMO DALAPICOLLA",
+            "FELIPE WARTCHOW (45h"
+        ],
+        "horario": "246M45",
+        "matriculas": 43,
+        "capacidade": 40,
+        "local": "LDZ (CCEN) / DSE S01 (CCEN) / LDB (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "JERONYMO DALAPICOLLA",
+            "FELIPE WARTCHOW (45h"
+        ],
+        "horario": "246M45",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LDB (CCEN) / DSE S01 (CCEN) / LDZ (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DSE S01 (CCEN) / AUD-DSE (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DSE sala 01",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "MIODELI NOGUEIRA JUNIOR",
+            "FELIPE WARTCHOW (30h)\n\t"
+        ],
+        "horario": "246M45",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "DSE S01 (CCEN) / AUD-DSE (CCEN) / AUD-DSE (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "MIODELI NOGUEIRA JUNIOR",
+            "FELIPE WARTCHOW (15h)\n\t"
+        ],
+        "horario": "246M45",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "REINALDO FARIAS PAIVA DE LUCENA",
+            "FELIPE WARTCHOW (45h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "246M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "246M45",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "DSE 05 (CCEN) / LDB (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "ROBSON TAMAR DA"
+        ],
+        "horario": "246M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "LDB (CCEN) / LDB (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "MIODELI NOGUEIRA JUNIOR",
+            "FELIPE WARTCHOW (45h)\n\t"
+        ],
+        "horario": "246M45",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LEAD (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW"
+        ],
+        "horario": "246M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "DSE S02 (CCEN) / LDB (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBSON TAMAR DA COSTA RAMOS",
+            "FELIPE WARTCHOW (45h)\n\t\t\t\t\t"
+        ],
+        "horario": "246M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "LDB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "ROBSON TAMAR DA"
+        ],
+        "horario": "246M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "DSE 05 /DSE S02 /LDB",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBSON TAMAR DA COSTA RAMOS",
+            "FELIPE WARTCHOW (45h)\n\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LDZ",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "RUBENS TEIXEIRA DE QUEIROZ",
+            "ROBSON TAMAR DA COSTA RAMO"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "LDZ",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW",
+            "MIODELI NOGUEIR"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "RUBENS TEIXEIRA DE QUEIROZ",
+            "FELIPE WARTCHOW (45h)\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "LDZ",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE WARTCHOW"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "LDZ",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "CARLOS ALBERTO BELTR"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "ZORAIDA MARIA DAVINO DE MEDEIROS",
+            "CARLOS ALBERTO BELTRAO DE MIRAND"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "02",
+        "docentes": [
+            "ZORAIDA MARIA DAVINO DE MEDEIROS",
+            "CARLOS ALBERTO BELTRAO DE MIRAND"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "LUIZ CARLOS SERRAMO LOPEZ",
+            "RIVETE SILVA DE LIMA (30h"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106222",
+        "nome": " BIOLOGIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "JURACI ALVES DE MELO",
+            "RIVETE SILVA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

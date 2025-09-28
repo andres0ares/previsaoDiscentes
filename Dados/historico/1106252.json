@@ -1,0 +1,582 @@
+[
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LEAD (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "DSE S03 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "DSE S03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DSE S03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "02",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "02",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 15,
+        "capacidade": 70,
+        "local": "auditorio",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "BRAULIO ALMEIDA SANTOS",
+            "ANA CAROLINA FIGUEIRED"
+        ],
+        "horario": "3M2345",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "BRAULIO ALMEIDA SANTOS",
+            "ANA CAROLINA FIGUEIRED"
+        ],
+        "horario": "3M2345",
+        "matriculas": 30,
+        "capacidade": 37,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ECOLOGIA - Rio Tinto - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ECOLOGIA - Rio Tinto - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DSE S02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "DSE S02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 32,
+        "capacidade": 45,
+        "local": "DSE S02",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ANA CAROLINA FIGUEIREDO LACERDA",
+            "ALEXANDRE VASCONCELLOS (30h)\n\t\t"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "SEM SALA1",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106252",
+        "nome": " RECUPERAÇÃO DE ÁREAS DEGRADADAS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA",
+            "ALEXANDRE VASCONCELLOS (30h)\n\t\t\t\t\t\t\t\t\n\t"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "SA 04",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

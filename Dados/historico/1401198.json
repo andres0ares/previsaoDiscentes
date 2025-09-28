@@ -1,0 +1,986 @@
+[
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "3T456",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "3T456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "ITALO FITTIPALDI"
+        ],
+        "horario": "3T456",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "3T456",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "3T456",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CAE 102 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "3T456",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CAE 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "3T456",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA APARECIDA ALIAGA AZARA DE OLIVEIRA",
+            "PAULO CEZAR DOS SANTOS CARDOSO (30h)\n\t\t\t\t\t"
+        ],
+        "horario": "6M345",
+        "matriculas": 3,
+        "capacidade": 15,
+        "local": "CTF SALA EUCALIPTUS (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CAD 109 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M345",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CAH 103 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6M456",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "6M456",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CAH 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "6M456",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "6M456",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "CAROLINA BATISTA DE SOUZA"
+        ],
+        "horario": "6M456",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CCHLA 507 (CCHLA)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE GOMES FERREIRA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CCHLA 421",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA OTILIA DA COSTA TELLES"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAD 109",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PABLO THIAGO CORREIA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "TS-2",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO AZEVEDO GOMES DE LEON"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "AMB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "LENITA VILLAMARIN LOPEZ LESSA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "RELACÕES INTERNACIONAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - JORNALISMO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "XIQUEXIQUE",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA OTILIA DA COSTA TELLES"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCTA 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "LENITA VILLAMARIN LOPEZ LESSA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTA 102",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "09",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "07",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "COSMO SEVERIANO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "04",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CAG 109",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAC 109",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "CELSO LUIZ PEREIRA RODRIGUES BARROS"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAD 104",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401198",
+        "nome": " MÉTODOS E TÉCNICAS DA PESQUISA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

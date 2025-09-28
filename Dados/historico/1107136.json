@@ -1,0 +1,6141 @@
+[
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ALAN KELON OLIVEIRA DE MORAES"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CTP  LABGRAPH 04 (CT) / CAA 106 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "24M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG) / CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "GABRIEL DA SILVA BELARMINO"
+        ],
+        "horario": "5T45  5N12",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG) / CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 0,
+        "capacidade": 65,
+        "local": "CTP  LABGRAPH 04 (CT) / CAA 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 55,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO IURY DE SOUSA OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 71,
+        "capacidade": 72,
+        "local": "CTP  LABGRAPH 04 (CT) / CAA 103 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 27
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "24M45",
+        "matriculas": 55,
+        "capacidade": 65,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "DERZU OMAIA",
+            "LEANDRO CAR"
+        ],
+        "horario": "5T45  5N12",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG) / CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 40,
+        "capacidade": 70,
+        "local": "CAA 105 (PRG) / CTP  LABGRAPH 04 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 55,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 66,
+        "capacidade": 70,
+        "local": "CAA 106 (PRG) / CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "DERZU OMAIA"
+        ],
+        "horario": "24M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 65,
+        "capacidade": 70,
+        "local": "CTP  LABGRAPH 03 (CT) / CAA 101 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "5T45  5N12",
+        "matriculas": 36,
+        "capacidade": 70,
+        "local": "CAB 103 (PRG) / CTS 116 [Laboratório de Informática ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 64,
+        "capacidade": 70,
+        "local": "CAA 102 (PRG) / CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 58,
+        "capacidade": 65,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35T45",
+        "matriculas": 68,
+        "capacidade": 70,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 53,
+        "capacidade": 73,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "À DEFINIR (CI)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35T45",
+        "matriculas": 55,
+        "capacidade": 65,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 40,
+        "capacidade": 65,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "LIEPE 04 (CI) / CI T07 (Lab) (CI)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 65,
+        "local": "CTP  LABGRAPH 04 (CT) / CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "CI 106 (Lab) (CI)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35T45",
+        "matriculas": 56,
+        "capacidade": 65,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "SERGIO DE CARVALHO BEZERRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CTP  LABGRAPH 04 (CT) / CAD 111 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 40,
+        "capacidade": 65,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 70,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "DI-005 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "SEM SALA3 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 70,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG) / CTP  LABGRAPH 04 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "SERGIO DE CARVALHO BEZERRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 57,
+        "capacidade": 65,
+        "local": "CTP  LABGRAPH 03 (CT) / CAA 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 58,
+        "capacidade": 61,
+        "local": "CI T07 (CI)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CI 101 (CI)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 69,
+        "capacidade": 70,
+        "local": "CAA 105 (PRG) / CAB 102 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 32,
+        "capacidade": 51,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "SERGIO DE CARVALHO BEZERRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 63,
+        "capacidade": 70,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "24M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CI 105 (CI)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 60,
+        "capacidade": 61,
+        "local": "CI 106 (CI)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 62,
+        "capacidade": 63,
+        "local": "MIDIA DA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CCHLA 417 BLOCO A (CCHLA.)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35T45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "AUD DEP (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CI T07 (CI)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35T45",
+        "matriculas": 42,
+        "capacidade": 44,
+        "local": "CI T07 (CI)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 85,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 36,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DE DADOS E INTELIGÊNCIA ARTIFICIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "10",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "11",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "12",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 60,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "16",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "17",
+        "docentes": [
+            "DERZU OMAIA"
+        ],
+        "horario": "35M23",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "18",
+        "docentes": [
+            "DERZU OMAIA"
+        ],
+        "horario": "35T45",
+        "matriculas": 30,
+        "capacidade": 75,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "LEANDRO CARLOS DE SOUZA",
+            "GIORGIA DE OLIVEIRA MAT"
+        ],
+        "horario": "236M23",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "Joao Pessoa",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "CI 101 (CI) / CI 101 (CI)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CI 102 (CI) / CI T07 (CI)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "35M23",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CI 101 (CI) / CI 103 (CI)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CI 102 (CI) / CI T07 (CI)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "YURI GONZAGA GONÇALVES DA COSTA"
+        ],
+        "horario": "35T45",
+        "matriculas": 14,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 25,
+        "local": "CI 104 (CI) / CI T07 (CI)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 35,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "35M23",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CI 103 (CI)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "10",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "11",
+        "docentes": [
+            "TEOBALDO LEITE BULHÕES JUNIOR"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "CI T07 (CI) / CI 104 (CI)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 60,
+        "local": "CI T07 (CI) / CI 304 (CI)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CI T07 (CI) / CI 304 (CI)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 20,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 10,
+        "capacidade": 60,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "CI 304 (CI) / CI - T07 (CI)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CI 304 (CI) / CI - T07 (CI)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO GOMES DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CI 304 (CI)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CI 105 (CI)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA",
+            "ALAN KELON OLIVEIRA DE MORAES ("
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CAD 106 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE ANTONIO GOMES DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CI 101 (CI)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "CAA 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 43
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CAD 110",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CI - T07 (CI)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "24M23",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CI 106 (CI)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "36T6  6N12",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAE 107 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CI 304",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CI - SB 01",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CI 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "RAONI KULESZA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CI 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAF 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAE 107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAF 110",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DI-001",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "RAONI KULESZA"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "DI-004",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "FREDERICO AUGUSTO MONTEIRO SARAIVA",
+            "PROFESSOR SUBSTITUTO (60h)\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CAE 111",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAD 111",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DI-005",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO",
+            "ULYSSES SERGIO CAVALCANTI DE"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CAF 110",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "VITOR MENEGHETTI UGU"
+        ],
+        "horario": "",
+        "matriculas": 67,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "VITOR MENEGHETTI UGU"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 85,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA",
+            "PROFESSOR SUBSTITUTO (60h)\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 78,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "DI-004",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAE 112",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "IGUATEMI EDUARDO DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAA1 109",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "DI-005",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "IGUATEMI EDUARDO DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAC 108",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ALISSON VASCONCELOS DE BRITO"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAD 109",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 74,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DI-001",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "TIAGO MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "SALA DI 04",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ALISSON VASCONCELOS DE BRITO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAA1 110",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "IGUATEMI EDUARDO DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAB 106",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CCENB 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "10",
+        "docentes": [
+            "JOAO CARLOS RODRIGUES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "SALA DI 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "13",
+        "docentes": [
+            "FELIPE ANTONIO GARCIA MORENO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAA1 108",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ALAN KELON OLIVEIRA DE MORAES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "MARDSON FREITAS DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "IGUATEMI EDUARDO DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 96,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "07",
+        "docentes": [
+            "ALISSON VASCONCELOS DE BRITO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "08",
+        "docentes": [
+            "BRUNO JEFFERSON DE SOUSA PESSOA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENA 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA COMPUTACIONAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "09",
+        "docentes": [
+            "DERZU OMAIA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "10",
+        "docentes": [
+            "ALISSON VASCONCELOS DE BRITO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 84,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "IGUATEMI EDUARDO DA FONSECA",
+            "PROFESSOR SUBSTITUTO (60h)\n"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "JOSILENE AIRES MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "MARDSON FREITAS DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "VALERIA GONCALVES SO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "DANIELA COELHO BATISTA GUEDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CENA 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 73,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "VALERIA GONCALVES SOARES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CENA 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "MARDSON FREITAS DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CENA 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "06",
+        "docentes": [
+            "VALERIA GONCALVES SOARES"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAC 109",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 83,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CLAUIRTON DE ALBUQUERQUE SIEBRA"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "ED PORTO BEZERRA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "TATIANA AIRES TAVARES"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 87,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "GUIDO LEMOS DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "CLAUIRTON DE ALBUQUERQUE SIEBRA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CAA 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "CLAUIRTON DE ALBUQUERQUE SIEBRA"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "HAMILTON SOARES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "05",
+        "docentes": [
+            "VALERIA GONCALVES SOARES"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "GUIDO LEMOS DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 73,
+        "capacidade": 50,
+        "local": "CAE 112",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "LUCIDIO DOS ANJOS FORMIGA CABRAL"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "GILBERTO FARIAS DE SOUSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "GILBERTO FARIAS DE SOUSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "04",
+        "docentes": [
+            "GILBERTO FARIAS DE SOUSA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENA 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CCEN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE ANTONIO GOMES DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CCEN",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "AUGUSTO ANTONIO PINHEIRO NETO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENA 102",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "MICHELINE CARVALHO BARROSO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ESTER DE CARVALHO DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ESTATÍSTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO HENRIQUE MATOS BEZERRA MOTTA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "MOEMA FERNANDES VIEGAS"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107136",
+        "nome": " INTRODUÇÃO A PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENA 106",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

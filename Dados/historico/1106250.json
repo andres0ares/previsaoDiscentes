@@ -1,0 +1,667 @@
+[
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T234",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T234",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "CCENA 101 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "TÁSSIO BRITO DE OLIVEIRA"
+        ],
+        "horario": "2T123",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "BRAULIO ALMEIDA SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "02",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "Centro de Tecnologia",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "DSE S03 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "2T123",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "LEAD",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "02",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "02",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "02",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106250",
+        "nome": " ECOLOGIA MICROBIANA ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

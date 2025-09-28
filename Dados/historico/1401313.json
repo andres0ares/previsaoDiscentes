@@ -1,0 +1,135 @@
+[
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 0,
+        "capacidade": 10,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 6,
+        "capacidade": 10,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "3M2345",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401313",
+        "nome": " SOCIOLOGIA AMBIENTAL APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "2N1234",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    }
+]

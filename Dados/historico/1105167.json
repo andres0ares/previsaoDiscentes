@@ -1,0 +1,4186 @@
+[
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24N34",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "24N34",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "24N34",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI",
+            "NEIDE QUEIROZ (30h)\n\t"
+        ],
+        "horario": "24T45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "35T45",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24N34",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "35T45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAF 102 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35T45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "24T45",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN) / DQ 05 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24N34",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24T45",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24N34",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "24T45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24N34",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "24T45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24N34",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 59,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 36
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "24T45",
+        "matriculas": 56,
+        "capacidade": 56,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 51
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35T45",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 26,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 15,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24N34",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "24T45",
+        "matriculas": 22,
+        "capacidade": 55,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 55,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35T45",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "07",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "08",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "09",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24N34",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "10",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS",
+            "MARCUS TULLIUS SCOTTI (60h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "35T456",
+        "matriculas": 62,
+        "capacidade": 62,
+        "local": "Aulas on-line",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 46,
+        "capacidade": 46,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24T45",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 54
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "24N34",
+        "matriculas": 19,
+        "capacidade": 45,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35T45",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS",
+            "MARCAL DE QUEIROZ PAULO (40h)\n\t\t\t\t\t\t\t\t\n\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "GABRIELA FEHN FISS",
+            "NEIDE QUEIROZ (20h"
+        ],
+        "horario": "24T45",
+        "matriculas": 35,
+        "capacidade": 55,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "24T45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS",
+            "NEIDE QUEIROZ (34h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T45",
+        "matriculas": 36,
+        "capacidade": 55,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35T45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "24N34",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24T45",
+        "matriculas": 55,
+        "capacidade": 53,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 52
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 41,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "24N34",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "35T45",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35T45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "35T45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 25,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 51,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "24T45",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "07",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 55,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "08",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "23N34",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "24T45",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "35T45",
+        "matriculas": 60,
+        "capacidade": 61,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 48
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "35T45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "DQ 07",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "CLAUDIO GABRIEL LIMA"
+        ],
+        "horario": "",
+        "matriculas": 69,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCAL DE QUEIROZ PA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANTONIO BEZERRA DE C"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARIO LUIZ ARAUJO DE"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCAL DE QUEIROZ PA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 67,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CCENB6",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CCENA 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "06",
+        "docentes": [
+            "ANTONIO BEZERRA DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCENA 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 71,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "03",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "02",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105167",
+        "nome": " QUÍMICA ORGÂNICA I ",
+        "turma": "01",
+        "docentes": [
+            "MARCAL DE QUEIROZ PAULO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

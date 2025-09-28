@@ -1,0 +1,1588 @@
+[
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "CCHLA 424 BLOCO A 2º ANDAR (CCHLA.)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CAH 108",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "MUL CCHLA1",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO FREIRE DE CARVALHO E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CCSA 110",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "AECIO DA SILVA AMARAL JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CCSA 210",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAE 108",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "PABLO THIAGO CORREIA DE MOURA",
+            "LORELEY GOMES GARCIA (60h)\n\t\t"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CAE 108",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "MAYK ANDREELE DO NASCIMENTO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CCSA 210",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAD 105",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCHLA 407",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "SIMONE MAGALHAES BRITO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCSA 208",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCSA 205",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CAF 109",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCHLA 401",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAD 108",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAD 109",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "SHEYLLA DE KASSIA SILVA GALVAO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "MARISTELA OLIVEIRA DE ANDRADE"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAF 103",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAD 102",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CE 312",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAD 102",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAD 102",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCHLA 513",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAD 109",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CAE 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CAG 109",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "JOANA DARC DE SOUZA CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCHLA 511",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "JACOB CARLOS LIMA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCHLA 509",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA",
+            "JOANA DARC DE SOUZA CA"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CANCELADA",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAE 103",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IOLANDA BARBOSA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CCSA 202",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAD 105",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "IOLANDA BARBOSA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAG 105",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GIOVANNI BOAES GONCALVES"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GIOVANNI BOAES GONCALVES"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "SERVIÇO SOCIAL - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GIOVANNI BOAES GONCALVES"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCHLA 514",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE MIELE"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GIOVANNI BOAES GONCALVES"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CAG 109",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO GIOVANNI BOAES GONCALVES"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAF 109",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAG 104",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401159",
+        "nome": " SOCIOLOGIA DO DESENVOLVIMENTO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCHLA 515",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

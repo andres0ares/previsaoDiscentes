@@ -1,0 +1,371 @@
+[
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "ANIELSON BARBOSA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "JOEL SOUTO MAIOR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CCSA 205",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO MOREIRA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE LOURDES BARRETO GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "JOEL SOUTO MAIOR FILHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTH 102",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "EVENTOS",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "02",
+        "docentes": [
+            "ROBERIA CESAR SOUTO MAIOR"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTE 103",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204175",
+        "nome": " ADM ESTRATEGICA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO ANTONIO CAVALCANTI DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

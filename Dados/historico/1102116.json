@@ -1,0 +1,3514 @@
+[
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4N1234",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 39,
+        "capacidade": 41,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 41,
+        "capacidade": 42,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 38,
+        "capacidade": 47,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JONAS OTAVIANO PRACA DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "4T2345",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "05",
+        "docentes": [
+            "JONAS OTAVIANO PRACA DE SOUZA"
+        ],
+        "horario": "35T23",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "06",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "5T2345",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "3N1234",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "46T23",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "Sala remota",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 36
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "05",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "06",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "34T23",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "07",
+        "docentes": [
+            "CHRISTIANNE MARIA DA SILVA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "35N123",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "João Pessoa",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "35T23",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JONAS OTAVIANO PRACA DE SOUZA"
+        ],
+        "horario": "34T23",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "LI CCEN (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "3N1234",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "JONAS OTAVIANO PRACA DE SOUZA",
+            "VINÍCIUS FERREIRA DE LIMA (20"
+        ],
+        "horario": "24T23",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "24T23",
+        "matriculas": 45,
+        "capacidade": 47,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 47
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "3N1234",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "24T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "05",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "06",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "5T2345",
+        "matriculas": 6,
+        "capacidade": 40,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "4T2345",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "2T2345",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "4T2345",
+        "matriculas": 40,
+        "capacidade": 42,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "24N34",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "2T2345",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "4T2345",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "2T2345",
+        "matriculas": 3,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO",
+            "WERNER MAXIMILIAN TOPITSCH (40h)\n"
+        ],
+        "horario": "2T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "4T2345",
+        "matriculas": 24,
+        "capacidade": 35,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "24N34",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "35T23",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "MUSEU (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "4T2345",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "LEGAM (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - Areia - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - EAD - João Pessoa - A Distância - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "DGEOC A4",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "BARTOLOMEU ISRAEL DE"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "BARTOLOMEU ISRAEL DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "BARTOLOMEU ISRAEL DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIMARY ALBUQUERQUE DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 77,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIMARY ALBUQUERQUE DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIMARY ALBUQUERQUE DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENB6",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIMARY ALBUQUERQUE DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIMARY ALBUQUERQUE DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WERNER MAXIMILIAN TOPITSCH"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "GIOVANNI DE FARIAS SEABRA",
+            "MAGNO ERASTO DE ARAUJO (3"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "MAX FURRIER"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCENB 103",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - FISICA - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - QUIMICA - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MATEMATICA - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO GALLIZA DO AMARAL MARINHO",
+            "ERNANDE FELIX DE OLIVEIRA (30h)\n\t"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCEN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - 1.GRAU - N",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CCENB 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - 1.GRAU - N",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "AUD",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "MUS.PELEO",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - 1.GRAU - N",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - 1.GRAU - N",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "MUSEU",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE AUGUSTO COSTA DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "ERNANDE FELIX DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LEGAM",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "WOLF DIETRICH HECKENDORFF"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CCENB 102",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCENB 102",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102116",
+        "nome": " FUNDAMENTOS DE GEOLOGIA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

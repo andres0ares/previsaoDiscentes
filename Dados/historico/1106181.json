@@ -1,0 +1,249 @@
+[
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "LEANDRO LACERDA GIACOMIN"
+        ],
+        "horario": "4T45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "LEANDRO LACERDA GIACOMIN"
+        ],
+        "horario": "4T45",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RUBENS TEIXEIRA DE QUEIROZ"
+        ],
+        "horario": "2M45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T45",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T45",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "LDB (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA IAECA KANAGAWA",
+            "ELIETE LIMA DE PAULA "
+        ],
+        "horario": "5T12",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "LDB (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RUBENS TEIXEIRA DE QUEIROZ",
+            "AMELIA IAECA KANAGAWA (15h"
+        ],
+        "horario": "5M56",
+        "matriculas": 8,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RITA BALTAZAR DE LIMA",
+            "AMELIA IAECA KANAGAWA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RITA BALTAZAR DE LIMA",
+            "AMELIA IAECA KANAGAWA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "SA 02",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106181",
+        "nome": " TÉCNICAS DE CAMPO APLICADA À BOTÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RITA BALTAZAR DE LIMA",
+            "AMELIA IAECA KANAGAWA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

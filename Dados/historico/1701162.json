@@ -1,0 +1,1356 @@
+[
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 108 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "246T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTF 102 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "04",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 4,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CTA 105 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CTB 101 (CT) / CTB 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "246T45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTB 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "CTA 101 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "246T45",
+        "matriculas": 15,
+        "capacidade": 45,
+        "local": "CTD 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 14,
+        "capacidade": 45,
+        "local": "CTM 201 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO HENRIQUE DIAS DOS SANTOS"
+        ],
+        "horario": "246T45",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "CTD 101 (CT) / CTA 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CTF SALA MANDACARU [DEP] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 29,
+        "capacidade": 45,
+        "local": "CTD 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 22,
+        "capacidade": 44,
+        "local": "CTA 105 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 44
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "EMERSON FREITAS JAGUARIBE"
+        ],
+        "horario": "246M45",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTA 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTA 107 (CT) / CTA 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CTA 105 (CT) / CTA 107 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTA 107 (CT) / CTA 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 44,
+        "capacidade": 44,
+        "local": "CTA 105 (CT) / CTA 107 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CTA 107 (CT) / CTA 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "246M45",
+        "matriculas": 48,
+        "capacidade": 48,
+        "local": "CTA 105 (CT) / CTA 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 48
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "2T23 46T45",
+        "matriculas": 48,
+        "capacidade": 47,
+        "local": "CTM 201 (CT) / CTJ 105 (CT) / CTM 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "2T23 46T45",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "CTM 201 /CTJ 105 /CTM 203",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO LEONARDO CAMPELO DE QUEIROGA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "BRUNO LEONARDO CAMPE"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "LABREFRIG",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LABREFRIG",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LABREFRIG",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB REFRIG",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO ALVES DE MATOS GURGEL"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "SEVERINO RODRIGUES DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "03",
+        "docentes": [
+            "ZAQUEU ERNESTO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "GERAL",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701162",
+        "nome": " TRANSFERÊNCIA DE CALOR E MASSA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "GERAL",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

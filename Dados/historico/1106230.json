@@ -1,0 +1,650 @@
+[
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CCENA 101 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "DSE S03 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 8,
+        "capacidade": 35,
+        "local": "SA 01 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "DSE SA 02",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 36,
+        "capacidade": 45,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 16,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LEAD",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "SA 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "SA 02",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "SA 03",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "SA 02",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106230",
+        "nome": " ECOLOGIA APLICADA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

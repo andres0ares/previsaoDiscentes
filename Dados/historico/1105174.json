@@ -1,0 +1,1700 @@
+[
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35N12",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 21,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 6,
+        "capacidade": 25,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 28,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 16,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "DQ 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 46
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "REUN DQ (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 19
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB5 (CCEN) / CCENB2 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 14,
+        "capacidade": 45,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "35T23",
+        "matriculas": 42,
+        "capacidade": 41,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "35N12",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 36,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "CLAUDIA DE OLIVEIRA CUNHA (30"
+        ],
+        "horario": "6M1234",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "REUN DQ (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35N12",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "DQ 04",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "DQ 04",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "MARCIA HELENA PONTIERI (60h)\n"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "CLAUDIA DE OLIVEIRA CUNHA (30"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "CLAUDIA DE OLIVEIRA CUNHA (60"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CCENB6",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 03",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "01 DQ",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105174",
+        "nome": " QUIMICA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

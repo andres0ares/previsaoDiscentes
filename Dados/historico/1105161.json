@@ -1,0 +1,5242 @@
+[
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24M45",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24M23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35N34",
+        "matriculas": 0,
+        "capacidade": 40,
+        "local": "CAF 105 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "09",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 41,
+        "capacidade": 43,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 52,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35N34",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M23",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAD 107 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "24M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "35N34",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "24M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24M23",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 55,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24T23",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "SILMAR ANDRADE DO MONTE"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "ARY DA SILVA MAIA"
+        ],
+        "horario": "24T23",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35N34",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M23",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CAF 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24M23",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 39,
+        "capacidade": 42,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 42
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24T23",
+        "matriculas": 30,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 55,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "35N34",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANKLIN KAIC DUTRA PEREIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 55,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ARY DA SILVA MAIA"
+        ],
+        "horario": "24T23",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "35N34",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24M23",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FRANKLIN KAIC DUTRA PEREIRA",
+            "COSME RAFAEL MARTINEZ SALIN"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24T23",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "35N34",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "CAD 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "DAYSE DAS NEVES MOREIRA"
+        ],
+        "horario": "24M23",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "ARY DA SILVA MAIA"
+        ],
+        "horario": "24T23",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M23",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "AMAURI FRANCISCO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 44,
+        "capacidade": 60,
+        "local": "CAD 107 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 44,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "24T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CCENA 102 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "35N34",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24T23",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 55,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24M23",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "35N34",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 24
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24T23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "24M45",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA",
+            "OTAVIO LUIS DE SANTANA ("
+        ],
+        "horario": "24M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24T45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 55,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 5,
+        "capacidade": 30,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35N34",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "24M45",
+        "matriculas": 21,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35N34",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "09",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "10",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "11",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "12",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "13",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35N123",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "Aulas on-line",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CCS 604 (CCS)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA",
+            "GIANNA DE SOUZA SORRENTINO (30"
+        ],
+        "horario": "24M45",
+        "matriculas": 52,
+        "capacidade": 55,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24T23",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CCS 604 (CCS)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 40,
+        "capacidade": 60,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24M45",
+        "matriculas": 52,
+        "capacidade": 56,
+        "local": "CAD 106 (PRG) / CCENB4 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "24T23",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 55,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24M45",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENB4 (CCEN) / CAB 102 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24M23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CCS 604 (CCS)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24M45",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "24T23",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24M45",
+        "matriculas": 48,
+        "capacidade": 55,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24T23",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG) / CAB 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 44,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24M45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 52,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M45",
+        "matriculas": 50,
+        "capacidade": 55,
+        "local": "CAD 106 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 22,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAH 104 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "EZEQUIEL FRAGOSO VIEIRA LEITAO",
+            "CLAUDIA MENEGAZ ZACCARON CRIST"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCUS TULLIUS SCOTTI"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 35,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M45",
+        "matriculas": 45,
+        "capacidade": 53,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 53
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "24M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "24M45",
+        "matriculas": 49,
+        "capacidade": 58,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 58
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAA 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "24T23",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "24T23",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "35N34",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "DQ 07",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 67,
+        "capacidade": 50,
+        "local": "DQ 07",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 82,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "WAGNER DE MENDONCA FAUSTINO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "KATIA MESSIAS BICHIN"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "CLAUDIA MENEGAZ ZACC"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA",
+            "PROFESSOR SUBSTITUTO (60"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "GIANNA DE SOUZA SORR"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "GIANNA DE SOUZA SORR"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO",
+            "GIANNA DE SOUZA SORREN"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "DIRCEU DONIZETTI DIAS DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CAF 108",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAB 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 83,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAB 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA MENEGAZ ZACCARON CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "SEVERINO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 91,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 67,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA",
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "",
+        "matriculas": 72,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO GOUVEIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 78,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIO GOUVEIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 81,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 77,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 67,
+        "capacidade": 50,
+        "local": "CAF 108",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAB AUDITO",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAB AUDITO",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAF 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105161",
+        "nome": " QUÍMICA FUNDAMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,656 @@
+[
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "WANDERLEYA DOS SANTOS FARIAS"
+        ],
+        "horario": "35N34",
+        "matriculas": 6,
+        "capacidade": 60,
+        "local": "CCSA 03 (CCSA)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANDRE DE MATTOS MARQUES"
+        ],
+        "horario": "4T23 5T45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CCSA 201 (CCSA)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO AMILTON MAIA LEITE FILHO"
+        ],
+        "horario": "36N34",
+        "matriculas": 61,
+        "capacidade": 64,
+        "local": "CAB 101 (PRG) / CAB 102 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "35T45",
+        "matriculas": 61,
+        "capacidade": 63,
+        "local": "CAH 102 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "RENNAN KERTLLY DE MEDEIROS"
+        ],
+        "horario": "36N34",
+        "matriculas": 66,
+        "capacidade": 67,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA"
+        ],
+        "horario": "56T45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA"
+        ],
+        "horario": "56N34",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA"
+        ],
+        "horario": "34N34",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA"
+        ],
+        "horario": "34N34",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "Sala virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "IGNACIO TAVARES DE ARAUJO JUNIOR"
+        ],
+        "horario": "46T23",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CCSA 225 (CCSA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "36N34",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CCSA 232 (CCSA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "MERCIA SANTOS DA CRUZ"
+        ],
+        "horario": "5T45 6T23",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CCSA 229 (CCSA)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "SHIRLEY PEREIRA DE MESQUITA"
+        ],
+        "horario": "56N34",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CCSA 233 (CCSA)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA"
+        ],
+        "horario": "4T23 5T45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CCSA 204 (CCSA)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "DANILO RAIMUNDO DE ARRUDA"
+        ],
+        "horario": "56N34",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CCSA 224 (CCSA)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "DANILO RAIMUNDO DE ARRUDA"
+        ],
+        "horario": "4T23 5T45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CCSA 233 (CCSA)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA PATRICIA ALVES PEREIRA"
+        ],
+        "horario": "56N34",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CCSA 233 (CCSA)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "BRUNO FERREIRA FRASCAROLI"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CCSA 233",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "ALEXANDRE RODRIGUES LOURES"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCSA 233",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA PATRICIA ALVES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CCSA 219",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "LAERCIO DAMIANE CERQUEIRA DA SILVA",
+            "JAILSON DA CONCEICAO TEIXEIRA DE O"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCSA 212",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "HELIO DE SOUSA RAMOS FILHO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CCSA 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "IONARA STEFANI VIANA DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CCSA 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "IONARA STEFANI VIANA DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CCSA 201",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "IONARA STEFANI VIANA DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CCSA 201",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROSANGELA PALHANO RA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "01",
+        "docentes": [
+            "IONARA STEFANI VIANA DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCSA 201",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201153",
+        "nome": " INTRODUCAO A ECONOMIA ",
+        "turma": "02",
+        "docentes": [
+            "IONARA STEFANI VIANA DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAE 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ATUARIAIS - João Pessoa - Presencial - T - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

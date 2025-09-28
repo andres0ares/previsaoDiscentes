@@ -1,0 +1,552 @@
+[
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 33,
+        "capacidade": 34,
+        "local": "LDB (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 29
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 29
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "LUANDA PEREIRA SOARES",
+            "JULIANA LOVO (45h)\n\t\t"
+        ],
+        "horario": "6T2345",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA LOVO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA LOVO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LDB",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LDB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "LDB (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LDB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "LDB",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LDZ",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106243",
+        "nome": " BIOLOGIA VEGETAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO BELTRAO DE MIRANDA",
+            "RIVETE SILVA DE LIMA (30h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

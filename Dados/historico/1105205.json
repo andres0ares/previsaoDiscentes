@@ -1,0 +1,1090 @@
+[
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "2T456",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4N123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "4N123",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "2T456",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4N123",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "4N123",
+        "matriculas": 6,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO",
+            "EDVAN CIRINO DA SILVA (15h)\n\t"
+        ],
+        "horario": "2T456",
+        "matriculas": 4,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "2T456",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "4N123",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "4N123",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5N123",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "2T123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "4N123",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4N123",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5M345",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5M345",
+        "matriculas": 17,
+        "capacidade": 16,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4N123",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4N123",
+        "matriculas": 9,
+        "capacidade": 14,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "2T123",
+        "matriculas": 8,
+        "capacidade": 14,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M345",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M345",
+        "matriculas": 7,
+        "capacidade": 12,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M345",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "6N123",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M456",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "6N123",
+        "matriculas": 10,
+        "capacidade": 18,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "03",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3N123",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "5M456",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "03",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "6N123",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "3M456",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI07",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI07",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB QUI07",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO",
+            "PROFESSOR SUBSTITUTO (45h)\n\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI07",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCEN",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCEN",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105205",
+        "nome": " INTRODUÇÃO AOS MÉTODOS INSTRUMENTAIS EXPERIMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

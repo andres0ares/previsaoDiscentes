@@ -1,0 +1,402 @@
+[
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 4,
+        "capacidade": 10,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "VICENTINA SOCORRO DA ANUNCIACAO"
+        ],
+        "horario": "3T2345",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "5T2345",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "Sala remota",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T1234",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T1234",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T1234",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 18,
+        "capacidade": 55,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "DGEOC A1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DGEOC A3",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "JOSE PAULO MARSOLA GARCIA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CDREUNI",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102244",
+        "nome": " PERÍCIA AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PAULO ROBERTO DE OLIVEIRA ROSA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CDREUNI",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

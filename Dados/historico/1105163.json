@@ -1,0 +1,3521 @@
+[
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24N34",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 24
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24M23",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES",
+            "GIANNA DE SOUZA SORRENTINO (16"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAB 103 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24N34",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "DQ 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 24
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "24M23",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "35M45",
+        "matriculas": 22,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 26,
+        "capacidade": 30,
+        "local": "CAD 103 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "35M45",
+        "matriculas": 51,
+        "capacidade": 52,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "ARY DA SILVA MAIA"
+        ],
+        "horario": "24N34",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 24
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "24M23",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 55,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "35M23",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "ARY DA SILVA MAIA",
+            "GIANNA DE SOUZA S"
+        ],
+        "horario": "24N34",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 54,
+        "capacidade": 56,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 70,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 44
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 67,
+        "capacidade": 70,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 58
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "25M45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24N12",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M23",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24N34",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "24M45",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 34
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 55,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "06",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "08",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "09",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "24M45",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "10",
+        "docentes": [
+            "COSME RAFAEL MARTINEZ SALINAS"
+        ],
+        "horario": "24N34",
+        "matriculas": 13,
+        "capacidade": 25,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA",
+            "ANA PAULA DE MELO ALVES "
+        ],
+        "horario": "35M234",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "Aulas on-line",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA",
+            "MARIA GARDENNIA DA FONSECA (30"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "24N34",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "24M45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "06",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M23",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "JOSE DE QUEIROZ CALUETE"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAH 101 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "24M45",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "24N34",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "35M23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 37
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "24N34",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "24M45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "ANA PAULA DE MELO ALVES GUEDES"
+        ],
+        "horario": "35M23",
+        "matriculas": 24,
+        "capacidade": 45,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "SEVERINO FRANCISCO DE OLIVEIRA",
+            "FAUSTHON FRED DA SILVA (40h)\n\t"
+        ],
+        "horario": "35M23",
+        "matriculas": 31,
+        "capacidade": 45,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "RAFAELA BERNARDO PROVAZI PESCI"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 36
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "24N34",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 45,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 41
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 45,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "35M23",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 53
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "FAUSTHON FRED DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CAD 110",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "ERCULES EPAMINONDAS DE SOUSA TEOTONIO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "IEDA MARIA GARCIA DO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "FERNANDO JOSE VOLPI "
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOSE DE QUEIROZ CALU"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ANTONIO GOUVEIA DE S"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "KATIA MESSIAS BICHIN"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENB3",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENB6",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "DIRCEU DONIZETTI DIAS DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "FERNANDO JOSE VOLPI EUSEBIO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "MARIA GARDENNIA DA FONSECA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DAS GRACAS AZEVEDO BRASILINO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "05",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "GIANNA DE SOUZA SORRENTINO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA CARVALHO COSTA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GOUVEIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "AFRANIO GABRIEL DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENC 102",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "04",
+        "docentes": [
+            "JULIO SANTOS REBOUCAS"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "21",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 72,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "OBERTO GRANGEIRO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "OBERTO GRANGEIRO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENB6",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "OBERTO GRANGEIRO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "03",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "IEDA MARIA GARCIA DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "OBERTO GRANGEIRO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "02",
+        "docentes": [
+            "OBERTO GRANGEIRO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105163",
+        "nome": " QUIMICA BASICA  ESTRUTURA ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAD 104",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

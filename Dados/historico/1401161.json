@@ -1,0 +1,5507 @@
+[
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ESDRAS BEZERRA FERNANDES DE ARAUJO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24N34",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAH 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CTA 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 18,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARIANA SHINOHARA RONCATO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 8,
+        "capacidade": 40,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANDERSON MOEBUS RETONDAR"
+        ],
+        "horario": "6T2345",
+        "matriculas": 21,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARIANA SHINOHARA RONCATO"
+        ],
+        "horario": "24N34",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "MARIANA SHINOHARA RONCATO"
+        ],
+        "horario": "24M45",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24N34",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 56,
+        "capacidade": 65,
+        "local": "CTA 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6M2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "TERENCE MULHALL"
+        ],
+        "horario": "6T2345",
+        "matriculas": 37,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 37,
+        "capacidade": 80,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24M45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "24N34",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CAH 103 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "24M45",
+        "matriculas": 25,
+        "capacidade": 65,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "CAMILLA IUMATTI FREITAS"
+        ],
+        "horario": "6T2345",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 8,
+        "capacidade": 8,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "09",
+        "docentes": [
+            "DEYSE DE FATIMA DO AMARANTE BRANDAO"
+        ],
+        "horario": "24M45",
+        "matriculas": 30,
+        "capacidade": 31,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24M45",
+        "matriculas": 62,
+        "capacidade": 64,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24N34",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CAD 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 64,
+        "capacidade": 69,
+        "local": "CTA 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "24N34",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 29,
+        "capacidade": 55,
+        "local": "CCHLA 405 BLOCO IV (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "CTA 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "24N34",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "4M2345",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CCHLA 405 BLOCO IV (CCHLA.)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 48,
+        "capacidade": 78,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 35,
+        "capacidade": 90,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24N34",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24M45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24N34",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6M2345",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24M45",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "09",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "24N34",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "10",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24N34",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "aulas remotas",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "THIAGO PANICA PONTES"
+        ],
+        "horario": "6T2345",
+        "matriculas": 103,
+        "capacidade": 105,
+        "local": "aulas remotas",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "09",
+        "docentes": [
+            "ARI ROCHA DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "aulas remotas",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "10",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "aulas remotas",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO GOMES DE SA",
+            "PAULO CEZAR DOS SA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24T45",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CENTRAL - CAB 105 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO GOMES DE SA",
+            "JOSE TAVARES DE AN"
+        ],
+        "horario": "24N34",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 61,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "NINNO AMORIM DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CAE 102 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARIA TEREZA SANTANA DA COSTA RODRIGUES ALMEIDA"
+        ],
+        "horario": "24N34",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "TS-2 (CCHLA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 60,
+        "capacidade": 61,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 22,
+        "capacidade": 27,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAD 102 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "09",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 53,
+        "capacidade": 54,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "10",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24N34",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "5M2345",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24T45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 48,
+        "capacidade": 55,
+        "local": "CCHLA 415 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 29,
+        "capacidade": 55,
+        "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24N34",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "24N34",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CAG 103 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 37,
+        "capacidade": 70,
+        "local": "CAH 106 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "24N34",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 37,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "24N34",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "24N34",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "6N1234",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "09",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "6T2345",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "10",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "24M45",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "CAE 106 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "11",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "2M2345",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "TS-2 (CCHLA)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "13",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "14",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "24M45",
+        "matriculas": 51,
+        "capacidade": 60,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "6N1234",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CCHLA 416 (CCHLA)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "CAROLINA BATISTA DE SOUZA"
+        ],
+        "horario": "6T2345",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "CAROLINA BATISTA DE SOUZA"
+        ],
+        "horario": "24M45",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAF 106 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "24M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAH 105 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "24N34",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAH 103 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CCHLA 414",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "6T2345",
+        "matriculas": 50,
+        "capacidade": 55,
+        "local": "CCHLA 416 (CCHLA)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "24M45",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24N34",
+        "matriculas": 30,
+        "capacidade": 32,
+        "local": "CAE 109 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6N1234",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "24M45",
+        "matriculas": 56,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "MAURICIO ROMBALDI"
+        ],
+        "horario": "6T2345",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CCHLA 421",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CAD 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCHLA 417",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAH 108",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCHLA 423",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "CLETIANE MEDEIROS COSTA DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CAH 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "TS-1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAD 111",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAH 108",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAF 110",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "JORNALISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - RELACOES PUBLICAS - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUIVOLOGIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - RADIALISMO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "COMUNICAÇÃO SOCIAL - João Pessoa - Presencial - JORNALISMO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAF 106",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ANDERSON MOEBUS RETONDAR"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CAF 111",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CCHLA 420",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAD 106",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAH 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAD 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCHLA 417",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "ANDERSON MOEBUS RETONDAR"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAD 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ITAMAR NUNES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CAH 107",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR",
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAF 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR",
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAH 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "TS-1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CAC 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "TS-2",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "VAMBERTO FERNANDES SPINELLI JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "PS-2",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "07",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "RELAÇÕES PÚBLICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANDERSON MOEBUS RETONDAR"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FILOSOFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "BIBLIOTECONOMIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "AECIO DA SILVA AMARAL JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCHLA 510",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CTJ 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS ECONÔMICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ODONTOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "TERENCE MULHALL"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "IVAN FONTES BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAC 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "08",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAA1 109",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "10",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE TAVARES DE ANDRADE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "FISIOTERAPIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "ROBERTO VERAS DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CCHLA 414",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO GOMES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CCHLA 409",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTJ 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "06",
+        "docentes": [
+            "IVAN FONTES BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "IVAN FONTES BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "IVAN FONTES BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "MAYK ANDREELE DO NASCIMENTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MAURO GUILHERME PINHEIRO KOURY"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "JAIR BATISTA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 71,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JAIR BATISTA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JAIR BATISTA DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTA 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAD 107",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS CONTÁBEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAE 101",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "GUSTAVO FERREIRA DA COSTA LIMA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCHLA 409",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA MARREIRO DE SOUSA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "SHEYLLA DE KASSIA SILVA GALVAO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAG 104",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAF 105",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "CLEOMAR FELIPE CABRAL JOB DE ANDRADE"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ARIOSVALDO DA SILVA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAF 101",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CANCELADA",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - N",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CEZAR DOS SANTOS CARDOSO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAC 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DO CARMO MOURA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CE 311",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ELIANA MONTEIRO MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "EDVALDO CARVALHO ALVES"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCHLA 514",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "EDVALDO CARVALHO ALVES"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CCHLA 515",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAG 105",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CCHLA 407",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JACOB CARLOS LIMA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAD 104",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401161",
+        "nome": " SOCIOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CARMELA BUONFIGLIO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CCHLA 407",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

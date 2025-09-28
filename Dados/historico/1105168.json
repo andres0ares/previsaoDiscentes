@@ -1,0 +1,2947 @@
+[
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6N123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "2M234",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6T123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4T123",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4T123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4T123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M234",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4T123",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "3N123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3T234",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "4M123",
+        "matriculas": 13,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M234",
+        "matriculas": 12,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 11,
+        "capacidade": 14,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3N123",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M234",
+        "matriculas": 7,
+        "capacidade": 8,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 8,
+        "capacidade": 8,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4M234",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M234",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2M123",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M123",
+        "matriculas": 10,
+        "capacidade": 12,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M123",
+        "matriculas": 21,
+        "capacidade": 22,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2T123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 01 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "5M123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2T123",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "5M123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 21
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "5T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "3T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "2T123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "5M123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "2T123",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "3T123",
+        "matriculas": 26,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "5M123",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "5M123",
+        "matriculas": 25,
+        "capacidade": 26,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "6N123",
+        "matriculas": 26,
+        "capacidade": 25,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "2T123",
+        "matriculas": 25,
+        "capacidade": 26,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA",
+            "PROFESSOR SUBSTITUTO (45h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TERESA CRISTINA BEZE"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO",
+            "TERESA CRISTINA BEZERRA SALDA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105168",
+        "nome": " QUÍMICA ANALÍTICA QUALITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LINDA REBECA BARROS AKASHI"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

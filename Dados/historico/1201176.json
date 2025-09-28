@@ -1,0 +1,1094 @@
+[
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO AGUIAR DO MONTE"
+        ],
+        "horario": "3N234",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO AGUIAR DO MONTE"
+        ],
+        "horario": "3N234",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO AGUIAR DO MONTE"
+        ],
+        "horario": "3N234",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO AGUIAR DO MONTE"
+        ],
+        "horario": "3N234",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO FIRMINO VALDEVINO DE ARAUJO"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CAH 104 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "3M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JORGE HENRIQUE NOROES VIANA"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "3T123",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE PATRICK SANTOS DE FARIAS SOUZA"
+        ],
+        "horario": "4M456",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "CTF 101 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "4M456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "BOUNGANVILLE (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "3T6  3N12",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "4M456",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "4M456",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "CTF 101",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "5T6  5N12",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CAE 109",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ANA CLAUDIA DE QUEIROZ LIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO FIRMINO VALDEVINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO FIRMINO VALDEVINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "ADRIANO FIRMINO VALDEVINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CCSA 229",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CCSA 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "SHIRLEY PEREIRA DE MESQUITA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCSA 219",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE LUIS DA SILVA NETTO JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CCSA 212",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA FABIANA GOHR"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CCSA 214",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CAE 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CAE 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "MANUEL JUAN ROJAS BUVINICH"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "SHIRLEY PEREIRA DE MESQUITA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "AVANI TEREZINHA GONCALVES TORRES"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CAH CCSA",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTB 105",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTH 103",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTF 102",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1201176",
+        "nome": " ECONOMIA DA PRODUCAO ",
+        "turma": "01",
+        "docentes": [
+            "GUILHERME DE ALBUQUERQUE CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

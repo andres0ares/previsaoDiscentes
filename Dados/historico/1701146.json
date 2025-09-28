@@ -1,0 +1,3734 @@
+[
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "2M2345",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "2M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 16,
+        "capacidade": 17,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO RICCELLY P FEITOSA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "2M2345",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "2M2345",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - PAVILHÃO [DEM] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CRISTIANA DOS SANTOS NUNES"
+        ],
+        "horario": "2M2345",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTO OFICINA MECÂNICA - SALA DE AULA [DEM] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "CTOFICINA PAVILHÃO (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "PAVOFICINA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 2,
+        "capacidade": 5,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "PAVOFICINA (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "5M456  6T1",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CTS 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 23,
+        "capacidade": 20,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T3456",
+        "matriculas": 22,
+        "capacidade": 20,
+        "local": "PAVOFICIN (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "PAV OFIC (CT) / PAV OFIC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "4T2345",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "PAV OFICIN",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "SILVIO ROMERO DE BARROS"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "SILVIO ROMERO DE BARROS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "07",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DE FATIMA QUEIROZ DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "JAIR SILVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "RODINEI MEDEIROS GOMES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JOSINALDO PEREIRA LEITE"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFIC",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA",
+            "RENATO RIBEIRO DE MORAES FILH"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO",
+            "JORGE HERBET ECHUDE SILVA (20h"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA",
+            "RENATO RIBEIRO DE MORAES FILH"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO",
+            "JORGE HERBET ECHUDE SILVA (20h"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO RODRIGUES DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "JORGE HERBET ECHUDE SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "RENATO RIBEIRO DE MORAES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "PAV OFICIN",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "PAV.MECAN",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "PAV.MECAN",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "PAV.MECAN",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "PAV.MECAN",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701146",
+        "nome": " OFICINA MECÂNICA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1992.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

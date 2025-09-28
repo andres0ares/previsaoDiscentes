@@ -1,0 +1,4640 @@
+[
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "CESAR EMANOEL BARBOSA DE LIMA"
+        ],
+        "horario": "4M2345 6M1",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAF 111 (PRG) / CAH 107 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CAF 105 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CCSA 208 (CCSA)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "CESAR EMANOEL BARBOSA DE LIMA"
+        ],
+        "horario": "4M2345 6M1",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CAE 109 (PRG) / CCSA 207 (CCSA)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "CAD 103 (PRG) / CCSA 208 (CCSA)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "CESAR EMANOEL BARBOSA DE LIMA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAE 111 (PRG) / CCSA 212 (CCSA)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 5,
+        "capacidade": 60,
+        "local": "CCSA 202 (CCSA) / CAA 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CAE 102 (PRG) / CAF 104 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CAG 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 4,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CAF 111 (PRG) / CCSA 02 (CCSA)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CAE 106 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T23",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CAE 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CAF 103 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T45",
+        "matriculas": 23,
+        "capacidade": 60,
+        "local": "CAE 110 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CAG 103 (PRG) / CAG 103 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 6M1",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 7M1",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T45",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  24N12",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CAH 103 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "5M1  24T45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "Sala Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 27,
+        "capacidade": 75,
+        "local": "Sala Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 6M1",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "Sala Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "SALA VIRTUAL",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  24T45",
+        "matriculas": 6,
+        "capacidade": 60,
+        "local": "Sala virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  24T45",
+        "matriculas": 20,
+        "capacidade": 60,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "WALMIR RUFINO DA SILVA",
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 35,
+        "capacidade": 60,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "06",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  4N1234",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "07",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Sala virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "08",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "Sala virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "24M456 5M12",
+        "matriculas": 67,
+        "capacidade": 74,
+        "local": "Sala Virtual",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "CAD 109 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 6M1",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "06",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 23,
+        "capacidade": 45,
+        "local": "CAE 107 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "07",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  4N1234",
+        "matriculas": 34,
+        "capacidade": 60,
+        "local": "CAF 107 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 12,
+        "capacidade": 45,
+        "local": "CAD 109 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 6M1",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAD 110 (PRG) / CAD 110 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "7M1  4N1234",
+        "matriculas": 44,
+        "capacidade": 60,
+        "local": "CCSA 204 (CCSA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "CAH 107 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 6M1",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CAF 101 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES",
+            "TALIEH SHAIKHZADEH VAHD"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M1",
+        "matriculas": 37,
+        "capacidade": 45,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 6M1",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAE 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "TALIEH SHAIKHZADEH VAHDAT FERREIRA"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAE 108 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 5M1",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAE 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "FABIO WALTER",
+            "MÁRCIO ROBER"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "CTJ 105 (CT) / CCSA SALA VIRTUAL 3 (CCSA)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 5M1",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "MÁRCIO ROBERTO SOUSA CARNEIRO"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M23 5M1",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAD 107 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "4N1234 5N1",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "MÁRCIO ROBERTO SOUSA CARNEIRO"
+        ],
+        "horario": "24N12 5N1",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "CAH 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "24N12 5N1",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CAD 109 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CAD 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 48,
+        "capacidade": 60,
+        "local": "CAE 107 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "24M45 5M6",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAE 108",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAE 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CAF 111",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCSA EST08",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "IVAN RAMOS CAVALCANT"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CCSA 228",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "NUTRIÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "CESAR EMANOEL BARBOSA DE LIMA",
+            "CESAR AUGUSTO RUIZ TEMOCHE (7"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "MIGUEL MAURICIO ISONI"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTM 204",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "ANDREA DE FATIMA DE OLIVEIRA REGO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "DI-002",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CAF 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "06",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CAF 108",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCSA 213",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "EGIDIO LUIZ FURLANETTO"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCSA 216",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "EGIDIO LUIZ FURLANETTO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCSA EST03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "JORGE DE OLIVEIRA GOMES"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "DI-004",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCSA 218",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CAE 109",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAF 107",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "ISABELA ASSIS GUEDES"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "THALES BATISTA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "CCSA 223",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "SANDRA LEANDRO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CCSA 208",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO LUIS DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAE 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "NIVEA MARCELA MARQUES NASCIMENTO DE MACEDO",
+            "PROFESSOR SUBSTITUTO (75h)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CTJ 106",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "FERNANDO LUIS DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CAC 101",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "GERMANA TAVARES DE MELO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "THALES BATISTA DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CAF 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CAF 107",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "AMANDA RAQUEL DE FRANCA FILGUEIRAS D AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "FERNANDO JOSE VIEIRA TORRES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAF 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIENE LARANJEIRA DINIZ"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CAE 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "ISABELA ASSIS GUEDES"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "AMANDA RAQUEL DE FRANCA FILGUEIRAS D AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAE 105",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "05",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "IVAN RAMOS CAVALCANTI"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "06",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CAE 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "07",
+        "docentes": [
+            "AMANDA RAQUEL DE FRANCA FILGUEIRAS D AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "WAGNER SOARES FERNANDES DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CAF 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "WAGNER SOARES FERNANDES DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 83,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 75,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CAF 109",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTD 103",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAG 104",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 72,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 71,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CAD 106",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAC 105",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 65,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 62,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CTD 107",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAC 109",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAA 102",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2001.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CAC 109",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CTA 107",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAE 102",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAG 103",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "HUMBERTO MARQUES FILHO"
+        ],
+        "horario": "",
+        "matriculas": 64,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "OLINELMA DE LOURDES VIEGAS DE OLIVEIRA VERAS"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAD 105",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "CESAR AUGUSTO RUIZ TEMOCHE"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAD 103",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CTB 101",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1204115",
+        "nome": " ADMINISTRAÇÃO DE EMPRESAS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAC 107",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

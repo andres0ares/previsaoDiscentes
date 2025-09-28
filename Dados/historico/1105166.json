@@ -1,0 +1,3767 @@
+[
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "56N34",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "56N34",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 29
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "06",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 60,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "56N34",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA",
+            "KATIA MESSIAS BICHINHO (30h)\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "56N12",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 39,
+        "capacidade": 55,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "56N12",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35T23",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 57,
+        "capacidade": 57,
+        "local": "Sala virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "Sala Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 38
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "Sala virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "Aulas on-line",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "56N12",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "01 DQ (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 55,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "56N12",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES",
+            "EDVAN CIRINO DA SILVA (30h)\n"
+        ],
+        "horario": "35M45",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "07",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 42,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "08",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "09",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "10",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "56N12",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M456",
+        "matriculas": 55,
+        "capacidade": 55,
+        "local": "Aulas on-line",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 54,
+        "capacidade": 55,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 55,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 49
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 44,
+        "capacidade": 46,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 46
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "56N12",
+        "matriculas": 54,
+        "capacidade": 53,
+        "local": "CAE 103 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "07",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "5T23 6T45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "DQ 01 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 54,
+        "capacidade": 55,
+        "local": "CAD 104 (PRG) / CAE 102 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 55,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "5N34 6N12",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "36M45",
+        "matriculas": 20,
+        "capacidade": 45,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 53,
+        "capacidade": 53,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 52
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35T45",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "36M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "35M45",
+        "matriculas": 63,
+        "capacidade": 63,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "56N12",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "36M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 38,
+        "capacidade": 55,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 45,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "56N12",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "36M45",
+        "matriculas": 45,
+        "capacidade": 45,
+        "local": "DQ 07 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35M45",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CCENB6 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "36M45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "DQ 04 (CCEN) / DQ 04 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 52,
+        "capacidade": 55,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 60,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "LUCIANO FARIAS DE AL"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCIO JOSE COELHO D"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "SHERLAN GUIMARAES LE"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA",
+            "PROFESSOR SUBSTITUTO (60h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 04",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 69,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "DQ 03",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CCENA 101",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "06",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCENA 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "RICARDO ALEXANDRE CAVALCANTI DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "05",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CCENB1",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "DQ 03",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 69,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DQ 02",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCENB8",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "04",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CCEND 104",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CCENB5",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA CONCEICAO SILVA BARRETO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "02",
+        "docentes": [
+            "MARIO CESAR UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "03",
+        "docentes": [
+            "MARIA DA CONCEICAO SILVA BARRETO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CCENA 105",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA CONCEICAO SILVA BARRETO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105166",
+        "nome": " QUÍMICA ANALÍTICA CLÁSSICA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DA CONCEICAO SILVA BARRETO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

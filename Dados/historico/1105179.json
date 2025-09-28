@@ -1,0 +1,3601 @@
+[
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5T234",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M345",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "2T234",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "CRISTIANI VIEGAS BRANDAO GRISI"
+        ],
+        "horario": "5T234",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "2T234",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6M345",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "2T234",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "5T234",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "3T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "6M345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6T123",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "5T234",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "2T234",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "2T234",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5T234",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "3T234",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "DAYSE DAS NEVES MOREIRA"
+        ],
+        "horario": "5T234",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "2T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "3N123",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5T234",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "2T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "23456T6  23456N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2T234",
+        "matriculas": 16,
+        "capacidade": 18,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "2N123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "5T234",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "5T234",
+        "matriculas": 7,
+        "capacidade": 14,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "2N123",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "2T234",
+        "matriculas": 12,
+        "capacidade": 14,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "2T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "5T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "5T234",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M345",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "2T234",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "5T234",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "6M345",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "5T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "6T123",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "6N123",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "2T234",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5T456",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "5M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "6M456",
+        "matriculas": 15,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5T456",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6N123",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "3T123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "5M123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M456",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 20,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "5T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "3T123",
+        "matriculas": 16,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M456",
+        "matriculas": 23,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "5M123",
+        "matriculas": 15,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "6T123",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA",
+            "RODRIGO CRISTIANO (35"
+        ],
+        "horario": "5M123",
+        "matriculas": 11,
+        "capacidade": 24,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6T123",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "6M456",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "4T456",
+        "matriculas": 13,
+        "capacidade": 24,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "3T123",
+        "matriculas": 16,
+        "capacidade": 24,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "MARIO LUIZ ARAUJO DE ALMEIDA VASCONCELLOS"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR",
+            "SAVIO MOITA PINHEIRO (22h)\n"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "SAVIO MOITA PINHEIRO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "CLAUDIO GABRIEL LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO",
+            "PROFESSOR SUBSTITUTO (45h)\n\t\t\t\t\t\t\t\t\n"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JULIANA ALVES VALE ("
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "RODRIGO CRISTIANO (4"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "RODRIGO CRISTIANO (4"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB QUI 05",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ARNALDO BUENO PEREIR"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ALDEIZA MEIRELES ALMEIDA DE MAURERA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "RODRIGO CRISTIANO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ARNALDO BUENO PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105179",
+        "nome": " QUÍMICA ORGÂNICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JULIANA ALVES VALE"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

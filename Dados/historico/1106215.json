@@ -1,0 +1,698 @@
+[
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LEAD (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "LEAD (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "4M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "DSE S02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 11,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALLAN YU IWAMA DE MELLO",
+            "GEORGE EMMANUEL CAVALCA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 10,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ALLAN YU IWAMA DE MELLO",
+            "GEORGE EMMANUEL CAVALCA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 18,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M2345",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "SA01",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "02",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "LEAD (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI",
+            "GEORGE EMMANU"
+        ],
+        "horario": "5M1234",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "GEORGE EMMANUEL CAVALCANTI DE MIRANDA"
+        ],
+        "horario": "5M1234",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "5M1234",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "5M1234",
+        "matriculas": 23,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "5M1234",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "DSE S04",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "SA 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "SA 04",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "SA 04",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ROBERTO SASSI (30h)\n"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106215",
+        "nome": " ESTUDOS DE IMPACTO AMBIENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

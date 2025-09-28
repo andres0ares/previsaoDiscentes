@@ -1,0 +1,812 @@
+[
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "DAYSE DAS NEVES MOREIRA"
+        ],
+        "horario": "35N34",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "24T23",
+        "matriculas": 5,
+        "capacidade": 35,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "35N34",
+        "matriculas": 9,
+        "capacidade": 25,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 5,
+        "capacidade": 25,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "DAYSE DAS NEVES MOREIRA"
+        ],
+        "horario": "35N34",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "DAYSE DAS NEVES MOREIRA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "35N34",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "PETRONIO FILGUEIRAS DE ATHAYDE FILHO"
+        ],
+        "horario": "7M2345",
+        "matriculas": 2,
+        "capacidade": 2,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "35N34",
+        "matriculas": 17,
+        "capacidade": 25,
+        "local": "Aulas on-line",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24T23",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CCENB7 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35T45",
+        "matriculas": 2,
+        "capacidade": 1,
+        "local": "CCENB1 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35M23",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "01 DQ (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "CCENA 104 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24T23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "GABRIELA FEHN FISS"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 22,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "35N34",
+        "matriculas": 11,
+        "capacidade": 40,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DQ 04",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIA LUCIA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CCENB2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO",
+            "PROFESSOR SUBSTITUTO (60h)\n\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "DQ 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "NEIDE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "DQ 02",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "DQ 02",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "02",
+        "docentes": [
+            "JAILTON DE SOUZA FERRARI"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CCENC 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105184",
+        "nome": " MÉTODOS INSTRUMENTAIS DE CARACTERIZAÇÃO DOS COMPOSTOS ORGÂNICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE RODRIGUES DE CARVALHO FILHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DQ 02",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

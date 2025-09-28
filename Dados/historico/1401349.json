@@ -1,0 +1,462 @@
+[
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "THIAGO PANICA PONTES"
+        ],
+        "horario": "2T345",
+        "matriculas": 0,
+        "capacidade": 35,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T345",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "JESUS MARMANILLO PEREIRA"
+        ],
+        "horario": "2T345",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTE 103 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "JESUS MARMANILLO PEREIRA"
+        ],
+        "horario": "2T345",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CAE 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "ROGERIO DE SOUZA MEDEIROS"
+        ],
+        "horario": "2T345",
+        "matriculas": 35,
+        "capacidade": 37,
+        "local": "CAD 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T345",
+        "matriculas": 31,
+        "capacidade": 35,
+        "local": "CAD 108 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "ROGERIO DE SOUZA MEDEIROS"
+        ],
+        "horario": "2T345",
+        "matriculas": 41,
+        "capacidade": 41,
+        "local": "CCHLA 414 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T345",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CCHLA 412 BLOCO I CENTRAL DE AULAS (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T345",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CAF 110 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "aulas remotas",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCELO BURGOS PIMENTEL DOS SANTOS"
+        ],
+        "horario": "2T123",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "aulas remotas",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "02",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "2T234",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "aulas remotas",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "ANDERSON MOEBUS RETONDAR"
+        ],
+        "horario": "2T123",
+        "matriculas": 39,
+        "capacidade": 43,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "02",
+        "docentes": [
+            "ALICIA FERREIRA GONCALVES"
+        ],
+        "horario": "2T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CCHLA 421 BLOCO A 1º ANDAR (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MAURO GUILHERME PINHEIRO KOURY"
+        ],
+        "horario": "2T123",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "CAD 102 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CAG 103 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "2T123",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "2T456",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CAH 106 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "2T456",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CCHLA 418 BLOCO A (CCHLA)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "2T456",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CCHLA 418 BLOCO A (CCHLA)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "2T456",
+        "matriculas": 47,
+        "capacidade": 45,
+        "local": "CAF 104 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "4M456",
+        "matriculas": 27,
+        "capacidade": 45,
+        "local": "CAH 102 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "TEREZA CORREIA DA NOBREGA QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAE 108",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1401349",
+        "nome": " SOCIOLOGIA URBANA ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AYALA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAE 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

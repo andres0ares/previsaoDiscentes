@@ -1,0 +1,996 @@
+[
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "4M2345",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "4M2345",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "4M2345",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 43,
+        "capacidade": 45,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 18,
+        "capacidade": 41,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5T123456",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 19,
+        "capacidade": 42,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ECOLOGIA - Rio Tinto - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M2345",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 20,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 35,
+        "capacidade": 45,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "5M1234",
+        "matriculas": 32,
+        "capacidade": 45,
+        "local": "DSE S02",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "DSE S02",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TURISMO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "TARCISIO ALVES CORDEIRO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "SAE",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LDE",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CCENC 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA",
+            "ROBERTO SASSI (30h)\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "GILSON FERREIRA DE MOURA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "1998.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106129",
+        "nome": " OCEANOGRAFIA GERAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "DSE",
+        "periodo": "1998.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIENCIAS - João Pessoa - Presencial - BIOLOGIA - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,3598 @@
+[
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO JOSE BONESS DOS SANTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CTP  LABGRAPH 03 (CT) / CAB 103 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 42,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N12",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 76,
+        "capacidade": 75,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 70
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "LILIANE DOS SANTOS MACHADO",
+            "ALAN KELON OLIVEIRA DE MOR"
+        ],
+        "horario": "35M45",
+        "matriculas": 59,
+        "capacidade": 75,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 45
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "ROMULO CALADO PANTALEAO CAMARA"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 60,
+        "local": "CTP  LABGRAPH 03 (CT) / CAB 102 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 66,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ROMULO CALADO PANTALEAO CAMARA"
+        ],
+        "horario": "35T45",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT) / CAA 103 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 64,
+        "capacidade": 70,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 45
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 64,
+        "capacidade": 80,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 70
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 29,
+        "capacidade": 35,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "LEANDRO CARLOS DE SOUZA",
+            "GIORGIA DE OLIVEIRA MAT"
+        ],
+        "horario": "24M45",
+        "matriculas": 67,
+        "capacidade": 68,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35T45",
+        "matriculas": 45,
+        "capacidade": 65,
+        "local": "CAA 103 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 61,
+        "capacidade": 65,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 12
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 41
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 66,
+        "capacidade": 67,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 61,
+        "capacidade": 65,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 66,
+        "capacidade": 65,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 66,
+        "capacidade": 70,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "07",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 62,
+        "capacidade": 66,
+        "local": "CAA 106 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 34
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 58,
+        "capacidade": 61,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 61
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 71,
+        "capacidade": 76,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 21
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 75,
+        "capacidade": 77,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 33
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 43,
+        "capacidade": 60,
+        "local": "Auditório 01 Central de Aulas (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 33,
+        "capacidade": 65,
+        "local": "CTA 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 74,
+        "capacidade": 76,
+        "local": "MIDIA DA (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 26
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35T45",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35N34",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 76,
+        "capacidade": 80,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 46,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 32,
+        "capacidade": 60,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "Virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 55,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "08",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35T45",
+        "matriculas": 28,
+        "capacidade": 60,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "09",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 23,
+        "capacidade": 45,
+        "local": "Joao Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS",
+            "VITOR MENEGHETTI UGULINO DE ARAUJO "
+        ],
+        "horario": "35M456",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "Joao Pessoa",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO",
+            "CARLOS ALBERTO NUNES MACHADO (60h"
+        ],
+        "horario": "35N1234",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "Joao Pessoa",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 19,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "MÍDIA 01 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "08",
+        "docentes": [
+            "YURI GONZAGA GONÇALVES DA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "09",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTP  LI3 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35T45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 13,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "35M45",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "YURI GONZAGA GONÇALVES DA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 38,
+        "capacidade": 60,
+        "local": "CAE 111 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "ALVARO FRANCISCO DE CASTRO MEDEIROS"
+        ],
+        "horario": "35N34",
+        "matriculas": 52,
+        "capacidade": 60,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "YURI GONZAGA GONÇALVES DA COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            },
+            {
+                "curso": "FÍSICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "CARLOS EDUARDO COELHO FREIRE BATISTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "07",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "CAD 110 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "09",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35T45",
+        "matriculas": 26,
+        "capacidade": 60,
+        "local": "CAF 111 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 22,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 25,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "EWERTON MONTEIRO SALVADOR"
+        ],
+        "horario": "35M45",
+        "matriculas": 9,
+        "capacidade": 40,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "EWERTON MONTEIRO SALVADOR"
+        ],
+        "horario": "35M45",
+        "matriculas": 55,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAF 106 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "06",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 40,
+        "capacidade": 60,
+        "local": "CAA 102 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "07",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CAF 109 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "CAD 107 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "09",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CAF 105 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAF 108 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "35M45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 33,
+        "capacidade": 45,
+        "local": "CAA 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "35T45",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTJT 01",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "JOSE ANTONIO GOMES DE LIMA"
+        ],
+        "horario": "35M45",
+        "matriculas": 5,
+        "capacidade": 40,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "35N34",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CAB 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAB 106",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTJT 01",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "LINCOLN DAVID NERY E SILVA"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAB 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAB 107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "VITOR MENEGHETTI UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "NAGEL ALVES COSTA (6"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTJT 01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "FRANCISCO DE ASSIS COUTINHO SOUTO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 73,
+        "capacidade": 50,
+        "local": "CAA 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "FELIPE ANTONIO GARCI"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CAB 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOSE MIGUEL AROZTEGU"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "TIAGO PEREIRA DO NAS"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CAB 106",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "NAGEL ALVES COSTA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - Rio Tinto - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "THAIS GAUDENCIO DO REGO"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAE 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "MARDSON FREITAS DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAC 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "THAIS GAUDENCIO DO REGO"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "DI-006",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CAG 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "KELY DIANA VILLACORTA VILLACORTA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAA1 112",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "JAIRO ROCHA DE FARIA"
+        ],
+        "horario": "",
+        "matriculas": 80,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MIGUEL AROZTEGUI MASSERA"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE MIGUEL AROZTEGUI MASSERA"
+        ],
+        "horario": "",
+        "matriculas": 103,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "05",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "JOSILENE AIRES MOREIRA"
+        ],
+        "horario": "",
+        "matriculas": 85,
+        "capacidade": 50,
+        "local": "CAB 102",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "MARDSON FREITAS DE AMORIM"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "ULYSSES SERGIO CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 63,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "DANIELLE ROUSY DIAS RICARTE"
+        ],
+        "horario": "",
+        "matriculas": 68,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "CLAUIRTON DE ALBUQUERQUE SIEBRA"
+        ],
+        "horario": "",
+        "matriculas": 69,
+        "capacidade": 50,
+        "local": "CAA 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CAA 102",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LAB INF",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB INF",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "JOSE ANTONIO GOMES DE LIMA"
+        ],
+        "horario": "",
+        "matriculas": 76,
+        "capacidade": 50,
+        "local": "CAC 112",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "DANIELA COELHO BATISTA GUEDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAA 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 82,
+        "capacidade": 50,
+        "local": "CAB 108",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "GIORGIA DE OLIVEIRA MATTOS"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "DANIELA COELHO BATISTA GUEDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "04",
+        "docentes": [
+            "CARLOS ALBERTO NUNES MACHADO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CAC 110",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "HAMILTON SOARES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "HAMILTON SOARES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCEND 100",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 66,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAC 108",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "HAMILTON SOARES DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "RAIMUNDO DE GOUVEIA NOBREGA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAC 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CAD 105",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CAG 104",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAG 106",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "MATEMÁTICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1107174",
+        "nome": " INICIACAO A COMPUTACAO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1898.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,403 @@
+[
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "4T2345",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DGEOC A2 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "GEOGRAFIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "SAULO ROBERTO DE OLIVEIRA VITAL"
+        ],
+        "horario": "2T2345",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "Sala virtual",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "RICHARDE MARQUES DA SILVA",
+            "MAGNO ERASTO DE ARAUJO (5"
+        ],
+        "horario": "5T1234",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T1234",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "DGEOC A4 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 26,
+        "capacidade": 28,
+        "local": "DGEOC A1 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5T2345",
+        "matriculas": 1,
+        "capacidade": 10,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "5T2345",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "DGEOC A3 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "DGEOC A1",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "DGEOC A3",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "DGEOC A1",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1102245",
+        "nome": " RISCO GEOLÓGICO ",
+        "turma": "01",
+        "docentes": [
+            "MAGNO ERASTO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "DGEOC A1",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

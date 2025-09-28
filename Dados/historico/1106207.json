@@ -1,0 +1,634 @@
+[
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 25,
+        "capacidade": 60,
+        "local": "CCENA 103 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCENB 102 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CCENB 102 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CCENA 105 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "BIOMEDICINA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 15,
+        "capacidade": 35,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 14,
+        "capacidade": 35,
+        "local": "DSE SA 02",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "02",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CTF 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 20,
+        "capacidade": 35,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO",
+            "ROBERTO SASSI (30h)"
+        ],
+        "horario": "2M2345",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "AUD-DSE (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ALAN LOURES RIBEIRO"
+        ],
+        "horario": "2M2345",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "2M2345",
+        "matriculas": 32,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "2M2345",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "2M2345",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "AUD-DSE",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "DSE S01",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "ROBERTO SASSI",
+            "MARIA CRISTIN"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "SA 01",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106207",
+        "nome": " GESTÃO DE RECURSOS NATURAIS ",
+        "turma": "01",
+        "docentes": [
+            "MARIA CRISTINA BASILIO CRISPIM DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "SA 02",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

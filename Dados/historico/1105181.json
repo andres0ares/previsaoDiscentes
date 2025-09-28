@@ -1,0 +1,367 @@
+[
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "6M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6M23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "6M45",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6M45",
+        "matriculas": 1,
+        "capacidade": 10,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6M45",
+        "matriculas": 5,
+        "capacidade": 10,
+        "local": "CCENB4 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA",
+            "KATIA MESSIAS BICHINH"
+        ],
+        "horario": "4T456",
+        "matriculas": 20,
+        "capacidade": 21,
+        "local": "Aulas on-line",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "EDVAN CIRINO DA SILVA (20h)\n\t"
+        ],
+        "horario": "5M23",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "5M23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CCENB5 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6M23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "5M23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CCEND 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "KATIA MESSIAS BICHIN"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CCENC 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "DQ 02",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105181",
+        "nome": " METODOS CROMATOGRAFICOS ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "01 DQ",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

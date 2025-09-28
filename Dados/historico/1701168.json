@@ -1,0 +1,1004 @@
+[
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "246T23",
+        "matriculas": 0,
+        "capacidade": 15,
+        "local": "CTS 114 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "246T23",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "CTA 105 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA",
+            "EDUARDO JOSÉ NOVAES MENEZE"
+        ],
+        "horario": "246T23",
+        "matriculas": 2,
+        "capacidade": 15,
+        "local": "CTA 107 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "ANDERSSON GUIMARAES OLIVEIRA"
+        ],
+        "horario": "246T23",
+        "matriculas": 6,
+        "capacidade": 15,
+        "local": "CTA 103 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "ANDERSSON GUIMARAES OLIVEIRA"
+        ],
+        "horario": "246T23",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA",
+            "ANDERSSON GUIMARAES OLIVEI"
+        ],
+        "horario": "246T23",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "246T23",
+        "matriculas": 5,
+        "capacidade": 10,
+        "local": "CTB 103 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "246T23",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "CTD 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOAO BOSCO DE AQUINO SILVA"
+        ],
+        "horario": "246T23",
+        "matriculas": 14,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "REMOTO",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "REMOTO",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "CTA 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 34,
+        "capacidade": 34,
+        "local": "CTA 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "57M23  3T45",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTA 105 (CT) / CTF 103 (CT) / CTA 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 25,
+        "capacidade": 24,
+        "local": "CTA 103 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 28,
+        "capacidade": 25,
+        "local": "CTA 103 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 31,
+        "capacidade": 30,
+        "local": "CTA 103 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "23456M12345  23456T234",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "CTS 100 (CT)",
+        "periodo": "2016.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 23,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTA 103 (CT) / CTA 103 (CT) / CTA 103 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "246T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTA 103 /CTA 103 /CTA 103",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GONCALVES DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE CARLOS DE LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "RAUL DA COSTA MEIRA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "RAUL DA COSTA MEIRA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "RAUL DA COSTA MEIRA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS DE OLIVEIRA CHAVES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1701168",
+        "nome": " ELEMENTOS DE MAQUINAS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

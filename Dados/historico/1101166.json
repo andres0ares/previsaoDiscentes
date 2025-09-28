@@ -1,0 +1,4470 @@
+[
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3M45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4M45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5T23",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental I (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "3M45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "4T45",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "5T23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "5T45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "3T45",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T23",
+        "matriculas": 28,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "5T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "3T45",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4T45",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "5T45",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3M45",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "4T45",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "5T45",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "MARCIO MEDEIROS SOARES ("
+        ],
+        "horario": "3M45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES",
+            "UMBELINO DE FREITAS NE"
+        ],
+        "horario": "3T23",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T45",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M23",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "MARCIO MEDEIROS SOARES ("
+        ],
+        "horario": "4T23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "THIERRY MARCELINO PASSER"
+        ],
+        "horario": "4T45",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "09",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "CHARLIE SALVADOR GONCALV"
+        ],
+        "horario": "5T45",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T23",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3M45",
+        "matriculas": 1,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T45",
+        "matriculas": 29,
+        "capacidade": 31,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M45",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "4T23",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "11",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "6T23",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M45",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "5M45",
+        "matriculas": 30,
+        "capacidade": 31,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CESAR DE OLIVEIRA"
+        ],
+        "horario": "2T23",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "5T23",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "6T23",
+        "matriculas": 30,
+        "capacidade": 31,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "09",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T45",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "10",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "11",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "5T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "12",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3M45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4T23",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "2T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "2T23",
+        "matriculas": 27,
+        "capacidade": 27,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4T45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "4M45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "2T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "2T45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "3M45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "3T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T45",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M45",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "4T23",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "6M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "DF2 - Laboratório de Física Experimental II (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "2M23",
+        "matriculas": 15,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "2T45",
+        "matriculas": 14,
+        "capacidade": 17,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "3T45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M45",
+        "matriculas": 14,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "4T23",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "3M45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "5T45",
+        "matriculas": 14,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "6M23",
+        "matriculas": 15,
+        "capacidade": 16,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "3M45",
+        "matriculas": 15,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "4M45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "5M45",
+        "matriculas": 15,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "3T45",
+        "matriculas": 10,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "6M45",
+        "matriculas": 11,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "4T45",
+        "matriculas": 11,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "07",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "2M45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "08",
+        "docentes": [
+            "MARCIO MEDEIROS SOARES"
+        ],
+        "horario": "2T45",
+        "matriculas": 16,
+        "capacidade": 16,
+        "local": "CCENFLab02 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "2T23",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "2T45",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "4M23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "KELLY CHRISTIAN TOLENTINO DOMINGUEZ"
+        ],
+        "horario": "4T45",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "2T23",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "2T45",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "CHARLIE SALVADOR GONCALVES"
+        ],
+        "horario": "2T23",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "4M23",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "ERNESTO JIMENEZ VILLAR"
+        ],
+        "horario": "4T45",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 19
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 19
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T45",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "06",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "DF S REUN (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "DF S REUN (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 13
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 27
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 11
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "LAB (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "2T45",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "3T23",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4M23",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "4T45",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "DF 200 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB BIB",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "JOEL BATISTA DA FONSECA NETO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "DEPFIS",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB 2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "LAB INF 2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LAB 2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "JOEL BATISTA DA FONSECA "
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LAB 2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO",
+            "JOEL BATISTA DA FONSECA "
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB 2",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARIA LUIZA CESCATO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "05",
+        "docentes": [
+            "LUIMAR CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "MARIA LUIZA CESCATO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "LAB FIS",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "04",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB 02",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ENERGIAS RENOVÁVEIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "LAB 2",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB ACION",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "03",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "02",
+        "docentes": [
+            "UMBELINO DE FREITAS NETO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1101166",
+        "nome": " FÍSICA EXPERIMENTAL II ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

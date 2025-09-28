@@ -1,0 +1,2541 @@
+[
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MANUELLA CASTELO BRANCO PESSOA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 0,
+        "capacidade": 60,
+        "local": "CAB 102 (PRG)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "VALERIA MACHADO RUFINO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 60,
+        "capacidade": 63,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CAB 101 (PRG)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ALINE OLIVEIRA MACHADO",
+            "VALERIA MACHADO RUFINO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "CAD 111 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CAA 104 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO BRENO NASCIMENTO BEZERRA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CAB 105 (PRG)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 57,
+        "capacidade": 60,
+        "local": "CCHLA 406 BLOCO IV (CCHLA.)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "EDUARDO BRENO NASCIMENTO BEZERRA"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ALINE OLIVEIRA MACHADO",
+            "CAMILA DE ALENCAR PERE"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 84,
+        "capacidade": 85,
+        "local": "CAA 105 (PRG)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA DE ALENCAR PEREIRA"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAB 106 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ALINE OLIVEIRA MACHADO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 31,
+        "capacidade": 60,
+        "local": "CAB 104 (PRG)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 50,
+        "capacidade": 51,
+        "local": "CAH 108 (PRG)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 27,
+        "capacidade": 60,
+        "local": "CCHLA 418 BLOCO A (CCHLA.)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "IVAN BOLIS"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "João Pessoa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 29,
+        "capacidade": 31,
+        "local": "CAD 106 (PRG)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 29
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "IVAN BOLIS"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "João Pessoa",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "VALERIA MACHADO RUFINO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 28,
+        "capacidade": 45,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "IVAN BOLIS"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "João Pessoa",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "IVAN BOLIS"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 37,
+        "capacidade": 60,
+        "local": "João Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "VALERIA MACHADO RUFINO"
+        ],
+        "horario": "5T12345",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "CCHLA 413 BLOCO I CENTRAL DE AULAS (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CCHLA 417 BLOCO A (CCHLA)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 42,
+        "capacidade": 60,
+        "local": "CAA 103 (PRG) / CCHLA 417 BLOCO A (CCHLA)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "KAREN GUEDES OLIVEIRA"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 34,
+        "capacidade": 40,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 40,
+        "capacidade": 45,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CAG 106 (PRG)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "KAREN GUEDES OLIVEIRA"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 27,
+        "capacidade": 35,
+        "local": "CAG 105 (PRG)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "KAREN GUEDES OLIVEIRA"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CAG 104 (PRG)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 50,
+        "capacidade": 51,
+        "local": "CAA 101 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "KAREN GUEDES OLIVEIRA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CAH 106 (PRG)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 49,
+        "capacidade": 55,
+        "local": "CAD 106 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "TATIANA DE LUCENA TORRES"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CAD 106 (PRG)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "NILTON SOARES FORMIGA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 9,
+        "capacidade": 15,
+        "local": "AMB 91 (CCHLA)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 1,
+        "capacidade": 15,
+        "local": "AMB 014 (CCHLA)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "DELIANE MACEDO FARIAS DE SOUSA"
+        ],
+        "horario": "3T45 5T456",
+        "matriculas": 46,
+        "capacidade": 55,
+        "local": "CAG 102 (PRG)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 34,
+        "capacidade": 55,
+        "local": "CAG 102",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAG 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CAG 103",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CAG 102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CCHLA 418",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SANDRA HELENA CAMPOS CARDOSO REIS",
+            "PROFESSOR SUBSTITUTO (75h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAG 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO",
+            "PROFESSOR SUBSTITUTO (75h)\n\t\t\t\t\t\t\t\t\n\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CAG 105",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ADMINISTRAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARIA DE FATIMA FERN"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "AMB 014",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "AMB 032",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 53,
+        "capacidade": 50,
+        "local": "ESPECIALIZ",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "MARIA JOSE NUNES GADELHA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CCHLA 508",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "ESPECIALIZ",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA HELENA CAMPOS CARDOSO REIS"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CAG 109",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "05",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCHLA 408",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTA 105",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "SANDRA HELENA CAMPOS CARDOSO REIS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CAG 109",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CAA1 111",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CCHLA 414",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO - João Pessoa - Presencial - N - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "SANDRA HELENA CAMPOS CARDOSO REIS"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCHLA 414",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 59,
+        "capacidade": 50,
+        "local": "CCHLA 403",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "JOSEMBERG MOURA DE ANDRADE"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CAD 105",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "04",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CAD 108",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 71,
+        "capacidade": 50,
+        "local": "CCHLA 405",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTD 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PAULO CESAR ZAMBRONI DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CCHLA 413",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CCHLA 413",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CAG 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCHLA 406",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CAC 106",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CAF 109",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CCHLA 406",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "03",
+        "docentes": [
+            "NILTON SOARES FORMIGA"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CAC 101",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CCHLA 405",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CCHLA 409",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CCHLA 403",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CCHLA 406",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "MARIA DE FATIMA FERNANDES MARTINS CATAO"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CCHLA 413",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "ANISIO JOSE DA SILVA ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 70,
+        "capacidade": 50,
+        "local": "CCHLA 407",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2006.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "SALA ESPEC",
+        "periodo": "2006.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "SARITA BRAZAO VIEIRA"
+        ],
+        "horario": "",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CCHLA 511",
+        "periodo": "2005.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CCHLA 408",
+        "periodo": "2005.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CCHLA 408",
+        "periodo": "2004.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 61,
+        "capacidade": 50,
+        "local": "CCHLA 509",
+        "periodo": "2004.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CCHLA 514",
+        "periodo": "2003.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "CIÊNCIAS SOCIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA CIVIL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "JUAN CARLOS VINAS CORTEZ"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CAA 107",
+        "periodo": "2003.1",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "IEDA FRANKEN RODRIGUES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CAA 106",
+        "periodo": "2002.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "HELDER PORDEUS MUNIZ"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2002.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "HELDER PORDEUS MUNIZ"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTA 103",
+        "periodo": "2001.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "HELDER PORDEUS MUNIZ"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTF 101",
+        "periodo": "2000.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARY YALE RODRIGUES NEVES"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CCHLA 406",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2000.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "MARY YALE RODRIGUES NEVES"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CCHLA 404",
+        "periodo": "1999.2",
+        "vagas": [
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - FORMACAO DE PSICOLOGO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "PSICOLOGIA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1405183",
+        "nome": " PSICOLOGIA DO TRABALHO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "1999.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

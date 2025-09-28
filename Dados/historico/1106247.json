@@ -1,0 +1,334 @@
+[
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T45",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "LDB (CCEN) / DSE S01 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T45",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "35T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LDB",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 30,
+        "capacidade": 35,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "LEAD (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "DSE S04 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "2T2345",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "DSE 05 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 28
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 29,
+        "capacidade": 36,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 40,
+        "capacidade": 35,
+        "local": "DSE S01 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "3T1234",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "DSE 05",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "MARIA REGINA DE VASCONCELLOS BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "DSE 05",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "RUBENS TEIXEIRA DE QUEIROZ"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LDB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "CIÊNCIAS BIOLÓGICAS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1106247",
+        "nome": " FITOGEOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARIA REGINA DE VASC"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "SEM SALA6",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA AMBIENTAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

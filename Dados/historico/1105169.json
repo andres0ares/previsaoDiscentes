@@ -1,0 +1,3775 @@
+[
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "6M123",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "5M345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "3M234",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4T456",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "3T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "6M123",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5M345",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "4T456",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "3M234",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6N123",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "3T456",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 9
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "4T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "07",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "3T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "08",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "4T6  4N12",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "WALLACE DUARTE FRAGOSO (30h)\n"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "2M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "WALLACE DUARTE FRAGOSO (30h)\n"
+        ],
+        "horario": "3M234",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO",
+            "SHERLAN GUIMARAES LEMO"
+        ],
+        "horario": "5N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6T234",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "23456M23456",
+        "matriculas": 21,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "5N123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 04 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "5N123",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "6T234",
+        "matriculas": 14,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 4
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 13,
+        "capacidade": 14,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5M345",
+        "matriculas": 8,
+        "capacidade": 14,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 14
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 19
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M234",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "6N123",
+        "matriculas": 22,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "3M123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "5M345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6T234",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO",
+            "SHERLAN GUIMARAES LEMOS (30h)"
+        ],
+        "horario": "3M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "5M345",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "6T234",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAB QUI 02 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "5M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "3M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "4T456",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "4M456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LAB QUI 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "6M123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "5M456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6N123",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "4T123",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "4T456",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "3M123",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "5M456",
+        "matriculas": 26,
+        "capacidade": 25,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "4T456",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "LILIANA DE FATIMA BEZERRA LIRA DE PONTES"
+        ],
+        "horario": "3M123",
+        "matriculas": 22,
+        "capacidade": 22,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "4T456",
+        "matriculas": 22,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6N123",
+        "matriculas": 11,
+        "capacidade": 25,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 12
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 7
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M123",
+        "matriculas": 19,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M456",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 24,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 4
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "KATIA MESSIAS BICHINHO"
+        ],
+        "horario": "4T456",
+        "matriculas": 21,
+        "capacidade": 24,
+        "local": "LAB QUI 03",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 11
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "5M456",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 14
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "6M123",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "3M123",
+        "matriculas": 22,
+        "capacidade": 24,
+        "local": "LAB QUI 03 (CCEN)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ILDA ANTONIETA SALAT"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ILDA ANTONIETA SALAT"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ILDA ANTONIETA SALAT"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI07",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "MARCIO JOSE COELHO D"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "06",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "WALLACE DUARTE FRAGO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "KATIA MESSIAS BICHIN"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 04",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE OLIVEIRA CUNHA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "LAB QUI 03",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "05",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO JOSE COELHO DE PONTES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "MARCIA HELENA PONTIERI"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "TERESA CRISTINA BEZERRA SALDANHA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "04",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDETE FERNANDES PEREIRA"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "FARMÁCIA - João Pessoa - Presencial - FARMACEUTICO - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "03",
+        "docentes": [
+            "ILDA ANTONIETA SALATA TOSCANO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "RITA COUTINHO SOUTO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105169",
+        "nome": " QUÍMICA ANALÍTICA QUANTITATIVA EXPERIMENTAL ",
+        "turma": "01",
+        "docentes": [
+            "SARA REGINA RIBEIRO CARNEIRO DE BARROS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

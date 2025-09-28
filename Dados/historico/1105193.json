@@ -1,0 +1,1652 @@
+[
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "2M2345",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 28,
+        "capacidade": 27,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 27
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 12,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "2M2345",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "24T45",
+        "matriculas": 21,
+        "capacidade": 23,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 2
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "05",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "2M2345",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GABRIEL AIRES URQUIZA DE CARVALHO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GABRIEL AIRES URQUIZA DE CARVALHO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "PAULO MCMILLER CRISOSTOMO DE OLIVEIRA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 21,
+        "capacidade": 22,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "PAULO MCMILLER CRISOSTOMO DE OLIVEIRA"
+        ],
+        "horario": "24T45",
+        "matriculas": 23,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CCENB8 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 32
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "6M2345",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 20,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "5N1234",
+        "matriculas": 22,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "35M23",
+        "matriculas": 21,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M45",
+        "matriculas": 19,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "6M2345",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 20,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "SILMAR ANDRADE DO MONTE"
+        ],
+        "horario": "6M2345",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "OTAVIO LUIS DE SANTANA"
+        ],
+        "horario": "35M23",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 18,
+        "capacidade": 20,
+        "local": "LAB QUI07 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "5N1234",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "35M23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 23,
+        "capacidade": 30,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "5N1234",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 27,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 2
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "24M45",
+        "matriculas": 24,
+        "capacidade": 25,
+        "local": "LAB QUI 06 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "LAB QUI 06",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "ELIZETE VENTURA DO MONTE"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "SILMAR ANDRADE DO MO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "CLAUDIA DE FIGUEIRED"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "GERD BRUNO DA ROCHA "
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "LAB QUI 06",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "KAREN CACILDA WEBER"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 34,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "WALLACE DUARTE FRAGOSO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "REGIANE DE CASSIA MARITAN UGULINO DE ARAUJO"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "03",
+        "docentes": [
+            "GERD BRUNO DA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "04",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2008.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "NEWTON CESAR VIANA COSTA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "LAB",
+        "periodo": "2007.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "01",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105193",
+        "nome": " COMPUTACAO PARA QUIMICA ",
+        "turma": "02",
+        "docentes": [
+            "CLAUDIA DE FIGUEIREDO BRAGA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2007.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

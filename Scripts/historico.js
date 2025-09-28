@@ -23,8 +23,8 @@ const user = '';
 const password = '';
 
 const browser = await puppeteer.launch({
-    //headless: false,
-    headless: "new",
+    headless: false,
+    //headless: "new",
     //slowMo: 100,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
 });
@@ -59,7 +59,7 @@ await page.waitForNavigation();
 
 let first_click = true;
 
-for (const diciplina of Object.keys(conteudo).slice(0, 1)) {
+for (const diciplina of Object.keys(conteudo).slice(120, 130)) {
 
     await page.evaluate(
         (nivel, codigo, first_click) => {
@@ -92,131 +92,167 @@ for (const diciplina of Object.keys(conteudo).slice(0, 1)) {
 
     await page.waitForNavigation();
 
-    const res = await page.evaluate(
-        async () => {
-
-            let tbody = document.getElementById('lista-turmas').children.item(2);
-
-            let tm = tbody.children.length;
-
-            let codigo = '';
-            let nome = '';
-
-            let res = [];
-
-            for (let i = 0; i < tm; i++) {
-                let text = tbody.children.item(i).textContent.replace(/[\n\t]/gm, '');
-                if (tbody.children.item(i).className == 'destaque') {
-                    let ar = text.replace('(GRADUAÇÃO)', '').split(/-(.*)/s);
-                    codigo = ar[0].replace(' ', '');
-                    nome = ar[1];
-                } else {
-                    if (text[0] != ' ') {
-                        let util = text.slice(12, text.length - 10);
-
-                        let docentes = tbody.children
-                            .item(i)
-                            .children.item(2)
-                            .textContent.split(' e ')
-                            .map((e) => e.slice(0, util.indexOf(' (') - 2));
-
-                        let periodo = tbody.children
-                            .item(i)
-                            .children.item(0)
-                            .textContent.replace(/\s+/g, '');
-
-                        let turma_el = tbody.children
-                            .item(i)
-                            .children.item(1)
+    try {
 
 
+        const res = await page.evaluate(
+            async () => {
 
-                       const seletorDoClick = `#lista-turmas > tbody > tr:nth-child(${i + 1}) > td:nth-child(2) > a`;
+                let tbody = document.getElementById('lista-turmas').children.item(2);
 
-                        let turma = turma_el
-                            .textContent.split(' ')[1]
-                            .slice(0, 2);
+                let tm = tbody.children.length;
 
+                let codigo = '';
+                let nome = '';
 
-                        let horario = tbody.children.item(i).children.item(6).textContent;
-                        let matriculas = Number(
-                            tbody.children
+                let res = [];
+
+                for (let i = 0; i < tm; i++) {
+                    let text = tbody.children.item(i).textContent.replace(/[\n\t]/gm, '');
+                    if (tbody.children.item(i).className == 'destaque') {
+                        let ar = text.replace('(GRADUAÇÃO)', '').split(/-(.*)/s);
+                        codigo = ar[0].replace(' ', '');
+                        nome = ar[1];
+                    } else {
+                        if (text[0] != ' ') {
+                            let util = text.slice(12, text.length - 10);
+
+                            let docentes = tbody.children
                                 .item(i)
-                                .children.item(8)
-                                .textContent.split('/')[0],
-                        );
-                        let capacidade = Number(
-                            tbody.children
-                                .item(i)
-                                .children.item(8)
-                                .textContent.split('/')[1]
-                                .split(' ')[0],
-                        );
-                        let local = tbody.children.item(i).children.item(7).textContent;
+                                .children.item(2)
+                                .textContent.split(' e ')
+                                .map((e) => e.slice(0, util.indexOf(' (') - 2));
 
-                        res.push({
-                            codigo,
-                            nome,
-                            turma,
-                            docentes,
-                            horario,
-                            matriculas,
-                            capacidade,
-                            local,
-                            periodo,
-                            seletor: seletorDoClick
-                        });
+                            let periodo = tbody.children
+                                .item(i)
+                                .children.item(0)
+                                .textContent.replace(/\s+/g, '');
+
+                            let turma_el = tbody.children
+                                .item(i)
+                                .children.item(1)
+
+
+
+                            const seletorDoClick = `#lista-turmas > tbody > tr:nth-child(${i + 1}) > td:nth-child(2) > a`;
+
+                            let turma = turma_el
+                                .textContent.split(' ')[1]
+                                .slice(0, 2);
+
+
+                            let horario = tbody.children.item(i).children.item(6).textContent;
+                            let matriculas = Number(
+                                tbody.children
+                                    .item(i)
+                                    .children.item(8)
+                                    .textContent.split('/')[0],
+                            );
+                            let capacidade = Number(
+                                tbody.children
+                                    .item(i)
+                                    .children.item(8)
+                                    .textContent.split('/')[1]
+                                    .split(' ')[0],
+                            );
+                            let local = tbody.children.item(i).children.item(7).textContent;
+
+                            res.push({
+                                codigo,
+                                nome,
+                                turma,
+                                docentes,
+                                horario,
+                                matriculas,
+                                capacidade,
+                                local,
+                                periodo,
+                                seletor: seletorDoClick
+                            });
+                        }
                     }
                 }
+
+                return res;
+            }
+        );
+
+        const resultadosFinais = [];
+
+        let count = 0;
+        let total = res.length;
+
+        for (const turma of res) {
+
+            //console.log(`processando ${++count}/${total}...`);
+
+            await page.click(turma.seletor);
+
+            try {
+                const seletorDoPopup = '#resumo';
+                await page.waitForSelector(seletorDoPopup, {
+                    visible: true,
+                    timeout: 60000 // Tempo em milissegundos
+                });
+
+                const dadosDoPopup = await page.evaluate(() => {
+                    const container = document.getElementsByClassName('subFormulario')[2];
+                    if (!container) return [];
+
+                    const collection = container.children[1].children;
+                    return Array.from(collection).map((e) => ({
+                        curso: e.children[0]?.textContent.trim(),
+                        vagas: Number(e.children[1]?.textContent.trim()),
+                    }));
+                });
+
+                await page.click('.ydlg-close');
+
+                resultadosFinais.push({
+                    ...turma, // dados da lista inicial
+                    vagas: dadosDoPopup, // dados extraídos do pop-up
+                    seletor: undefined,
+                });
+
+            } catch {
+                resultadosFinais.push({
+                    ...turma, // dados da lista inicial
+                    vagas: [], // dados extraídos do pop-up
+                    seletor: undefined,
+                });
             }
 
-            return res;
-        } 
-    );
 
-    const resultadosFinais = [];
 
-    let count = 0;
-    let total = res.length;
 
-    for (const turma of res) {
+        }
 
-        console.log(`processando ${++count}/${total}...`);
 
-        await page.click(turma.seletor);
+        const saida = path.join(__dirname, `../Dados/historico/${diciplina}.json`);
 
-        const seletorDoPopup = '#resumo';
-        await page.waitForSelector(seletorDoPopup, { visible: true });
-        
-        const dadosDoPopup = await page.evaluate(() => {
-            const container = document.getElementsByClassName('subFormulario')[2]; 
-            if (!container) return [];
+        try {
+            await writeFile(saida, JSON.stringify(resultadosFinais, null, 4), 'utf8');
+            console.log(`Arquivo salvo com sucesso em: ${saida}. Quantidade: ${Object.keys(res).length}`);
+        } catch (erro) {
+            console.error('Falha ao gravar o arquivo:', erro);
+        }
 
-            const collection = container.children[1].children;
-            return Array.from(collection).map((e) => ({
-                curso: e.children[0]?.textContent.trim(),
-                vagas: Number(e.children[1]?.textContent.trim()),
-            }));
-        });
-
-        await page.click('.ydlg-close'); 
-
-        resultadosFinais.push({
-            ...turma, // dados da lista inicial
-            vagas: dadosDoPopup, // dados extraídos do pop-up
-            seletor: undefined,
-        });
     }
 
+    catch {
+        console.log("erro: ", diciplina);
+        const saida = path.join(__dirname, `../Dados/historico/${diciplina}.json`);
 
-    const saida = path.join(__dirname, `../Dados/historico/${diciplina}.json`);
+        try {
+            await writeFile(saida, JSON.stringify({}, null, 4), 'utf8');
+            console.log(`Arquivo salvo com sucesso em: ${saida}. Quantidade: 0`);
+        } catch (erro) {
+            console.error('Falha ao gravar o arquivo:', erro);
+        }
 
-    try {
-        await writeFile(saida, JSON.stringify(resultadosFinais, null, 4), 'utf8');
-        console.log(`Arquivo salvo com sucesso em: ${saida}. Quantidade: ${Object.keys(res).length}`);
-    } catch (erro) {
-        console.error('Falha ao gravar o arquivo:', erro);
+        continue
     }
+
 
 }
 

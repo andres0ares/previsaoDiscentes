@@ -1,0 +1,949 @@
+[
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35N34",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "24T45",
+        "matriculas": 0,
+        "capacidade": 45,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 8,
+        "capacidade": 15,
+        "local": "DQ 02 (CCEN)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANO FARIAS DE ALMEIDA"
+        ],
+        "horario": "35T45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 28,
+        "capacidade": 35,
+        "local": "DQ 03 (CCEN) / DQ 06 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "DQ 02 (CCEN)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "DQ 03 (CCEN)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "João Pessoa",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CCENB2 (CCEN)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 1
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 5
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 9
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 16,
+        "capacidade": 30,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "DQ/CCEN",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 19,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 18
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 7
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CCENB3 (CCEN)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 14,
+        "capacidade": 25,
+        "local": "DQ 06 (CCEN)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "35T45",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "02",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 14,
+        "capacidade": 30,
+        "local": "DQ 04 (CCEN)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 20
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35T45",
+        "matriculas": 24,
+        "capacidade": 30,
+        "local": "DQ 05 (CCEN)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 6
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 8
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "35N34",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "DQ 06",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 10
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CCENB7",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CCENB4",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS",
+            "PROFESSOR SUBSTITUTO (6"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "SHERLAN GUIMARAES LEMOS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "DQ 01",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA INDUSTRIAL - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1105204",
+        "nome": " INTRODUCAO AOS METODOS INSTRUMENTAIS ",
+        "turma": "01",
+        "docentes": [
+            "EDVAN CIRINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - N - LICENCIATURA",
+                "vagas": 0
+            },
+            {
+                "curso": "QUÍMICA - João Pessoa - Presencial - MT - LICENCIATURA",
+                "vagas": 0
+            }
+        ]
+    }
+]

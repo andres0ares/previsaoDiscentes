@@ -1,0 +1,472 @@
+[
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "MARIVALDO PEREIRA MATOS"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CAE 110",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "ROBERTO CALLEJAS BEDREGAL"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CAC 108",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "EDSON DE FIGUEIREDO LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "JACQUELINE FABIOLA ROJAS ARANCIBIA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JOEDSON SILVA DOS SA"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "JORGE COSTA DUARTE F"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "FERNANDO ANTONIO XAVIER DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CAA 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "FERNANDO ANTONIO XAVIER DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CAE 112",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "JACQUELINE FABIOLA ROJAS ARANCIBIA"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CAE 106",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "MARIVALDO PEREIRA MATOS"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAA 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "JOSE GOMES DE ASSIS"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "S/SALA",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "PEDRO ANTONIO GOMEZ VENEGAS"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "S/SALA",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "03",
+        "docentes": [
+            "FLAVIA JERONIMO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "MILTON DE LACERDA OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CAC 102",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "SHIRLEY MARIA SANTOS E SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "UBERLANDIO BATISTA SEVERO"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CAC 103",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "FERNANDO ANTONIO XAVIER DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "FLAVIA JERONIMO BARBOSA"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "JOSE GOMES DE ASSIS"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "03",
+        "docentes": [
+            "JOAO BATISTA ALVES PARENTE"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "EDSON DE FIGUEIREDO LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CAD 112",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "02",
+        "docentes": [
+            "EDSON DE FIGUEIREDO LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "03",
+        "docentes": [
+            "EDSON DE FIGUEIREDO LIMA JUNIOR"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1103141",
+        "nome": " INTRODUÇÃO À ÁLGEBRA LINEAR ",
+        "turma": "01",
+        "docentes": [
+            "TURIBIO JOSE GOMES DOS SANTOS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE ALIMENTOS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]
