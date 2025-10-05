@@ -1,0 +1,40 @@
+[
+    {
+        "codigo": "DEEL00037",
+        "nome": " MANUTENÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "4T45",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 801 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00037",
+        "nome": " MANUTENÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "3T45",
+        "matriculas": 17,
+        "capacidade": 20,
+        "local": "CEAR 2.01 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

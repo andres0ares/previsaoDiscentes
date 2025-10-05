@@ -1,0 +1,496 @@
+[
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T123 5T45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T123 5T45",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CTD 101 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 33,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 38,
+        "capacidade": 38,
+        "local": "CTM 204 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2T23 4T123",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 59,
+        "capacidade": 62,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 62
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 58,
+        "capacidade": 60,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 51,
+        "capacidade": 51,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ T03 (CT) / CTJ 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 44
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "4M23 6M123",
+        "matriculas": 42,
+        "capacidade": 44,
+        "local": "CTJT 03 (CT) / CTJ 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707503",
+        "nome": " CONVERSÃO DE ENERGIA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

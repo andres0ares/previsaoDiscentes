@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DEEL00069",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        ],
+        "horario": "35M45",
+        "matriculas": 0,
+        "capacidade": 30,
+        "local": "CTS 806 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00069",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CEAR 1.01 - Lab. Informática (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00069",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 25,
+        "capacidade": 25,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00069",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "HELON DAVID DE MACEDO BRAZ"
+        ],
+        "horario": "35M45",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "Laboratório de Refrigeração por Adsorção (LABRADS) ...",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,489 @@
+[
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 40,
+        "local": "CEAR T.07 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 12,
+        "capacidade": 40,
+        "local": "CAA 104 (PRG) / CTE 104 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "02",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "24M23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "02",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 12,
+        "capacidade": 18,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "25T45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "02",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "25T45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS",
+            "NADY ROCHA (60h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "246M23",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS",
+            "NADY ROCHA (45h)\n\t\t\t\t\t\t"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "02",
+        "docentes": [
+            "NADY ROCHA",
+            "ISAAC SOAR"
+        ],
+        "horario": "46M45",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "XIQUEXIQUE (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 13,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTB 103 (CT) / CTB 105 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "35T45",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTM 201 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "NADY ROCHA"
+        ],
+        "horario": "35T45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "6M45  3T45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTM 201 (CT) / CTM 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ZARIFF MEIRA GOMES"
+        ],
+        "horario": "6M45  3T45",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTM 202 (CT) / CTD 107 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ZARIFF MEIRA GOMES",
+            "ISAAC SOARES DE FR"
+        ],
+        "horario": "6M45  3T23",
+        "matriculas": 10,
+        "capacidade": 15,
+        "local": "CTM 204 (CT) / CTM 202 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "6M45  3T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 203 (CT) / CTM 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SIMPLICIO ARNAUD DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707512",
+        "nome": " ACIONAMENTOS E CONTROLES ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALBERTO SOTO LOCK"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "CEAR T.09 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "35M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "CTM 204 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 5,
+        "capacidade": 22,
+        "local": "CTM 205 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 22
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "02",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CICERO DA ROCHA SOUTO",
+            "ALEXSANDRO JOSÉ VIRGI"
+        ],
+        "horario": "35M456",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36M23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTJ 105 (CT) / CTJ 107 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36M23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LAC (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36M23",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LAC (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "36M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "LAC (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "4M23  2T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTM 201 (CT) / CTK 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTK 201 (CT) / LAC (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTK 201 (CT) / LAC (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTK 201 (CT) / LAC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTS 100 (CT) / CTK 201 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707515",
+        "nome": " INSTRUMENTAÇÃO INDUSTRIAL ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTM 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

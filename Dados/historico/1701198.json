@@ -2,14 +2,14 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
         "horario": "3T23 4T45",
         "matriculas": 0,
         "capacidade": 13,
-        "local": "CTS 401 [Sala Provisória] (CT)",
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 103 (CT)",
         "periodo": "2025.2",
         "vagas": [
             {
@@ -21,14 +21,14 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01B",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
         "horario": "4M23  3T23",
         "matriculas": 0,
         "capacidade": 13,
-        "local": "CTS 401 [Sala Provisória] (CT)",
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTA 103 (CT)",
         "periodo": "2025.2",
         "vagas": [
             {
@@ -40,14 +40,14 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01C",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
         "horario": "35T23",
         "matriculas": 0,
         "capacidade": 13,
-        "local": "CTS 401 [Sala Provisória] (CT)",
+        "local": "CTA 103 (CT) / CT-ELET METROMEC [DEM] (CT)",
         "periodo": "2025.2",
         "vagas": [
             {
@@ -59,14 +59,14 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
         "horario": "35M23",
         "matriculas": 0,
         "capacidade": 13,
-        "local": "CT-ELET METROMEC [DEM] (CT)",
+        "local": "CT-ELET METROMEC [DEM] (CT) / CTB 105 (CT)",
         "periodo": "2025.2",
         "vagas": [
             {
@@ -78,12 +78,12 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
         "horario": "35M23",
-        "matriculas": 13,
+        "matriculas": 12,
         "capacidade": 13,
         "local": "CT-ELET METROMEC [DEM] (CT)",
         "periodo": "2025.1",
@@ -97,7 +97,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
@@ -116,7 +116,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
@@ -135,7 +135,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "03",
+        "turma": "03A",
         "docentes": [
             "FRANCISCO RICCELLY P FEITOSA "
         ],
@@ -154,7 +154,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -173,7 +173,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -192,7 +192,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -211,7 +211,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -230,7 +230,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -249,7 +249,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -268,7 +268,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -287,7 +287,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -306,7 +306,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -325,7 +325,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -344,7 +344,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -363,7 +363,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -382,7 +382,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -401,7 +401,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -420,7 +420,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -439,7 +439,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -458,7 +458,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -477,7 +477,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -496,7 +496,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -515,7 +515,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -534,7 +534,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -553,7 +553,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -572,7 +572,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -591,7 +591,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -610,7 +610,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -629,7 +629,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -648,7 +648,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -667,7 +667,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -686,7 +686,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -705,7 +705,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -724,7 +724,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "03",
+        "turma": "03A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -743,7 +743,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -762,7 +762,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -781,7 +781,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -800,7 +800,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -819,7 +819,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -838,7 +838,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -857,7 +857,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -876,7 +876,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -895,7 +895,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -914,7 +914,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -933,7 +933,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -952,7 +952,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -971,7 +971,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -990,7 +990,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1009,7 +1009,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1028,7 +1028,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1047,7 +1047,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1066,7 +1066,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1085,7 +1085,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1104,7 +1104,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1123,7 +1123,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1142,7 +1142,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1161,7 +1161,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1180,7 +1180,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1199,7 +1199,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "03",
+        "turma": "03A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1218,7 +1218,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1237,7 +1237,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1256,7 +1256,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1275,7 +1275,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "02",
+        "turma": "02C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1294,7 +1294,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "03",
+        "turma": "03A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1313,7 +1313,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "04",
+        "turma": "04A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1332,7 +1332,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "04",
+        "turma": "04B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1351,7 +1351,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "04",
+        "turma": "04C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1389,7 +1389,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01A",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1408,7 +1408,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01B",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1427,7 +1427,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01C",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],
@@ -1446,7 +1446,7 @@
     {
         "codigo": "1701198",
         "nome": " METROLOGIA ",
-        "turma": "01",
+        "turma": "01D",
         "docentes": [
             "ROMUALDO CAMPOS DA FONSECA "
         ],

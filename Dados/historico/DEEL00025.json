@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DEEL00025",
+        "nome": " DISPOSITIVOS ELETRÔNICOS ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "24M45  2T2",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 802 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00025",
+        "nome": " DISPOSITIVOS ELETRÔNICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "24M45  5T4",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CEAR T.12 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00025",
+        "nome": " DISPOSITIVOS ELETRÔNICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00025",
+        "nome": " DISPOSITIVOS ELETRÔNICOS ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "2M23 4M123",
+        "matriculas": 33,
+        "capacidade": 35,
+        "local": "CTM 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

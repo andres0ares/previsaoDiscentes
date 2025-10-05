@@ -1,0 +1,30 @@
+[
+  {
+    "codigo": "SPPGEPS0006",
+    "nome": " TÓPICOS ESPECIAIS EM GESTÃO INTEGRADA DE SISTEMAS DE PRODUÇÃO (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "IVAN BOLIS"
+    ],
+    "horario": "6M234",
+    "matriculas": 4,
+    "capacidade": 15,
+    "local": "CTF SALA ACÁCIA [DEP] (CT)",
+    "periodo": "2024.2",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0006",
+    "nome": " TÓPICOS ESPECIAIS EM GESTÃO INTEGRADA DE SISTEMAS DE PRODUÇÃO (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "IVAN BOLIS"
+    ],
+    "horario": "3T6  3N12",
+    "matriculas": 7,
+    "capacidade": 35,
+    "local": "CT-MULTI PPGEPS (CT)",
+    "periodo": "2023.2",
+    "vagas": []
+  }
+]

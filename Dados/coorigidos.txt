@@ -1,0 +1,19 @@
+"DENM00078-02", -> so referencia para a turma 01
+1706218 -> nao retorna nada
+"1107136-01-[5M45]", -> corrigi formato (1707136-01)
+"1704262 -06", -> corrigi formato 1704262-06 , mas sem referencia (removi)
+"1705100-01-[3T23]", -> corrigi formato (1705100-01)
+"1705100-01-[5T23]", -> corrigi formato (1705100-01)
+"1107136-01-[3M45]", -> corrigi formato (1707136-01)
+"1701198-01A",
+"1707001-01A",
+"1707001-01B",
+"1701192-02A",
+"1701198-02A",
+"DEEL00054-01", -> turma 01 nao existe, so tem referencia a uma unica turma (02) em 2024.2.  troquei para DEEL00054-02
+"1704293 -1", -> corrigi formato 1704293-01
+"1704293 -2", -> corrigi formato 1704293-02
+"1704201-1", -> corrigi formato 1704201-01
+"1701178-02[5M45]", -> corrigi formato
+"1703155-01[4T23", -> corrigi
+"1701178-02[3M123]" -> corrigi formato

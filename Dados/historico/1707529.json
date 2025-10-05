@@ -1,0 +1,317 @@
+[
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "2M23 4M45",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT) / CTJ 106 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "36M23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO",
+            "RAFAEL DE SOUSA MARINHO (15h)\n\t\t\t"
+        ],
+        "horario": "36M23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO",
+            "RAFAEL DE SOUSA MARINHO (60h)\n\t\t\t"
+        ],
+        "horario": "246T23",
+        "matriculas": 4,
+        "capacidade": 4,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTM 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "24M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT) / CTJ 106 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO",
+            "RAFAEL DE SOUSA MARINHO (30h)\n\t\t\t"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "LAC (CT) / CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "LAC (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "LAC (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707529",
+        "nome": " COMUNICAÇÃO DIGITAL ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTM 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

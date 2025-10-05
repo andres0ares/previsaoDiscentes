@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 
 
 
-const entrada = path.join(__dirname, "../Dados/disciplinas.json");
+const entrada = path.join(__dirname, "../Dados/faltosos.json");
 const conteudo = JSON.parse(fs.readFileSync(entrada, 'utf-8'));
 
 
@@ -24,7 +24,7 @@ const password = '';
 
 const browser = await puppeteer.launch({
     headless: false,
-    //headless: "new",
+    //headless : "new",
     //slowMo: 100,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
 });
@@ -59,8 +59,8 @@ await page.waitForNavigation();
 
 let first_click = true;
 
-const max = Object.keys(conteudo).length
-for (const diciplina of Object.keys(conteudo).slice(400, max)) {
+
+for (const diciplina of conteudo) {
 
     await page.evaluate(
         (nivel, codigo, first_click) => {

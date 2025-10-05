@@ -1,0 +1,519 @@
+[
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "2M23 4M123",
+        "matriculas": 10,
+        "capacidade": 40,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTM LMI [DEE/CEAR] (CT) / CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 19,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 12,
+        "capacidade": 18,
+        "local": "CTK 201 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ALEXSANDRO JOSÉ VIRGINIO DOS SANTOS"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "02",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T456 5T23",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "02",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "4T456 6T45",
+        "matriculas": 30,
+        "capacidade": 45,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 26,
+        "capacidade": 45,
+        "local": "CTJ 203 (CT) / CTJ 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 25,
+        "capacidade": 45,
+        "local": "CTJ 202 (CT) / CTJ 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 11,
+        "capacidade": 45,
+        "local": "CTJ 203 (CT) / CTJ 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT) / CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT) / CTJ 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "3T123 4T45",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTJ 203 (CT) / CTJ 202 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 16,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707501",
+        "nome": " ELETRÔNICA ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

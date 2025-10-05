@@ -1,0 +1,89 @@
+[
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "CLAUDIA FABIANA GOHR",
+      "SANDRA NAOMI MORIOKA"
+    ],
+    "horario": "4T6  4N123",
+    "matriculas": 15,
+    "capacidade": 20,
+    "local": "CTF 101 (CT)",
+    "periodo": "2025.2",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "CLAUDIA FABIANA GOHR"
+    ],
+    "horario": "4T456  4N1",
+    "matriculas": 8,
+    "capacidade": 30,
+    "local": "CTF SALA ACÁCIA [DEP] (CT)",
+    "periodo": "2024.2",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "CLAUDIA FABIANA GOHR"
+    ],
+    "horario": "6M12  4T6  4N1",
+    "matriculas": 11,
+    "capacidade": 35,
+    "local": "CTF SALA ACÁCIA [DEP] (CT) / CTS 702 [Sala Provisória] ...",
+    "periodo": "2023.2",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "CLAUDIA FABIANA GOHR",
+      "SANDRA NAOMI MORIOKA"
+    ],
+    "horario": "5T2345",
+    "matriculas": 11,
+    "capacidade": 30,
+    "local": "CTF SALA EUCALIPTUS (CT)",
+    "periodo": "2022.2",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "CLAUDIA FABIANA GOHR"
+    ],
+    "horario": "4T456 4N1",
+    "matriculas": 18,
+    "capacidade": 22,
+    "local": "SALA ACÁCIA PPGEP (CT)",
+    "periodo": "2021.1",
+    "vagas": []
+  },
+  {
+    "codigo": "SPPGEPS0003",
+    "nome": " METODOLOGIA DA PESQUISA (PÓS-GRADUAÇÃO)",
+    "turma": "01",
+    "docentes": [
+      "SANDRA NAOMI MORIOKA",
+      "CLAUDIA FABIANA GOHR"
+    ],
+    "horario": "2T3456",
+    "matriculas": 15,
+    "capacidade": 20,
+    "local": "SALA ACÁCIA PPGEP (CT)",
+    "periodo": "2020.1",
+    "vagas": []
+  }
+]

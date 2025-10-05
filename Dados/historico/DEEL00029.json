@@ -1,0 +1,69 @@
+[
+    {
+        "codigo": "DEEL00029",
+        "nome": " ENGENHARIA ECONÔMICA E AVALIAÇÃO DE PROJETOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLA ROSSANA DE ARAUJO TORRES NOGUEIRA",
+            "ROSANA ANDREA COELHO MERGULHAO (30h)\n\t\t"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 105 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00029",
+        "nome": " ENGENHARIA ECONÔMICA E AVALIAÇÃO DE PROJETOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLA ROSSANA DE ARAUJO TORRES NOGUEIRA",
+            "ROSANA ANDREA COELHO MERGULHAO (30h)\n\t\t"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CEAR T.13 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00029",
+        "nome": " ENGENHARIA ECONÔMICA E AVALIAÇÃO DE PROJETOS ",
+        "turma": "01",
+        "docentes": [
+            "JONAS ALVES DE PAIVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTM 201 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

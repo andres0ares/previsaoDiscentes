@@ -1,0 +1,525 @@
+[
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "02",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO",
+            "PABLO LUIZ TABOSA DA SILVA (60h)\n\t"
+        ],
+        "horario": "3M45 5M456",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CAC 108 (PRG)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTA 105 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 10,
+        "capacidade": 18,
+        "local": "CTM 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 1,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "03",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 33,
+        "capacidade": 33,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M456 5M45",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 5M456",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 16,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 20,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 25,
+        "capacidade": 35,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 35
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "2M45 4M456",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI",
+            "SIMPLICIO ARNAUD "
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 11,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707510",
+        "nome": " MÁQUINAS ELÉTRICAS  ENG ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

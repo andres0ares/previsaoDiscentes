@@ -1,0 +1,534 @@
+[
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "02",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "AMELIA SEVERINO FERREIRA E SANTOS"
+        ],
+        "horario": "24M23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24M23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTM 204 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 18,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "SUEILA SILVA ARAUJO"
+        ],
+        "horario": "24T45",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24T45",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "02",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T23",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "35T123",
+        "matriculas": 6,
+        "capacidade": 7,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 3,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 12,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "24M45",
+        "matriculas": 5,
+        "capacidade": 30,
+        "local": "CTJ 104",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708035",
+        "nome": " PROCESSAMENTO DE MATERIAIS POLIMÉRICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCINEIDE BALBINO DA SILVA"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

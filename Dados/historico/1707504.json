@@ -1,0 +1,534 @@
+[
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "6M123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "6M123",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "THAMYRES TAMULLA CAVALCANTE PALITO"
+        ],
+        "horario": "6M123",
+        "matriculas": 27,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "JUAN MOISES MAURICIO VILLANUEVA"
+        ],
+        "horario": "5M123",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "FABRICIO BRAGA SOARES DE CARVALHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 18,
+        "capacidade": 18,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "4M123",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "George Victor Rocha Xavier"
+        ],
+        "horario": "4M123",
+        "matriculas": 14,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "02",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA",
+            "ANTONIO AUGUSTO LISBOA DE SOUZA "
+        ],
+        "horario": "4M123",
+        "matriculas": 7,
+        "capacidade": 40,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "3T123",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTM 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "3T123",
+        "matriculas": 35,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "JESSICA PEDERNEIRAS MORAES ROCHA"
+        ],
+        "horario": "5M123",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO",
+            "ADEMAR VIRGOLINO DA SIL"
+        ],
+        "horario": "5M123",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO"
+        ],
+        "horario": "5M123",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO"
+        ],
+        "horario": "5M123",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "5M123",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "02",
+        "docentes": [
+            "FRANCISCO ANTONIO BELO",
+            "CLEONILSON PROTASIO DE"
+        ],
+        "horario": "5M123",
+        "matriculas": 41,
+        "capacidade": 42,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 17
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "YURI PERCY MOLINA RODRIGUEZ"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTS 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ALBERTO SOTO LOCK (4"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTS 101",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ALBERTO SOTO LOCK (4"
+        ],
+        "horario": "",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTS 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "ALBERTO SOTO LOCK"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTS 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "ALBERTO SOTO LOCK"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "ALBERTO SOTO LOCK"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "LES",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "JUAN MOISES MAURICIO VILLANUEVA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "LUCIANA RIBEIRO VELO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707504",
+        "nome": " PESQUISA APLICADA À ENGENHARIA ELÉTRICA ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA RIBEIRO VELOSO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

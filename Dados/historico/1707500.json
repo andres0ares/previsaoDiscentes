@@ -1,0 +1,505 @@
+[
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 36,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 17,
+        "capacidade": 23,
+        "local": "CTM 201 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 15,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "24T23",
+        "matriculas": 18,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "46M45",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "Ambiente virtual",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES",
+            "SIMPLICIO ARNAUD DA SILVA ("
+        ],
+        "horario": "24T23",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "SIMPLICIO ARNAUD DA SILVA"
+        ],
+        "horario": "24T23",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "02",
+        "docentes": [
+            "JUAN MOISES MAURICIO VILLANUEVA"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 55,
+        "capacidade": 55,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 45,
+        "capacidade": 55,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 56,
+        "capacidade": 57,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 57
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 53,
+        "capacidade": 54,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 45
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 45,
+        "capacidade": 46,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 3
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 43
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 38,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707500",
+        "nome": " TEORIA DE CONTROLE ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

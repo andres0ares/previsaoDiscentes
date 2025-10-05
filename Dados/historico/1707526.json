@@ -1,0 +1,349 @@
+[
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "35M23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CT-MULTI LAB. MÍDIA 01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3M45 5M23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "LPS (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "24T23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "24T23",
+        "matriculas": 7,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "02",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "36T23",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAVI BARRETO DORIA FIGUEIREDO",
+            "WASLON TERLLIZZIE ARAUJO LOPE"
+        ],
+        "horario": "24T23",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "LPS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "25T45",
+        "matriculas": 19,
+        "capacidade": 23,
+        "local": "LPS (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "24M23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "2T45 4T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LPS (CT) / CTM 204 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "24T23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "LPS (CT) / CTE 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "24T45",
+        "matriculas": 4,
+        "capacidade": 10,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "24T45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "CTM 204 (CT) / CTM 204 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "",
+        "matriculas": 12,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTN 102",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707526",
+        "nome": " PROCESSAMENTO DIGITAL DE SINAIS ",
+        "turma": "01",
+        "docentes": [
+            "JUAN MOISES MAURICIO VILLANUEVA"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DEEL00016",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "CTS 100 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00016",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CEAR 2.02 - Integradoras (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00016",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "02",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "35M23",
+        "matriculas": 39,
+        "capacidade": 60,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00016",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "03",
+        "docentes": [
+            "PABLO LUIZ TABOSA DA SILVA"
+        ],
+        "horario": "35M23",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTB 107 (CT) / CTD 107 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    }
+]

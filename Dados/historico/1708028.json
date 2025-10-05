@@ -1,0 +1,534 @@
+[
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTF SALA EUCALIPTUS [DEP] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTF 101 (CT) / CTF 102 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTB 103 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 5,
+        "capacidade": 15,
+        "local": "CTB 101 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SHEILA ALVES BEZERRA DA COSTA REGO"
+        ],
+        "horario": "35M23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "02",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "2N1234",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "6T123456",
+        "matriculas": 8,
+        "capacidade": 9,
+        "local": "Remoto",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "DANIEL ARAUJO DE MACEDO"
+        ],
+        "horario": "24T45",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CTB 103 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 9,
+        "capacidade": 30,
+        "local": "CTM 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 30,
+        "local": "CTM 203 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTB 105 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 7,
+        "capacidade": 25,
+        "local": "CTF 102 (CT) / CTB 105 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "04",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 15,
+        "capacidade": 25,
+        "local": "CTF 102 (CT) / CTB 105 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "24T45",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CTF 102 /CTB 105",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 13,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708028",
+        "nome": " CRISTALOGRAFIA ",
+        "turma": "01",
+        "docentes": [
+            "SANDRO MARDEN TORRES"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "24T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "36M45",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTA 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "35M45",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTD 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ 106 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 9,
+        "capacidade": 20,
+        "local": "CTJ 102 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "George Victor Rocha Xavier"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "02",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES",
+            "ALEXANDRE CEZAR DE CASTRO ("
+        ],
+        "horario": "246T45",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "Moodle e sigaa",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707535",
+        "nome": " EQUIPAMENTOS ELÉTRICOS ",
+        "turma": "01",
+        "docentes": [
+            "FABIANO SALVADORI"
+        ],
+        "horario": "46M45",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

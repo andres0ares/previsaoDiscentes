@@ -1,0 +1,64 @@
+[
+    {
+        "codigo": "DEEL00019",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "2M23 4M123",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 101 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00019",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "02",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES",
+            "THAMYRES TAMULLA CAVAL"
+        ],
+        "horario": "2M23 4M123",
+        "matriculas": 25,
+        "capacidade": 40,
+        "local": "CEAR T.05 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00019",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "2M23 4M123",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

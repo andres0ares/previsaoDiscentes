@@ -1,0 +1,1100 @@
+[
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "AMANDA VIEIRA PESSOA LIMA LAFAYETTE"
+        ],
+        "horario": "6N234",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTE 105 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 2
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6N234",
+        "matriculas": 0,
+        "capacidade": 25,
+        "local": "CTE 101 (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "03",
+        "docentes": [
+            "MARCIO BARAUNA BENTO"
+        ],
+        "horario": "6T456",
+        "matriculas": 30,
+        "capacidade": 60,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 10
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 40
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CAVALCANTI RESENDE"
+        ],
+        "horario": "6N234",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA CAVALCANTI RESENDE",
+            "ILTON DA COSTA SOUZA FILH"
+        ],
+        "horario": "6T123",
+        "matriculas": 25,
+        "capacidade": 30,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "4T456",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6N234",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6T123",
+        "matriculas": 59,
+        "capacidade": 58,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 20
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 20
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6N234",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "MARCOS AURELIO PEREIRA SANTANA"
+        ],
+        "horario": "6T456",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTDR B103 (CTDR)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "6T123",
+        "matriculas": 43,
+        "capacidade": 50,
+        "local": "CTDR LA107 - LABORATÓRIO DE INFORMÁTICA (CTDR)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 45
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "DIMITRI COSTA CASTOR"
+        ],
+        "horario": "6N234",
+        "matriculas": 49,
+        "capacidade": 60,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 19
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 22
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 19
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "AMELIA DE FARIAS PANET BARROS"
+        ],
+        "horario": "6N234",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "6T123",
+        "matriculas": 42,
+        "capacidade": 90,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 45
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 40
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "4N123",
+        "matriculas": 11,
+        "capacidade": 80,
+        "local": "Ambiente Virtual",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 40
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 20
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "LIZIA AGRA VILLARIM",
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "6N234",
+        "matriculas": 45,
+        "capacidade": 60,
+        "local": "CTDR C107 (CTDR)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO DA SILVA SOBRINHO JUNIOR"
+        ],
+        "horario": "6T123",
+        "matriculas": 54,
+        "capacidade": 60,
+        "local": "CTDR C108 (CTDR)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 30
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "RAMON DAVID DE ABREU"
+        ],
+        "horario": "2T2 3T12",
+        "matriculas": 10,
+        "capacidade": 36,
+        "local": "CTDR LA107 (CTDR)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 36
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES",
+            "MARCELO ANDRADE DINIZ ("
+        ],
+        "horario": "6N234",
+        "matriculas": 29,
+        "capacidade": 60,
+        "local": "CTDR LA107 (CTDR)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES",
+            "ANTONIO FRANCISCO DE OL"
+        ],
+        "horario": "2T123",
+        "matriculas": 53,
+        "capacidade": 60,
+        "local": "CTDR B106 (CTDR)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 35
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 17
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 3
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 35
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 17
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 3
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "6N234",
+        "matriculas": 32,
+        "capacidade": 55,
+        "local": "CTDR LA102 (CTDR)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "YANE ALMEIDA DINIZ"
+        ],
+        "horario": "6T123",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTDR LA102 (CTDR)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 20
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ALUISIO COSTA FILHO"
+        ],
+        "horario": "6N234",
+        "matriculas": 41,
+        "capacidade": 60,
+        "local": "CTDR LA102 (CTDR)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 5
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "6T123",
+        "matriculas": 48,
+        "capacidade": 50,
+        "local": "CTDR LA102 (CTDR)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 35
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 10
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "6N234",
+        "matriculas": 23,
+        "capacidade": 60,
+        "local": "CTDR B106 (CTDR)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "",
+        "matriculas": 46,
+        "capacidade": 50,
+        "local": "CTDR LA107",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTDR LA107",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA DE PRODUÇÃO MECÂNICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ELISABETTA ROMANO JA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "CTDR B102",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE AZEDO LACERDA",
+            "ELISABETTA ROMANO JALES"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTDR B101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO",
+            "ELISABETTA ROMANO JALES (4"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "AMB 90",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "03",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "ELISABETTA ROMANO JA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "ARQUITETURA E URBANISMO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "04",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "AMB 011",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            },
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE AZEDO LACERDA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTH 101",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "03",
+        "docentes": [
+            "ANTONIO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 26,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "04",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 201",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FRANCISCO DE OLIVEIRA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ILTON DA COSTA SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTE 101",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - N - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "GERMANA COSTA ROCHA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA DE ALIMENTOS - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "02",
+        "docentes": [
+            "ROBERTO JOSE BARBOSA COURA"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1704241",
+        "nome": " DESENHO TÉCNICO  TECNÓLOGO ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS FIGUEIREDO DE MEDEIROS"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTE 105",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "TECNOLOGIA EM PRODUÇÃO SUCROALCOOLEIRA - João Pessoa - Presencial - T - TECNOLÓGICO",
+                "vagas": 0
+            }
+        ]
+    }
+]

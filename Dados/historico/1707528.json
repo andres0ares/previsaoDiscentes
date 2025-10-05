@@ -1,0 +1,211 @@
+[
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "24M23",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CEAR 2.09 (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "24M45",
+        "matriculas": 12,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "26M45",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "2T23 5T45",
+        "matriculas": 2,
+        "capacidade": 20,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "25T45",
+        "matriculas": 2,
+        "capacidade": 18,
+        "local": "CTM 204 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "02",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "24T23",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "2M45 5M23",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "LPS (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "3M45  5T23",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTF 102 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "5M23  2T45",
+        "matriculas": 12,
+        "capacidade": 15,
+        "local": "CTJ 102 (CT) / CTM 204 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "36M45",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTS 101 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707528",
+        "nome": " ESTRUTURA E CONCEPÇÃO DE CIRCUITOS INTEGRADOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

@@ -33,13 +33,17 @@ try {
                 dados[disciplina.codigo] = {
                     codigo: disciplina.codigo,
                     disciplina: disciplina.nome,
-                    "Optativa": [],
-                    "Obrigatória": [],
-                    "ComplementarFlexiva": []
+                    "periodos": {},
+                    "tipo": {},
+                    // "Optativa": [],
+                    // "Obrigatória": [],
+                    // "ComplementarFlexiva": []
                 }
             }
           
-            dados[disciplina.codigo][disciplina.tipo].push(curso);
+            //dados[disciplina.codigo][disciplina.tipo].push(curso);
+            dados[disciplina.codigo]["tipo"][curso] = disciplina.tipo;
+            dados[disciplina.codigo]["periodos"][curso] = disciplina.periodo;
 
         }
     }

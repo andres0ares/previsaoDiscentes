@@ -8,7 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "organizar-disciplinas": "node ./Scripts/disciplinas.js",
     "turmas-alocadas": "node ./Scripts/turmasAlocadas.js",
-    "historico": "node ./Scripts/historico.js"
+    "historico": "node ./Scripts/historico.js",
+    "combine": "node ./Scripts/combine.js",
+    "data_frame": "node ./Scripts/data_frame.js",
+    "periodos": "node ./Scripts/periodos.js",
+    "longas": "node ./Scripts/turmas_longas.js"
   },
   "repository": {
     "type": "git",

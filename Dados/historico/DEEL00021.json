@@ -1,0 +1,218 @@
+[
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS",
+            "JOSE MAURICIO RAMOS DE "
+        ],
+        "horario": "3M234 5M23",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 802 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS",
+            "JOSE MAURICIO RAMOS DE "
+        ],
+        "horario": "3M235 5M23",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 803 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO",
+            "ISAAC SOARES DE FREITAS (15h)\n\t\t\t"
+        ],
+        "horario": "3M23 5M234",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 804 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS",
+            "JOSE MAURICIO RAMOS DE "
+        ],
+        "horario": "3M23 5M235",
+        "matriculas": 0,
+        "capacidade": 12,
+        "local": "CTS 805 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO",
+            "MARIANA RODRIGUES VILLARIM (15h)\n"
+        ],
+        "horario": "3M234 5M23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTS 100 [Sala Provisória] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO",
+            "MARIANA RODRIGUES VILLARIM (15h)\n"
+        ],
+        "horario": "3M23 5M235",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CEAR T.07 (CEAR) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "05",
+        "docentes": [
+            "MARIANA RODRIGUES VILLARIM",
+            "JOSE MAURICIO RAMOS DE SOU"
+        ],
+        "horario": "3M23 5M234",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTS 810 [Sala Provisória] (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "06",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO",
+            "MARIANA RODRIGUES VILLARIM (15h)\n"
+        ],
+        "horario": "3M235 5M23",
+        "matriculas": 7,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTS 811 [Laboratório de ...",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00021",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "MARIANA RODRIGUES VILLARIM",
+            "JOSE MAURICIO RAMOS DE SOU"
+        ],
+        "horario": "3M234 5M23",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    }
+]

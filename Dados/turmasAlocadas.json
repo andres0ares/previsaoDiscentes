@@ -1354,11 +1354,6 @@
         "turma": "01",
         "nome": "PROCESSAMENTO DE ELASTÔMEROS E TERMOFIXOS"
     },
-    "DENM00078-02": {
-        "codigo": "DENM00078",
-        "turma": "02",
-        "nome": " SOLDAGEM DE METAIS "
-    },
     "DENM00074-02": {
         "codigo": "DENM00074",
         "turma": "02",
@@ -2079,11 +2074,6 @@
         "turma": "01",
         "nome": "MÁQUINAS ELÉTRICAS  ENG ELÉTRICA"
     },
-    "1107136-01-[5M45]": {
-        "codigo": "1107136",
-        "turma": "01-[5M45]",
-        "nome": " INTRODUÇÃO A PROGRAMAÇÃO "
-    },
     "1705156-01": {
         "codigo": "1705156",
         "turma": "01",
@@ -2139,11 +2129,6 @@
         "turma": "01",
         "nome": "PROJETO EM MECÂNICA DE PRECISÃO"
     },
-    "1704262 -06": {
-        "codigo": "1704262 ",
-        "turma": "06",
-        "nome": "PROJETO DE EDIFICAÇÕES VI "
-    },
     "1707506-01": {
         "codigo": "1707506",
         "turma": "01",
@@ -2183,11 +2168,6 @@
         "codigo": "1703243",
         "turma": "01",
         "nome": " TRATAMENTO DE RESÍDUOS SÓLIDOS "
-    },
-    "1706218-01": {
-        "codigo": "1706218",
-        "turma": "01",
-        "nome": " TOPICOS I EM ENGENHARIA "
     },
     "DENM00065-01": {
         "codigo": "DENM00065",
@@ -2249,11 +2229,6 @@
         "turma": "01",
         "nome": "GESTÃO DE RECURSOS HIDRICOS E REUSO DE AGUA"
     },
-    "1705100-01-[3T23]": {
-        "codigo": "1705100",
-        "turma": "01-[3T23]",
-        "nome": " CONTROLE DE QUALIDADE "
-    },
     "1707012-02": {
         "codigo": "1707012",
         "turma": "02",
@@ -2283,11 +2258,6 @@
         "codigo": "1704291",
         "turma": "01",
         "nome": " PROJETOS ESPECIAIS III "
-    },
-    "1705100-01-[5T23]": {
-        "codigo": "1705100",
-        "turma": "01-[5T23]",
-        "nome": " CONTROLE DE QUALIDADE "
     },
     "1705130-01": {
         "codigo": "1705130",
@@ -2483,11 +2453,6 @@
         "codigo": "1704187",
         "turma": "04",
         "nome": " PROJETO DE EDIFICAÇÕES IV "
-    },
-    "1107136-01-[3M45]": {
-        "codigo": "1107136",
-        "turma": "01-[3M45]",
-        "nome": " INTRODUÇÃO A PROGRAMAÇÃO "
     },
     "1701221-01": {
         "codigo": "1701221",
@@ -2919,9 +2884,9 @@
         "turma": "02",
         "nome": " MECÂNICA DOS SOLOS I "
     },
-    "DEEL00054-01": {
+    "DEEL00054-02": {
         "codigo": "DEEL00054",
-        "turma": "01",
+        "turma": "02",
         "nome": "FONTES RENOVÁVEIS E UTILIZAÇÃO DA ENERGIA"
     },
     "DEEL00063-01": {
@@ -3009,19 +2974,9 @@
         "turma": "01",
         "nome": "SISTEMAS ELÉTRICOS"
     },
-    "1704293 -1": {
-        "codigo": "1704293 ",
-        "turma": "1",
-        "nome": "PROJETOS ESPECIAIS V"
-    },
-    "1704293 -2": {
-        "codigo": "1704293 ",
-        "turma": "2",
-        "nome": "PROJETOS ESPECIAIS V"
-    },
-    "1704201-1": {
+    "1704201-01": {
         "codigo": "1704201",
-        "turma": "1",
+        "turma": "01",
         "nome": "TÓPICOS VII DETALHE I"
     },
     "DEEL00020-01": {
@@ -3144,11 +3099,6 @@
         "turma": "01",
         "nome": " FENÔMENOS DE TRANSPORTE EXPERIMENTAL "
     },
-    "1701178-02[5M45]": {
-        "codigo": "1701178",
-        "turma": "02[5M45]",
-        "nome": "DESENHO DE MÁQUINAS ASSISTIDO POR COMPUTADOR"
-    },
     "GDPEQ0120-01": {
         "codigo": "GDPEQ0120",
         "turma": "01",
@@ -3163,16 +3113,6 @@
         "codigo": "1703218",
         "turma": "02",
         "nome": " TÓPICOS EM ENGENHARIA I "
-    },
-    "1703155-01[4T23": {
-        "codigo": "1703155",
-        "turma": "01[4T23",
-        "nome": "RESISTÊNCIA DOS MATERIAIS III"
-    },
-    "1701178-02[3M123]": {
-        "codigo": "1701178",
-        "turma": "02[3M123]",
-        "nome": " DESENHO DE MÁQUINAS ASSISTIDO POR COMPUTADOR "
     },
     "1709042-02": {
         "codigo": "1709042",

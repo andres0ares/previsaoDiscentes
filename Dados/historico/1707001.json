@@ -1,0 +1,1372 @@
+[
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "ANTONIO AUGUSTO LISBOA DE SOUZA (15"
+        ],
+        "horario": "3M234 5M23",
+        "matriculas": 9,
+        "capacidade": 10,
+        "local": "CTM 202 (CT) / CTM 202 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "ANTONIO AUGUSTO LISBOA DE SOUZA (15"
+        ],
+        "horario": "3M235 5M23",
+        "matriculas": 8,
+        "capacidade": 10,
+        "local": "CTM 202 (CT) / CTM 202 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "ANTONIO AUGUSTO LISBOA DE SOUZA (15"
+        ],
+        "horario": "3M23 5M234",
+        "matriculas": 7,
+        "capacidade": 10,
+        "local": "CTM 202 (CT) / CTM 202 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "ANTONIO AUGUSTO LISBOA DE SOUZA (15"
+        ],
+        "horario": "3M23 5M235",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTM 202 (CT) / CTM 202 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "35M23 6M2",
+        "matriculas": 12,
+        "capacidade": 13,
+        "local": "CTJ T01 (CT) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "35M23 6M3",
+        "matriculas": 11,
+        "capacidade": 13,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTJ T01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "35M23 6M4",
+        "matriculas": 13,
+        "capacidade": 13,
+        "local": "CTJ T01 (CT) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "35M23 6M5",
+        "matriculas": 10,
+        "capacidade": 13,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTJ T01 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23 5M2",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTD 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23 5M3",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTD 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23 5M4",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTD 105 (CT) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23 5M5",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTD 105 (CT) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "3M23 6M235",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "3M23 6M234",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23  6T2",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTM 201 (CT) / CTM LEAD [DEE/CEAR] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ("
+        ],
+        "horario": "36M23  6T3",
+        "matriculas": 11,
+        "capacidade": 12,
+        "local": "CTM LEAD [DEE/CEAR] (CT) / CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 12
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ANDRE NASCIMENTO DA SILVA (15h)\n\t\t"
+        ],
+        "horario": "3M23 6M235",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "ANDRE NASCIMENTO DA SILVA ",
+            "JOSE MAURICIO RAMOS DE SOU"
+        ],
+        "horario": "3M23 6M234",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ANDRE NASCIMENTO DA SILVA (15h)\n\t\t"
+        ],
+        "horario": "36M23  6T3",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ANDRE NASCIMENTO DA SILVA (15h)\n\t\t"
+        ],
+        "horario": "36M23  6T2",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01A",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ADEMAR VIRGOLINO DA SILVA NETTO (1"
+        ],
+        "horario": "3M23 6M234",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTM 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01B",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ADEMAR VIRGOLINO DA SILVA NETTO (1"
+        ],
+        "horario": "3M23 6M235",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "CTM 203 (CT) / CTS 102 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01C",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO ",
+            "JOSE MAURICIO RAMOS DE SOUZA NET"
+        ],
+        "horario": "36M23  6T2",
+        "matriculas": 9,
+        "capacidade": 12,
+        "local": "CTS 102 (CT) / CTM 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01D",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "ADEMAR VIRGOLINO DA SILVA NETTO (1"
+        ],
+        "horario": "36M23  6T3",
+        "matriculas": 9,
+        "capacidade": 12,
+        "local": "CTS 102 (CT) / CTM 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03A",
+        "docentes": [
+            "George Victor Rocha Xavier ",
+            "JOSE MAURICIO RAMOS DE SOUZ"
+        ],
+        "horario": "36M23  6T2",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03B",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO "
+        ],
+        "horario": "36M23  6T3",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03C",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO "
+        ],
+        "horario": "3M23 6M234",
+        "matriculas": 15,
+        "capacidade": 15,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "03D",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO "
+        ],
+        "horario": "3M23 6M235",
+        "matriculas": 10,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02A",
+        "docentes": [
+            "George Victor Rocha Xavier ",
+            "JOSE MAURICIO RAMOS DE SOUZ"
+        ],
+        "horario": "36M23  6T3",
+        "matriculas": 5,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02B",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "George Victor Rocha Xavier (15h)\n\t"
+        ],
+        "horario": "36M23  6T2",
+        "matriculas": 3,
+        "capacidade": 10,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02C",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO ",
+            "George Victor Rocha Xavier (15h)\n\t"
+        ],
+        "horario": "3M23 6M234",
+        "matriculas": 11,
+        "capacidade": 11,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02D",
+        "docentes": [
+            "George Victor Rocha Xavier ",
+            "JOSE MAURICIO RAMOS DE SOUZ"
+        ],
+        "horario": "3M23 6M235",
+        "matriculas": 10,
+        "capacidade": 11,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02A",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO "
+        ],
+        "horario": "2T45 4T456",
+        "matriculas": 21,
+        "capacidade": 21,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04A",
+        "docentes": [
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUES JUNIOR ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO (75h)\n\t"
+        ],
+        "horario": "2356T23",
+        "matriculas": 23,
+        "capacidade": 24,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04B",
+        "docentes": [
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUES JUNIOR ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO (60h)\n\t"
+        ],
+        "horario": "2356T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04C",
+        "docentes": [
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUES JUNIOR ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO (60h)\n\t"
+        ],
+        "horario": "2356T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "04D",
+        "docentes": [
+            "RAIMUNDO PEDRO DE PAIVA RODRIGUES JUNIOR ",
+            "JOSE MAURICIO RAMOS DE SOUZA NETO (60h)\n\t"
+        ],
+        "horario": "2356T23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "2T45 4T456",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTM 201 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE",
+            "JOSE MAURICIO RAMOS "
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 35,
+        "capacidade": 34,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 34
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "2T45 4T456",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTS 103 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 42,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT) / CTJ 202 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE",
+            "ADEMAR VIRGOLINO DA "
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ZARIFF MEIRA GOMES",
+            "CAMILA SEIBEL GEHR"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "3M23 6M123",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTS 101",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "JOSE MAURICIO RAMOS DE SOUZA NETO"
+        ],
+        "horario": "",
+        "matriculas": 23,
+        "capacidade": 50,
+        "local": "CTM 203",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "PROFESSOR SUBSTITUTO",
+            "CAMILA SEIBEL GEHRKE"
+        ],
+        "horario": "",
+        "matriculas": 52,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 55,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ROMERO LEANDRO ANDERSEN"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ROMERO LEANDRO ANDERSEN"
+        ],
+        "horario": "",
+        "matriculas": 49,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 50,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "02",
+        "docentes": [
+            "YURI PERCY MOLINA RODRIGUEZ"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTE 104",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 51,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "CARLOS ALBERTO DE SOUZA FILHO"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 38,
+        "capacidade": 50,
+        "local": "CTD 101",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO AUGUSTO LISBOA DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 19,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707001",
+        "nome": " CIRCUITOS LÓGICOS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

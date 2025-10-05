@@ -1,0 +1,611 @@
+[
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "6M2345",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 27,
+        "capacidade": 30,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO"
+        ],
+        "horario": "35T45",
+        "matriculas": 22,
+        "capacidade": 30,
+        "local": "CT-MULTI LAB. MÍDIA 02 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CTP  LABGRAPH 03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTM LPS [DEE/CEAR] (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "LPS (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "35M45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "LPS (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN",
+            "ADEMAR VIRGOLINO DA SIL"
+        ],
+        "horario": "46T123",
+        "matriculas": 23,
+        "capacidade": 23,
+        "local": "Moodle, sigaa e demais plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 16,
+        "capacidade": 20,
+        "local": "LPS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO"
+        ],
+        "horario": "36T23",
+        "matriculas": 19,
+        "capacidade": 20,
+        "local": "LPS (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 16
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 30,
+        "capacidade": 32,
+        "local": "LPS (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "02",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "35M45",
+        "matriculas": 28,
+        "capacidade": 27,
+        "local": "LPS (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 27
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "03",
+        "docentes": [
+            "ADEMAR VIRGOLINO DA SILVA NETTO"
+        ],
+        "horario": "25T45",
+        "matriculas": 18,
+        "capacidade": 25,
+        "local": "LPS (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 25
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "36T23",
+        "matriculas": 31,
+        "capacidade": 32,
+        "local": "LPS (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36T23",
+        "matriculas": 32,
+        "capacidade": 32,
+        "local": "LPS (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36T23",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "LPS (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "36T23",
+        "matriculas": 35,
+        "capacidade": 35,
+        "local": "LPS (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "36T23",
+        "matriculas": 32,
+        "capacidade": 32,
+        "local": "CTS 100 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "36T23",
+        "matriculas": 31,
+        "capacidade": 32,
+        "local": "CTS 102 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 32
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTS 102",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 27,
+        "capacidade": 50,
+        "local": "CTS 100",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 29,
+        "capacidade": 50,
+        "local": "CT",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTP LI3",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTP LI3",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 6,
+        "capacidade": 50,
+        "local": "CTP LI3",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTP LI3",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707012",
+        "nome": " TÉCNICAS DE PROGRAMAÇÃO ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "LABMAC",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

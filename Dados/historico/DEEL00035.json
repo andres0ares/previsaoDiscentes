@@ -1,0 +1,88 @@
+[
+    {
+        "codigo": "DEEL00035",
+        "nome": " INTEGRADORA III ",
+        "turma": "01",
+        "docentes": [
+            "CARLA ROSSANA DE ARAUJO TORRES NOGUEIRA",
+            "ROSANA ANDREA COELHO MERGULHAO (30h)\n\t\t"
+        ],
+        "horario": "35T45",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 103 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00035",
+        "nome": " INTEGRADORA III ",
+        "turma": "01",
+        "docentes": [
+            "CARLA ROSSANA DE ARAUJO TORRES NOGUEIRA",
+            "ROSANA ANDREA COELHO MERGULHAO (30h)\n\t\t"
+        ],
+        "horario": "35T45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CEAR 2.02 - Integradoras (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00035",
+        "nome": " INTEGRADORA III ",
+        "turma": "02",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "36T45",
+        "matriculas": 40,
+        "capacidade": 40,
+        "local": "CTK 201 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00035",
+        "nome": " INTEGRADORA III ",
+        "turma": "01",
+        "docentes": [
+            "EULER CASSIO TAVARES DE MACEDO"
+        ],
+        "horario": "4M45 6M23",
+        "matriculas": 40,
+        "capacidade": 70,
+        "local": "CTK 201 (CT) / CTM 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

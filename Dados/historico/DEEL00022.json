@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DEEL00022",
+        "nome": " CONTROLE I ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T123 4T23",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 104 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00022",
+        "nome": " CONTROLE I ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T123 4T23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CEAR 1.01 - Lab. Informática (CEAR)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00022",
+        "nome": " CONTROLE I ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T123 4T23",
+        "matriculas": 18,
+        "capacidade": 30,
+        "local": "CTP  LABGRAPH 03 (CT) / CTP  LABGRAPH 04 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00022",
+        "nome": " CONTROLE I ",
+        "turma": "01",
+        "docentes": [
+            "DARLAN ALEXANDRIA FERNANDES"
+        ],
+        "horario": "2T123 4T23",
+        "matriculas": 21,
+        "capacidade": 30,
+        "local": "CTM 201 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    }
+]

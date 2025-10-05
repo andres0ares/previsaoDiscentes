@@ -1,0 +1,558 @@
+[
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 0,
+        "capacidade": 20,
+        "local": "CTS 501 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTF 101 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "MARIA ROSEANE DE PONTES FERNANDES",
+            "GISELLY MARILAIDE GALDINO FARIAS "
+        ],
+        "horario": "24M45",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            },
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 3,
+        "capacidade": 20,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 5,
+        "capacidade": 20,
+        "local": "CTJ T03 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 1,
+        "capacidade": 20,
+        "local": "CTJ 101 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 6,
+        "capacidade": 20,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 18,
+        "local": "CTJ T02 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 4,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M23",
+        "matriculas": 11,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 5
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "02",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35M45",
+        "matriculas": 7,
+        "capacidade": 15,
+        "local": "Remoto",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 15
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 15,
+        "capacidade": 30,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 6,
+        "capacidade": 30,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 8,
+        "capacidade": 30,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 20,
+        "capacidade": 30,
+        "local": "CTJ T07 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 13,
+        "capacidade": 30,
+        "local": "CTJ 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 10,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "CARINA GABRIELA DE MELO E MELO"
+        ],
+        "horario": "35T23",
+        "matriculas": 4,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 30,
+        "local": "CTK 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "35T23",
+        "matriculas": 11,
+        "capacidade": 30,
+        "local": "CTK 201",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 30
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 15,
+        "capacidade": 50,
+        "local": "CTK 201",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTN 104",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTN 103",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 1,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 103",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1708029",
+        "nome": " MATERIAIS DA INDÚSTRIA DO PETRÓLEO ",
+        "turma": "01",
+        "docentes": [
+            "LISZANDRA FERNANDA ARAUJO CAMPOS"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "CTJ 104",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

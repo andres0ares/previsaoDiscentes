@@ -1,0 +1,567 @@
+[
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "24M23",
+        "matriculas": 39,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 30,
+        "capacidade": 40,
+        "local": "CTJ 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 24,
+        "capacidade": 40,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 31,
+        "capacidade": 40,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 40,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DA COMPUTAÇÃO - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 30,
+        "capacidade": 30,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "02",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "36M23",
+        "matriculas": 12,
+        "capacidade": 12,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES",
+            "RAVI BARRETO DORIA FIGUEIREDO "
+        ],
+        "horario": "36M23",
+        "matriculas": 22,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAVI BARRETO DORIA FIGUEIREDO"
+        ],
+        "horario": "36M23",
+        "matriculas": 29,
+        "capacidade": 40,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "02",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "36M23",
+        "matriculas": 24,
+        "capacidade": 50,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 47,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 31,
+        "capacidade": 31,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 31
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "3T45 5T23",
+        "matriculas": 21,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "WASLON TERLLIZZIE ARAUJO LOPES"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO",
+            "ROGERIO GASPAR DE ALMEI"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 22,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 17,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "RAFAEL DE SOUSA MARINHO"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "JUAN MOISES MAURICIO VILLANUEVA"
+        ],
+        "horario": "",
+        "matriculas": 14,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA RIBEIRO VELOSO"
+        ],
+        "horario": "",
+        "matriculas": 5,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "LUCIANA RIBEIRO VELOSO"
+        ],
+        "horario": "",
+        "matriculas": 4,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "02",
+        "docentes": [
+            "A DEFINIR\n\t\t\t\t\t\t\t\t\n\t\t\t\t"
+        ],
+        "horario": "",
+        "matriculas": 0,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707014",
+        "nome": " ANÁLISE DE SINAIS E SISTEMAS ",
+        "turma": "01",
+        "docentes": [
+            "ISAAC SOARES DE FREITAS"
+        ],
+        "horario": "",
+        "matriculas": 3,
+        "capacidade": 50,
+        "local": "LABMAC",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

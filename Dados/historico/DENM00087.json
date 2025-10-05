@@ -1,0 +1,78 @@
+[
+    {
+        "codigo": "DENM00087",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (05/12/2023 - 10/05/2024)",
+        "matriculas": 14,
+        "capacidade": 20,
+        "local": "CTE 104 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00087",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (12/07/2023 - 10/11/2023)",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTB 105 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00087",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (08/02/2023 - 16/06/2023)",
+        "matriculas": 8,
+        "capacidade": 20,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    },
+    {
+        "codigo": "DENM00087",
+        "nome": " UNIDADE CURRICULAR DE EXTENSÃO (UCE) EM ENGENHARIA III ",
+        "turma": "01",
+        "docentes": [
+            "ANTONIO FARIAS LEAL"
+        ],
+        "horario": "6M2345 (15/08/2022 - 17/12/2022)",
+        "matriculas": 10,
+        "capacidade": 20,
+        "local": "CTA 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA DE MATERIAIS - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

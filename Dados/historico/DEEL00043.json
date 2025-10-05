@@ -1,0 +1,64 @@
+[
+    {
+        "codigo": "DEEL00043",
+        "nome": " PROFISSIONAL III ",
+        "turma": "01",
+        "docentes": [
+            "OSWALDO HIDEO ANDO JUNIOR"
+        ],
+        "horario": "35T23",
+        "matriculas": 0,
+        "capacidade": 24,
+        "local": "CTS 108 [Sala Provisória] (CT)",
+        "periodo": "2025.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 24
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00043",
+        "nome": " PROFISSIONAL III ",
+        "turma": "02",
+        "docentes": [
+            "OSWALDO HIDEO ANDO JUNIOR",
+            "CAMILA SEIBEL GEHRKE (15h"
+        ],
+        "horario": "35T23",
+        "matriculas": 17,
+        "capacidade": 40,
+        "local": "CTM 201 (CT)",
+        "periodo": "2025.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "DEEL00043",
+        "nome": " PROFISSIONAL III ",
+        "turma": "01",
+        "docentes": [
+            "MARIANA RODRIGUES VILLARIM"
+        ],
+        "horario": "24M45",
+        "matriculas": 11,
+        "capacidade": 20,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 20
+            }
+        ]
+    }
+]

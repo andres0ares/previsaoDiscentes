@@ -1,0 +1,578 @@
+[
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES"
+        ],
+        "horario": "3T23 5T123",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTM 202 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES",
+            "ITALO ANDRE CAVALCANTI"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 44,
+        "capacidade": 45,
+        "local": "CTJ 105 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "FELIPE VIGOLVINO LOPES",
+            "ITALO ANDRE CAVALCANTI"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 32,
+        "capacidade": 40,
+        "local": "CTK 201 (CT) / CTJ 202 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA",
+            "FELIPE VIGOLVINO LOPES (60h)\n\t\t\t\t\t"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 52,
+        "capacidade": 54,
+        "local": "CTM 205 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ITALO ANDRE CAVALCANTI DE OLIVEIRA"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 44,
+        "capacidade": 44,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 29,
+        "capacidade": 30,
+        "local": "CTM 205 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 23
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "SIMPLICIO ARNAUD DA SILVA",
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 37,
+        "capacidade": 43,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 43
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 43
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO",
+            "SIMPLICIO ARNAUD DA SILVA"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 43,
+        "capacidade": 43,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "02",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 17,
+        "capacidade": 17,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 33,
+        "capacidade": 60,
+        "local": "CTM 205 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 36,
+        "capacidade": 60,
+        "local": "CTM 203 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "02",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "3T45 5T123",
+        "matriculas": 47,
+        "capacidade": 60,
+        "local": "CTM 203 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 50,
+        "capacidade": 60,
+        "local": "CTM 201 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 60
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 65,
+        "capacidade": 66,
+        "local": "CTM 201 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 66
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 64,
+        "capacidade": 61,
+        "local": "CTM 205 (CT) / CTM 201 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 59,
+        "capacidade": 60,
+        "local": "CTM 201 (CT) / CTM 205 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 55
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 60,
+        "capacidade": 60,
+        "local": "CTM 205 (CT) / CTM 201 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 56
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "2M23  6T123",
+        "matriculas": 51,
+        "capacidade": 56,
+        "local": "CTM 205 (CT) / CTM 201 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 56
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 57,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 58,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 56,
+        "capacidade": 50,
+        "local": "CTM 205",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 54,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 21,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 20,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 9,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 7,
+        "capacidade": 50,
+        "local": "CTM 102",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707499",
+        "nome": " CIRCUITOS ELÉTRICOS I ",
+        "turma": "01",
+        "docentes": [
+            "ALEXANDRE CEZAR DE CASTRO"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]

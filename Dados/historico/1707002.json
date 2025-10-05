@@ -1,0 +1,596 @@
+[
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M23 5M123",
+        "matriculas": 28,
+        "capacidade": 40,
+        "local": "CTM 205 (CT)",
+        "periodo": "2024.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 42,
+        "capacidade": 45,
+        "local": "CTJ 103 (CT)",
+        "periodo": "2023.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 49,
+        "capacidade": 49,
+        "local": "CTJ T01 (CT)",
+        "periodo": "2023.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 40,
+        "capacidade": 41,
+        "local": "CTM 201 (CT)",
+        "periodo": "2022.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 26,
+        "capacidade": 40,
+        "local": "CTJ 107 (CT)",
+        "periodo": "2022.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 34,
+        "capacidade": 35,
+        "local": "CTJ 203 (CT)",
+        "periodo": "2021.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 18
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 37,
+        "capacidade": 40,
+        "local": "Plataformas digitais",
+        "periodo": "2021.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 40,
+        "capacidade": 42,
+        "local": "Plataformas digitais",
+        "periodo": "2020.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "02",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3T123 6T23",
+        "matriculas": 22,
+        "capacidade": 23,
+        "local": "Plataformas digitais",
+        "periodo": "2020.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 10
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "35T1234",
+        "matriculas": 1,
+        "capacidade": 1,
+        "local": "Plataformas digitais",
+        "periodo": "2019.4",
+        "vagas": [
+            {
+                "curso": "Não há reservas para esta turma",
+                "vagas": null
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 23,
+        "capacidade": 40,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2019.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 40
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 31,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2019.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "02",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "3M456 5M45",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2018.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2017.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 36,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2017.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN",
+            "ADEMAR VIRGOLINO DA SIL"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 33,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            },
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 37,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2016.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "5M45  2T456",
+        "matriculas": 41,
+        "capacidade": 50,
+        "local": "CTJ 202 (CT)",
+        "periodo": "2015.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 50
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 44,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2015.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 30,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 39,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2014.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 35,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 28,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2013.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 45,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "LUCAS VINICIUS HARTMANN"
+        ],
+        "horario": "",
+        "matriculas": 32,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2012.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 18,
+        "capacidade": 50,
+        "local": "CTJ 202",
+        "periodo": "2011.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 25,
+        "capacidade": 50,
+        "local": "CTJ 203",
+        "periodo": "2011.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 10,
+        "capacidade": 50,
+        "local": "CTB 107",
+        "periodo": "2010.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 8,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2010.1",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    },
+    {
+        "codigo": "1707002",
+        "nome": " ARQUITETURA DE SISTEMAS DIGITAIS ",
+        "turma": "01",
+        "docentes": [
+            "CLEONILSON PROTASIO DE SOUZA"
+        ],
+        "horario": "",
+        "matriculas": 2,
+        "capacidade": 50,
+        "local": "UFPB",
+        "periodo": "2009.2",
+        "vagas": [
+            {
+                "curso": "ENGENHARIA ELÉTRICA - João Pessoa - Presencial - MT - BACHARELADO",
+                "vagas": 0
+            }
+        ]
+    }
+]
